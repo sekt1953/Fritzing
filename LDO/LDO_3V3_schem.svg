@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.40993825in"
+   height="0.25362498in"
+   viewBox="0 0 29.515553 18.260998"
+   id="svg3"
+   sodipodi:docname="LDO_3V3_schem.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showguides="false"
+     inkscape:zoom="13.541666"
+     inkscape:cx="8.6400003"
+     inkscape:cy="15.876924"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <g
+     partID="11885120"
+     id="g3"
+     transform="translate(7.5599996)">
+    <g
+       id="schematic">
+      <rect
+         style="fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.269485;stroke-linecap:round"
+         id="rect3"
+         width="14.4"
+         height="10.799999"
+         x="0"
+         y="1.3877788e-17" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.879837;stroke-linecap:round"
+         id="rect4"
+         width="13.679999"
+         height="10.08"
+         x="0.35999998"
+         y="0.35999998" />
+      <g
+         id="pin1">
+        <text
+           fill="#8c8c8c"
+           x="-1.358227"
+           y="2.504668"
+           font-family="'Droid Sans'"
+           font-size="2.5px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text1">1</text>
+        <text
+           fill="#8c8c8c"
+           x="2.8456049"
+           y="4.4923344"
+           font-family="'Droid Sans'"
+           font-size="2.66667px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text1-3">VIN</text>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="connector0terminal"
+           width="0.71999997"
+           height="0.71999997"
+           x="-7.5599995"
+           y="3.2300005" />
+        <line
+           x2="-0.088999473"
+           y1="3.6000004"
+           fill="none"
+           x1="-7.2099996"
+           id="connector0pin"
+           stroke-linecap="round"
+           y2="3.6000004"
+           stroke-width="0.7"
+           stroke="#000000"
+           stroke-linejoin="round" />
+      </g>
+      <g
+         id="pin2">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="connector1terminal"
+           width="0.71999997"
+           height="0.71999997"
+           x="21.24"
+           y="3.2395" />
+        <line
+           x2="21.603346"
+           y1="3.5994999"
+           fill="none"
+           x1="14.392207"
+           id="connector1pin"
+           stroke-linecap="round"
+           y2="3.5994999"
+           stroke-width="0.704416"
+           stroke="#000000"
+           stroke-linejoin="round" />
+        <text
+           fill="#8c8c8c"
+           x="10.762449"
+           y="4.1997671"
+           font-family="'Droid Sans'"
+           font-size="2.66667px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text1-3-6-7">+3V3</text>
+        <text
+           fill="#8c8c8c"
+           x="15.784349"
+           y="2.9005654"
+           font-family="'Droid Sans'"
+           font-size="2.5px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text2">2</text>
+      </g>
+      <g
+         id="pin3">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="connector2terminal"
+           width="0.71999997"
+           height="0.71999997"
+           x="6.8499994"
+           y="17.540997" />
+        <line
+           x2="7.1999993"
+           y1="10.79"
+           fill="none"
+           x1="7.1999993"
+           id="connector2pin"
+           stroke-linecap="round"
+           y2="17.910997"
+           stroke-width="0.7"
+           stroke="#000000"
+           stroke-linejoin="round" />
+        <text
+           fill="#8c8c8c"
+           x="5.7075167"
+           y="13.335598"
+           font-family="'Droid Sans'"
+           font-size="2.5px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text3">3</text>
+        <text
+           fill="#8c8c8c"
+           x="7.1999998"
+           y="10.07018"
+           font-family="'Droid Sans'"
+           font-size="2.66667px"
+           class="text"
+           stroke-width="0"
+           stroke="none"
+           text-anchor="middle"
+           id="text1-3-6">GND</text>
+      </g>
+    </g>
+  </g>
+</svg>

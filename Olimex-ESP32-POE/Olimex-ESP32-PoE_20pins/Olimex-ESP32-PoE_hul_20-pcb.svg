@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.116997mm"
+   height="28.060251mm"
+   viewBox="0 0 92.116998 28.060252"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="Olimex-ESP32-PoE_hul_20-pcb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="2.7794613"
+     inkscape:cx="141.03453"
+     inkscape:cy="65.480316"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="silkscreen"
+     showgrid="true"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-128.34719"
+       originy="-150.98656"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0023e5"
+       empopacity="1"
+       color="#00993e"
+       opacity="1"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="false" />
+    <inkscape:grid
+       id="grid5"
+       units="in"
+       originx="113.61258"
+       originy="4.8755951"
+       spacingx="0.63500001"
+       spacingy="0.63500001"
+       empcolor="#001ce5"
+       empopacity="1"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="80.122635"
+       y="-38.385403"
+       width="17.402966"
+       height="12.189381"
+       id="rect7" />
+  </defs>
+  <g
+     inkscape:label="silkscreen"
+     inkscape:groupmode="layer"
+     id="silkscreen"
+     transform="translate(-33.958529,-39.948528)">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect2"
+       width="80"
+       height="28"
+       x="39.948528"
+       y="39.948528" />
+    <ellipse
+       style="display:none;fill:none;fill-opacity:0.36394;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="path2"
+       cx="75.448524"
+       cy="53.448528"
+       rx="0.49999923"
+       ry="0.49999934" />
+    <rect
+       style="display:none;fill:#008080;fill-opacity:0.998513;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="LAN"
+       width="21"
+       height="16"
+       x="33.95853"
+       y="49.707531" />
+    <g
+       id="ESP32"
+       style="display:none">
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+         id="rect5"
+         width="26"
+         height="18"
+         x="99.948524"
+         y="44.938526"
+         transform="translate(-1.1176566e-6)" />
+      <rect
+         style="fill:#ececec;fill-opacity:0.582682;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+         id="rect6"
+         width="18.837427"
+         height="17.09841"
+         x="100.31981"
+         y="45.438766" />
+    </g>
+    <g
+       id="g10"
+       style="display:inline">
+      <rect
+         style="display:none;fill:#414141;fill-opacity:0.5;stroke:#414141;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect4"
+         width="80"
+         height="28"
+         x="39.948528"
+         y="39.948528" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#414141;stroke-width:0.25400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect8"
+         width="79.501999"
+         height="27.4828"
+         x="40.20253"
+         y="40.207127" />
+      <rect
+         style="fill:none;fill-opacity:0.6;stroke:#414141;stroke-width:0.254;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect9"
+         width="20.999998"
+         height="15.999998"
+         x="34.085529"
+         y="49.83453" />
+      <rect
+         style="fill:none;fill-opacity:0.6;stroke:#414141;stroke-width:0.254;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect10"
+         width="26"
+         height="18"
+         x="99.948524"
+         y="44.938526" />
+    </g>
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:0.310118;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect3"
+       width="22.860001"
+       height="25.4"
+       x="64.018524"
+       y="41.238529"
+       transform="translate(-1.3057637e-6)"
+       sodipodi:insensitive="true" />
+    <g
+       id="HUL_22"
+       transform="translate(-1.3057637e-6)">
+      <g
+         id="g7">
+        <circle
+           style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-7"
+           cx="42.585529"
+           cy="47.33453"
+           r="2.5" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3-4"
+           cx="42.585529"
+           cy="47.33453"
+           r="1.1" />
+      </g>
+      <g
+         id="g6">
+        <circle
+           style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1"
+           cx="92.623528"
+           cy="42.50853"
+           r="2.5" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3"
+           cx="92.623528"
+           cy="42.50853"
+           r="1.1" />
+      </g>
+      <g
+         id="g4">
+        <circle
+           style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-2"
+           cx="92.623528"
+           cy="65.36853"
+           r="2.5" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3-1"
+           cx="92.623528"
+           cy="65.36853"
+           r="1.1" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="copper1"
+     transform="translate(-33.95853,-39.948528)">
+    <g
+       id="copper0">
+      <g
+         id="g5-4"
+         inkscape:label="EXT2"
+         transform="translate(1.1633998e-7,25.890349)">
+        <g
+           id="EXT2-1"
+           transform="matrix(0.06719577,0,0,0.06719577,62.755243,11.518368)">
+          <g
+             id="g11"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.3408113e-4,-1.6493323e-5)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector19pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-69"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-2"
+           transform="matrix(0.06719577,0,0,0.06719577,60.215242,11.518368)">
+          <g
+             id="g11-5"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.9493253e-4,-0.01004531)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector18pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-54"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-3"
+           transform="matrix(0.06719577,0,0,0.06719577,57.675242,11.518368)">
+          <g
+             id="g11-3"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.9048419e-4,-0.01005266)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector17pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-7"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-4"
+           transform="matrix(0.06719577,0,0,0.06719577,55.135242,11.518368)">
+          <g
+             id="g11-1"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(0.37834356,0.74593892)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector16pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-2"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-5"
+           transform="matrix(0.06719577,0,0,0.06719577,52.595243,11.518368)">
+          <g
+             id="g11-9"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.7461633e-4,0.00517707)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector15pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-0"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-6"
+           transform="matrix(0.06719577,0,0,0.06719577,50.055242,11.518369)">
+          <g
+             id="g11-6"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.8900523e-4,-0.01006754)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector14pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-92"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-7"
+           transform="matrix(0.06719577,0,0,0.06719577,47.515243,11.518369)">
+          <g
+             id="g11-8"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.7363035e-4,-0.01006754)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector13pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-314"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-8"
+           transform="matrix(0.06719577,0,0,0.06719577,32.194386,11.524616)">
+          <g
+             id="g11-61"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(190.20347,-0.1030347)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector12pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-15"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-9"
+           transform="matrix(0.06719577,0,0,0.06719577,24.623191,11.547229)">
+          <g
+             id="g11-0"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(265.07716,-0.43955886)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector11pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-17"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT2-10"
+           transform="matrix(0.06719577,0,0,0.06719577,40.041849,7.5380095)">
+          <g
+             id="g12"
+             transform="translate(-341.62576,59.245303)">
+            <circle
+               cx="435.40424"
+               cy="-699.20038"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector10pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)"
+               style="fill-opacity:1" />
+            <path
+               d="m 699.19512,454.63073 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-67"
+               gorn="0.4.0.1"
+               style="fill-opacity:1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g5"
+         inkscape:label="EXT1"
+         transform="translate(1.1633998e-7,0.49034824)"
+         sodipodi:insensitive="true">
+        <g
+           id="EXT1-1"
+           transform="matrix(0.06719577,0,0,0.06719577,62.755243,11.518368)"
+           style="fill:#999999;fill-opacity:1">
+          <circle
+             cx="435.41431"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector0pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)" />
+          <path
+             d="m 358.99514,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423"
+             gorn="0.4.0.1" />
+        </g>
+        <g
+           id="EXT1-2"
+           transform="matrix(0.06719577,0,0,0.06719577,60.215242,11.518368)">
+          <circle
+             cx="435.40427"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector1pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99515,454.63075 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-1"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-3"
+           transform="matrix(0.06719577,0,0,0.06719577,57.675242,11.518368)">
+          <circle
+             cx="435.40427"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector2pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99515,454.63077 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-6"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-4"
+           transform="matrix(0.06719577,0,0,0.06719577,55.135242,11.518368)">
+          <circle
+             cx="435.40427"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector3pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99515,454.63077 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-18"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-5"
+           transform="matrix(0.06719577,0,0,0.06719577,52.595243,11.518368)">
+          <circle
+             cx="435.41946"
+             cy="-359"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector4pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99475,454.64596 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-3"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-6"
+           transform="matrix(0.06719577,0,0,0.06719577,50.055242,11.518369)">
+          <circle
+             cx="435.41946"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector5pin"
+             gorn="0.4.0.0"
+             style="fill-opacity:1"
+             transform="rotate(90)" />
+          <path
+             d="m 358.99515,454.64595 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-9"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-7"
+           transform="matrix(0.06719577,0,0,0.06719577,47.515243,11.518369)">
+          <circle
+             cx="435.40424"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector6pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99513,454.63074 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 V 425.1618 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-31"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-8"
+           transform="matrix(0.06719577,0,0,0.06719577,44.975243,11.518369)">
+          <circle
+             cx="435.40424"
+             cy="-359.0004"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector7pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 358.99513,454.63074 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 V 425.1618 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-5"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+        <g
+           id="EXT1-9"
+           transform="matrix(0.06719577,0,0,0.06719577,42.435243,11.518369)">
+          <g
+             id="g11-10"
+             style="fill:#999999;fill-opacity:1"
+             transform="translate(1.4903724e-4)">
+            <circle
+               cx="435.41431"
+               cy="-359.00021"
+               stroke-width="2.64599"
+               stroke="#f7bd13"
+               fill="none"
+               r="8.5049725"
+               id="connector8pin"
+               gorn="0.4.0.0"
+               transform="rotate(90)" />
+            <path
+               d="m 358.99496,454.6408 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 v -19.64596 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+               stroke-width="3.77807"
+               stroke="none"
+               fill="#f7bd13"
+               id="path423-32"
+               gorn="0.4.0.1" />
+          </g>
+        </g>
+        <g
+           id="EXT1-10"
+           transform="matrix(0.06719577,0,0,0.06719577,39.895243,11.518369)">
+          <circle
+             cx="435.40424"
+             cy="-359.75638"
+             stroke-width="2.64599"
+             stroke="#f7bd13"
+             fill="none"
+             r="8.5049725"
+             id="connector9pin"
+             gorn="0.4.0.0"
+             transform="rotate(90)"
+             style="fill-opacity:1" />
+          <path
+             d="m 359.75113,454.63074 a 9.8229803,9.8229803 0 0 1 -9.82314,-9.82298 V 425.1618 a 9.8229803,9.8229803 0 0 1 9.82314,-9.82298 v 0 a 9.8229803,9.8229803 0 0 1 9.82313,9.82298 v 19.64596 a 9.8229803,9.8229803 0 0 1 -9.82313,9.82298 z m 6.02493,-19.93151 a 6.0452502,6.0452502 0 1 0 -12.0905,0 6.0452502,6.0452502 0 1 0 12.0905,0 z"
+             stroke-width="3.77807"
+             stroke="none"
+             fill="#f7bd13"
+             id="path423-4"
+             gorn="0.4.0.1"
+             style="fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

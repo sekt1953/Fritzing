@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.6 23.76" id="svg1" height="0.33in" gorn="0" version="1.2" width="0.8in" x="0in"  y="0in">
+    <desc >
+        <referenceFile >PCF8574N_bb.svg</referenceFile>
+    </desc>
+    <defs id="defs1" />
+    <g id="g1" gorn="0.2"  partID="10857250">
+        <g id="breadboard" gorn="0.2.0" >
+            <g id="pin1" gorn="0.2.0.0" >
+                <rect id="rect3760" height="4.811" gorn="0.2.0.0.0" width="2.16" x="2.52"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3800" points="2.52,20.636,2.52,22.074,4.68,22.074,6.12,21.412,6.12,20.636" gorn="0.2.0.0.1"  fill="#8C8C8C"/>
+                <rect id="connector0pin" height="3.1248" style="fill:none;fill-opacity:1" gorn="0.2.0.0.2" width="2.1600001" x="2.52"  fill="#8c8c8c" y="20.5116"/>
+                <rect id="connector0terminal" height="2.1600001" style="fill:none;fill-opacity:1" gorn="0.2.0.0.3" width="2.1600001" x="2.52"  fill="#8c8c8c" y="21.4764"/>
+            </g>
+            <g id="pin2" gorn="0.2.0.1" >
+                <rect id="connector1pin" height="4.811" gorn="0.2.0.1.0" width="2.16" x="9.72"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3806" points="8.28,20.636,8.28,21.412,9.72,22.074,11.88,22.074,13.32,21.412,13.32,20.636" gorn="0.2.0.1.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin3" gorn="0.2.0.2" >
+                <rect id="connector2pin" height="4.811" gorn="0.2.0.2.0" width="2.159" x="16.92"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3810" points="15.48,20.636,15.48,21.412,16.92,22.074,19.079,22.074,20.52,21.412,20.52,20.636" gorn="0.2.0.2.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin4" gorn="0.2.0.3" >
+                <rect id="connector3pin" height="4.811" gorn="0.2.0.3.0" width="2.16" x="24.119"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3814" points="22.68,20.636,22.68,21.412,24.119,22.074,26.28,22.074,27.72,21.412,27.72,20.636" gorn="0.2.0.3.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin5" gorn="0.2.0.4" >
+                <rect id="connector4pin" height="4.811" gorn="0.2.0.4.0" width="2.16" x="31.319"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3818" points="29.879,20.636,29.879,21.412,31.319,22.074,33.479,22.074,34.919,21.412,34.919,20.636" gorn="0.2.0.4.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin6" gorn="0.2.0.5" >
+                <rect id="connector5pin" height="4.811" gorn="0.2.0.5.0" width="2.159" x="38.521"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3822" points="37.079,20.636,37.079,21.412,38.521,22.074,40.68,22.074,42.119,21.412,42.119,20.636" gorn="0.2.0.5.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin7" gorn="0.2.0.6" >
+                <rect id="connector6pin" height="4.811" gorn="0.2.0.6.0" width="2.16" x="45.719"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3826" points="44.28,20.636,44.28,21.412,45.719,22.074,47.879,22.074,49.319,21.412,49.319,20.636" gorn="0.2.0.6.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin8" gorn="0.2.0.7" >
+                <rect id="connector7pin" height="4.811" gorn="0.2.0.7.0" width="2.16" x="52.919"  fill="#8C8C8C" y="18.949"/>
+                <polygon id="polygon3802" points="51.478,20.636,51.478,21.412,52.919,22.074,55.079,22.074,55.079,20.636" gorn="0.2.0.7.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin9" gorn="0.2.0.8" >
+                <rect id="connector8pin" height="4.81" gorn="0.2.0.8.0" width="2.16" x="52.919"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3798" points="55.079,3.125,55.079,1.685,52.919,1.685,51.478,2.347,51.478,3.125" gorn="0.2.0.8.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin10" gorn="0.2.0.9" >
+                <rect id="connector9pin" height="4.81" gorn="0.2.0.9.0" width="2.16" x="45.719"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3824" points="49.319,3.125,49.319,2.347,47.879,1.685,45.719,1.685,44.28,2.347,44.28,3.125" gorn="0.2.0.9.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin11" gorn="0.2.0.10" >
+                <rect id="connector10pin" height="4.81" gorn="0.2.0.10.0" width="2.159" x="38.521"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3820" points="42.119,3.125,42.119,2.347,40.68,1.685,38.521,1.685,37.079,2.347,37.079,3.125" gorn="0.2.0.10.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin12" gorn="0.2.0.11" >
+                <rect id="connector11pin" height="4.81" gorn="0.2.0.11.0" width="2.16" x="31.319"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3816" points="34.919,3.125,34.919,2.347,33.479,1.685,31.319,1.685,29.879,2.347,29.879,3.125" gorn="0.2.0.11.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin13" gorn="0.2.0.12" >
+                <rect id="connector12pin" height="4.81" gorn="0.2.0.12.0" width="2.16" x="24.119"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3812" points="27.72,3.125,27.72,2.347,26.28,1.685,24.119,1.685,22.68,2.347,22.68,3.125" gorn="0.2.0.12.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin14" gorn="0.2.0.13" >
+                <rect id="connector13pin" height="4.81" gorn="0.2.0.13.0" width="2.159" x="16.92"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3808" points="20.52,3.125,20.52,2.347,19.079,1.685,16.92,1.685,15.48,2.347,15.48,3.125" gorn="0.2.0.13.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin15" gorn="0.2.0.14" >
+                <rect id="connector14pin" height="4.81" gorn="0.2.0.14.0" width="2.16" x="9.72"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3804" points="13.32,3.125,13.32,2.347,11.88,1.685,9.72,1.685,8.28,2.347,8.28,3.125" gorn="0.2.0.14.1"  fill="#8C8C8C"/>
+            </g>
+            <g id="pin16" gorn="0.2.0.15" >
+                <rect id="connector15pin" height="4.81" gorn="0.2.0.15.0" width="2.16" x="2.52"  fill="#8C8C8C" y="0"/>
+                <polygon id="polygon3796" points="6.12,3.125,6.12,2.347,4.68,1.685,2.52,1.685,2.52,3.125" gorn="0.2.0.15.1"  fill="#8C8C8C"/>
+            </g>
+            <polygon id="polygon3792" points="0,2.16,57.6,2.16,57.059,8.281,0,8.281" gorn="0.2.0.16"  fill="#3D3D3D"/>
+            <polygon id="polygon3794" points="0,15.479,57.059,15.479,57.6,21.601,0,21.601" gorn="0.2.0.17" />
+            <polygon id="polygon3828" points="57.6,2.16,57.059,3.931,56.053,3.931,56.053,19.821,57.059,19.828,57.6,21.601" gorn="0.2.0.18"  fill="#141414"/>
+            <polygon id="polygon3830" points="0,2.16,0.54,3.931,0.54,8.281,3.6,8.281,3.6,15.479,0.54,15.479,0.54,19.828,0,21.601" gorn="0.2.0.19"  fill="#1F1F1F"/>
+            <polygon id="polygon3832" points="3.6,8.281,0.54,8.281,0.403,9.792,0.403,11.88,3.6,11.88" gorn="0.2.0.20"  fill="#1C1C1C"/>
+            <polygon id="polygon3834" points="0.54,15.479,3.6,15.479,3.6,11.88,0.403,11.88,0.403,13.968" gorn="0.2.0.21"  fill="#383838"/>
+            <path id="path3836" d="m 0.57049814,4.5923018 v 4.32 c 1.71299996,0.324 3.01699996,1.8220002 3.01699996,3.6290002 0,1.807 -1.296,3.313 -3.01699996,3.637 v 4.319 H 57.089498 V 4.5923018 Z" gorn="0.2.0.22"  fill="#303030"/>
+            <path id="path3838" d="M0.403,9.792l0,4.196c1.059,-0.121,1.887,-1.008,1.887,-2.102C2.29,10.8,1.469,9.9,0.403,9.792z" gorn="0.2.0.23"  fill="#262626"/>
+            <circle id="circle3840" r="1.483" style="fill:#161616;fill-opacity:1" cx="4.68" gorn="0.2.0.24" cy="16.898"  fill="#212121"/>
+            <text stroke="none" id="label" font-family="OCRA" style="stroke-width:1.00799998;stroke-dasharray:none" gorn="0.2.0.25" x="3.4889009" text-anchor="start"  fill="#e6e6e6" y="11.464802" font-size="4.608">PCF8574N</text>
+            <text stroke="none" id="text1" font-family="OCRA" style="stroke-width:1.008;stroke-dasharray:none" gorn="0.2.0.26" x="48.116604" text-anchor="start"  fill="#e6e6e6" y="19.732681" font-size="0.48">sekt@gmail.com</text>
+        </g>
+    </g>
+</svg>

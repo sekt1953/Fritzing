@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.442861in' height='0.409722in' viewBox='0 0 31.886 29.5' >
+<g partID='10863860'><g id="schematic">
+<line y1="7.91002" y2="21.9501" x1="11.582" stroke-width="0.719998" stroke="#000000" class="other" x2="11.582" stroke-linecap="round"/>
+<line y1="9.35003" y2="9.35003" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="16.2619" stroke-linecap="round"/>
+<line y1="14.75" y2="20.1501" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="20.1501" y2="20.1501" x1="16.1899" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="7.55002" y2="9.35003" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="9.35003" y2="9.35003" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="29.15" stroke-linecap="round"/>
+<line y1="20.1501" y2="20.1501" x1="29.15" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="20.1501" y2="21.9501" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="20.1501" y2="16.9101" x1="29.15" stroke-width="0.431999" stroke="#000000" class="other" x2="29.15" stroke-linecap="round"/>
+<line y1="16.9101" y2="9.35003" x1="29.15" stroke-width="0.431999" stroke="#000000" class="other" x2="29.15" stroke-linecap="round"/>
+<line y1="16.9101" y2="12.95" x1="29.15" stroke-width="0.431999" stroke="#000000" class="other" x2="30.95" stroke-linecap="round"/>
+<line y1="12.95" y2="12.95" x1="30.95" stroke-width="0.431999" stroke="#000000" class="other" x2="27.3499" stroke-linecap="round"/>
+<line y1="12.95" y2="16.9101" x1="27.3499" stroke-width="0.431999" stroke="#000000" class="other" x2="29.15" stroke-linecap="round"/>
+<line y1="16.9101" y2="16.9101" x1="30.95" stroke-width="0.431999" stroke="#000000" class="other" x2="29.15" stroke-linecap="round"/>
+<line y1="16.9101" y2="16.9101" x1="29.15" stroke-width="0.431999" stroke="#000000" class="other" x2="27.3499" stroke-linecap="round"/>
+<line y1="16.9101" y2="17.6301" x1="27.3499" stroke-width="0.431999" stroke="#000000" class="other" x2="26.6299" stroke-linecap="round"/>
+<line y1="16.9101" y2="16.1901" x1="30.95" stroke-width="0.431999" stroke="#000000" class="other" x2="31.67" stroke-linecap="round"/>
+<line y1="14.75" y2="13.31" x1="21.9499" stroke-width="0.431999" stroke="#000000" class="other" x2="18.3499" stroke-linecap="round"/>
+<line y1="13.31" y2="16.1901" x1="18.3499" stroke-width="0.431999" stroke="#000000" class="other" x2="18.3499" stroke-linecap="round"/>
+<line y1="16.1901" y2="14.75" x1="18.3499" stroke-width="0.431999" stroke="#000000" class="other" x2="21.9499" stroke-linecap="round"/>
+<line y1="14.75" y2="14.75" x1="18.7099" stroke-width="0.431999" stroke="#000000" class="other" x2="16.1899" stroke-linecap="round"/>
+<line y1="15.4701" y2="14.75" x1="18.7099" stroke-width="0.863998" stroke="#000000" class="other" x2="21.2299" stroke-linecap="round"/>
+<line y1="14.75" y2="14.03" x1="21.2299" stroke-width="0.863998" stroke="#000000" class="other" x2="18.7099" stroke-linecap="round"/>
+<line y1="14.03" y2="14.75" x1="18.7099" stroke-width="0.863998" stroke="#000000" class="other" x2="18.7099" stroke-linecap="round"/>
+<line y1="14.75" y2="14.75" x1="18.7099" stroke-width="0.863998" stroke="#000000" class="other" x2="19.4299" stroke-linecap="round"/>
+<line y1="14.75" y2="14.75" x1="11.15" stroke-width="0.431999" stroke="#000000" class="other" x2="7.54997" stroke-linecap="round"/>
+<circle cy="20.1501" stroke-width="1.152" cx="21.9499" r="0.359999" fill="none" stroke="#000000" class="other"/>
+<circle cy="9.35003" stroke-width="1.152" cx="21.9499" r="0.359999" fill="none" stroke="#000000" class="other"/>
+<rect y="18.3501" stroke-width="0" fill="#000000" stroke="none" class="other" height="3.60001" x="14.03" width="2.15999" stroke-linecap="round"/>
+<rect y="7.55002" stroke-width="0" fill="#000000" stroke="none" class="other" height="3.60001" x="14.03" width="2.15999" stroke-linecap="round"/>
+<rect y="12.23" stroke-width="0" fill="#000000" stroke="none" class="other" height="5.04002" x="14.03" width="2.15999" stroke-linecap="round"/>
+<line y1="14.75" y2="14.75" x1="0.349998" stroke-width="0.699997" id="connector0pin" stroke="#787878" class="pin" x2="7.54997" connectorname="G" stroke-linecap="round"/>
+<g y="14.75" stroke-width="0" id="connector0terminal" fill="none" stroke="none" class="terminal" height="0.000283466" x="0.349998" width="0.000283464"/>
+<text font-size="2.49999" font-family="'Droid Sans'" y="13.7001" stroke-width="0" fill="#8c8c8c" text-anchor="middle" stroke="none" class="text" x="3.94998">1</text>
+<line y1="0.350001" y2="7.55002" x1="21.9499" stroke-width="0.699997" id="connector1pin" stroke="#787878" class="pin" x2="21.9499" connectorname="D" stroke-linecap="round"/>
+<g y="0.350001" stroke-width="0" id="connector1terminal" fill="none" stroke="none" class="terminal" height="0.000283466" x="21.9499" width="0.000283464"/>
+<g transform="matrix(1, 0, 0, 1, 20.9, 3.95001)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text font-size="2.49999" font-family="'Droid Sans'" y="0" stroke-width="0" fill="#8c8c8c" text-anchor="middle" stroke="none" class="text" x="0">2</text>
+</g>
+</g>
+</g>
+</g>
+<line y1="29.1502" y2="21.9501" x1="21.9499" stroke-width="0.699997" id="connector2pin" stroke="#787878" class="pin" x2="21.9499" connectorname="S" stroke-linecap="round"/>
+<g y="29.1502" stroke-width="0" id="connector2terminal" fill="none" stroke="none" class="terminal" height="0.000283466" x="21.9499" width="0.000283464"/>
+<g transform="matrix(1, 0, 0, 1, 20.9, 25.5501)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text font-size="2.49999" font-family="'Droid Sans'" y="0" stroke-width="0" fill="#8c8c8c" text-anchor="middle" stroke="none" class="text" x="0">3</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g></svg>

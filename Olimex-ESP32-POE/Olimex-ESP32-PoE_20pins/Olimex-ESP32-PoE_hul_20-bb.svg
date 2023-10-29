@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="91.999992mm"
+   height="28mm"
+   viewBox="0 0 91.999994 28"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="Olimex-ESP32-PoE_hul_20-bb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="11.117845"
+     inkscape:cx="156.86493"
+     inkscape:cy="89.31587"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Breadboard"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-128.30939"
+       originy="-150.98656"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0023e5"
+       empopacity="1"
+       color="#00993e"
+       opacity="1"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="true" />
+    <inkscape:grid
+       id="grid5"
+       units="in"
+       originx="113.65038"
+       originy="3.0236133"
+       spacingx="0.63500001"
+       spacingy="0.63500001"
+       empcolor="#001ce5"
+       empopacity="1"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       enabled="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="80.122635"
+       y="-38.385403"
+       width="17.402966"
+       height="12.189381"
+       id="rect7" />
+  </defs>
+  <g
+     inkscape:label="Breadboard"
+     inkscape:groupmode="layer"
+     id="Breadboard"
+     transform="translate(-33.948528,-39.948528)">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect2"
+       width="80"
+       height="28"
+       x="39.948528"
+       y="39.948528" />
+    <ellipse
+       style="fill:none;fill-opacity:0.36394;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="path2"
+       cx="75.448524"
+       cy="53.448528"
+       rx="0.49999923"
+       ry="0.49999934" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.310118;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="rect3"
+       width="22.860001"
+       height="25.4"
+       x="64.018524"
+       y="41.238529" />
+    <rect
+       style="fill:#008080;fill-opacity:0.998513;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       id="LAN"
+       width="21"
+       height="16"
+       x="33.948528"
+       y="50.128529" />
+    <g
+       id="ESP32">
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+         id="rect5"
+         width="26"
+         height="18"
+         x="99.948524"
+         y="44.938526"
+         transform="translate(-1.1176566e-6)" />
+      <rect
+         style="fill:#ececec;fill-opacity:0.582682;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+         id="rect6"
+         width="18.837427"
+         height="17.09841"
+         x="100.31981"
+         y="45.438766" />
+    </g>
+    <g
+       id="Text">
+      <text
+         stroke="none"
+         text-anchor="middle"
+         y="-34.805775"
+         x="58.381191"
+         font-size="5.0pt"
+         id="text_lan-2"
+         gorn="0.3.8.0"
+         font-family="'Droid Sans'"
+         stroke-width="0.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.072"
+         transform="matrix(0,0.99281046,-1.0072416,0,0,0)">RJ45</text>
+      <text
+         stroke="none"
+         text-anchor="middle"
+         y="-51.863815"
+         x="58.381191"
+         font-size="5.0pt"
+         id="text_lan-1"
+         gorn="0.3.8.0"
+         font-family="'Droid Sans'"
+         stroke-width="0.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.072"
+         transform="matrix(0,0.99281047,-1.0072416,0,0,0)">LINK-PP</text>
+      <text
+         stroke="none"
+         text-anchor="middle"
+         y="-116.49446"
+         x="53.953167"
+         font-size="5.0pt"
+         id="text_esp-1"
+         gorn="0.3.8.0"
+         font-family="'Droid Sans'"
+         stroke-width="0.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.072"
+         transform="matrix(0,0.99281047,-1.0072416,0,0,0)">ESPRESSIF</text>
+      <text
+         stroke="none"
+         text-anchor="middle"
+         y="-114.66705"
+         x="53.953167"
+         font-size="5.0pt"
+         id="text_esp-2"
+         gorn="0.3.8.0"
+         font-family="'Droid Sans'"
+         stroke-width="0.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.072"
+         transform="matrix(0,0.99281047,-1.0072416,0,0,0)">ESP32-WROOM-32E</text>
+      <text
+         stroke="none"
+         text-anchor="middle"
+         y="-97.851891"
+         x="53.800182"
+         font-size="5.0pt"
+         id="label"
+         gorn="0.3.8.0"
+         font-family="'OCRA'"
+         stroke-width="0.1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.072"
+         transform="matrix(0,0.99281047,-1.0072416,0,0,0)">label</text>
+    </g>
+    <g
+       id="HUL_22">
+      <g
+         id="g7">
+        <circle
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-7"
+           cx="42.585529"
+           cy="47.33453"
+           r="2.5" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3-4"
+           cx="42.585529"
+           cy="47.33453"
+           r="1.1" />
+      </g>
+      <g
+         id="g6">
+        <circle
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1"
+           cx="92.623528"
+           cy="42.50853"
+           r="2.5" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3"
+           cx="92.623528"
+           cy="42.50853"
+           r="1.1" />
+      </g>
+      <g
+         id="g4">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path1-2"
+           cx="92.623528"
+           cy="65.36853"
+           r="2.5" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="path3-1"
+           cx="92.623528"
+           cy="65.36853"
+           r="1.1" />
+      </g>
+    </g>
+    <g
+       id="g5-4"
+       inkscape:label="EXT2"
+       transform="translate(1.1633998e-7,25.890349)">
+      <g
+         id="EXT2-1"
+         transform="matrix(0.06719577,0,0,0.06719577,62.755243,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="circle287-0"
+           style="display:none" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="connector19pin"
+           width="1.6002002"
+           height="1.6002002"
+           x="86.078423"
+           y="65.838432"
+           transform="matrix(14.881889,0,0,14.881889,-933.91657,-556.71236)" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-786" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-8" />
+      </g>
+      <g
+         id="EXT2-2"
+         transform="matrix(0.06719577,0,0,0.06719577,60.215242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector18pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-9-3" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-1-1" />
+      </g>
+      <g
+         id="EXT2-3"
+         transform="matrix(0.06719577,0,0,0.06719577,57.675242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector17pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-6-2" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-0-0" />
+      </g>
+      <g
+         id="EXT2-4"
+         transform="matrix(0.06719577,0,0,0.06719577,55.135242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector16pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-7-9" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-9-2" />
+      </g>
+      <g
+         id="EXT2-5"
+         transform="matrix(0.06719577,0,0,0.06719577,52.595243,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector15pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-5-4" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-92-9" />
+      </g>
+      <g
+         id="EXT2-6"
+         transform="matrix(0.06719577,0,0,0.06719577,50.055242,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector14pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-1-4" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-2-8" />
+      </g>
+      <g
+         id="EXT2-7"
+         transform="matrix(0.06719577,0,0,0.06719577,47.515243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector13pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-78-7" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-4-2" />
+      </g>
+      <g
+         id="EXT2-8"
+         transform="matrix(0.06719577,0,0,0.06719577,44.975243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector12pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-0-2" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-6-6" />
+      </g>
+      <g
+         id="EXT2-9"
+         transform="matrix(0.06719577,0,0,0.06719577,42.435243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector11pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-54-6" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-7-1" />
+      </g>
+      <g
+         id="EXT2-10"
+         transform="matrix(0.06719577,0,0,0.06719577,39.895243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector10pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-52-4" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-5-9" />
+      </g>
+    </g>
+    <g
+       id="g5"
+       inkscape:label="EXT1"
+       transform="translate(1.1633998e-7,0.49034824)">
+      <g
+         id="EXT1-1"
+         transform="matrix(0.06719577,0,0,0.06719577,62.755243,11.518368)"
+         style="fill:#999999;fill-opacity:1">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+           id="connector0pin"
+           width="23.814001"
+           height="23.814001"
+           x="347.59299"
+           y="423.09299" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288"
+           style="fill:#999999;fill-opacity:1" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288"
+           style="fill:#999999;fill-opacity:1" />
+      </g>
+      <g
+         id="EXT1-2"
+         transform="matrix(0.06719577,0,0,0.06719577,60.215242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector1pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-9" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-1" />
+      </g>
+      <g
+         id="EXT1-3"
+         transform="matrix(0.06719577,0,0,0.06719577,57.675242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector2pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-6" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-0" />
+      </g>
+      <g
+         id="EXT1-4"
+         transform="matrix(0.06719577,0,0,0.06719577,55.135242,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector3pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-7" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-9" />
+      </g>
+      <g
+         id="EXT1-5"
+         transform="matrix(0.06719577,0,0,0.06719577,52.595243,11.518368)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector4pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-5" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-92" />
+      </g>
+      <g
+         id="EXT1-6"
+         transform="matrix(0.06719577,0,0,0.06719577,50.055242,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector5pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-1" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-2" />
+      </g>
+      <g
+         id="EXT1-7"
+         transform="matrix(0.06719577,0,0,0.06719577,47.515243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector6pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-78" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-4" />
+      </g>
+      <g
+         id="EXT1-8"
+         transform="matrix(0.06719577,0,0,0.06719577,44.975243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector7pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-0" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-6" />
+      </g>
+      <g
+         id="EXT1-9"
+         transform="matrix(0.06719577,0,0,0.06719577,42.435243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector8pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-54" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-7" />
+      </g>
+      <g
+         id="EXT1-10"
+         transform="matrix(0.06719577,0,0,0.06719577,39.895243,11.518369)">
+        <circle
+           fill="#666666"
+           cx="359"
+           cy="435"
+           r="12"
+           id="connector9pin" />
+        <rect
+           fill="#999999"
+           stroke="#ffffff"
+           stroke-width="1.13389"
+           x="355"
+           y="430"
+           width="9"
+           height="10"
+           id="rect288-52" />
+        <polyline
+           fill="none"
+           stroke="#000000"
+           stroke-width="1.13389"
+           points="364,430 364,440 355,440 "
+           id="polyline288-5" />
+      </g>
+    </g>
+  </g>
+</svg>
