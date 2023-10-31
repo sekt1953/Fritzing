@@ -29,7 +29,16 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## LDO (AMS1117-T33)
 
+|||
+|:---:|:---:|
+|![](https://img.fruugo.com/product/9/65/717559659_max.jpg)|![](https://www.esclabs.in/wp-content/uploads/2022/01/AMS1117-4.webp)|
+
+
 ## Olimex-ESP32-POE
+
+|||
+|:---:|:---:|
+|![](https://www.mouser.dk/images/olimexltd/lrg/ESP32-POE_SPL.jpg)|![](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_20_bb.svg)|
 
 ## PFC8574N
 
