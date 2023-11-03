@@ -45,11 +45,12 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## MP1584 
 
-[Datasheet: 3A, 1.5MHz, 28V Step-Down Converter](https://www.monolithicpower.com/en/mp1584.html)
-
 |Braedboard|PCB|Schematic|
 |:---:|:---:|:---:|
-|![]()|![]()|![]()
+|![bb](./MP1584/svg/MP1584_8_bb.svg)|![pcb](./MP1584/svg/MP1584_8_pcb.svg)|![schem](./MP1584/svg/MP1584_schem.svg)
+
+* find fzpz files here: [MP1584](./MP1584/MP1584.fzpz)
+* [Datasheet: 3A, 1.5MHz, 28V Step-Down Converter](https://www.monolithicpower.com/en/mp1584.html)
 
 ## Olimex-ESP32-POE
 
@@ -58,6 +59,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 |![](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20-bb.svg)|![](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_20_pcb.svg)|![](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_20_schem.svg)
 
 * find fzpz files here: [Olimex-ESP32-POE)](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/ESP32-PoE_20.fzpz)
+* Datasheet: [Olimex-ESP32-POE](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/open-source-hardware "www.olimex.com") 
 
 ## PFC8574N
 
