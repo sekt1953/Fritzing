@@ -1,0 +1,19 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=test
+*Date=17:29:32
+*CreatedBy=Fritzing 0.9.6b..
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;37.3239;-9.80718;-90;Bottom;J2
+2;;THT;37.3239;-47.2722;-90;Bottom;J1
+3;;THT;66.9663;-49.8122;0;Bottom;P1
+4;;THT;41.8924;-29.1631;0;Bottom;CPU1
