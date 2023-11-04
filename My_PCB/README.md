@@ -36,7 +36,7 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 
 |||
 |:---:|:---:|
-|![](./Darlinton_Relay_and_Led_Driver/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
+|![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
 
 Darlinton_Relay_and_Led_Driver:  
 The printed circuit board is a driver card for leds and relays with an anode (+power).
