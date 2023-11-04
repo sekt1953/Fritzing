@@ -25,7 +25,7 @@ If you want to draw your own components I can recommend these videos
 
 I use this P-Mosfet for Reverse Polarity Protection Circuits, and I want a part that lay flat on the PCB.
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![bb](./FQP27P06/svg/P-Mosfet_bb.svg)|![pcb](./FQP27P06/svg/P-Mosfet_pcb.svg)|![schem](./FQP27P06/svg/P-Mosfet_schem.svg)|
 
@@ -40,7 +40,7 @@ I use this P-Mosfet for Reverse Polarity Protection Circuits, and I want a part 
 A cheap dc-dc converter from aliexpress,  
 Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter Adjustable 97.5% 1.8V 2.5V 3.3V 5V 9V 12V 24V
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![front](./HW-613/svg/HW613_Breadbord.svg)|![back](./HW-613/svg/HW613_pcb.svg)|![](./HW-613/svg/HW613_schem.svg)|
 
@@ -48,7 +48,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## [LDO (AMS1117-T33) 0.8A Fixed Low Dropout Linear Regulator](./LDO/)
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![](./LDO/svg/LDO_3V3_bb.svg)|![](./LDO/svg/LDO_3V3_pcb.svg)|![](./LDO/svg/LDO_3V3_schem.svg)
 
@@ -57,7 +57,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## [MP1584 Step-Down Converter](./MP1584/)
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![bb](./MP1584/svg/MP1584_8_bb.svg)|![pcb](./MP1584/svg/MP1584_8_pcb.svg)|![schem](./MP1584/svg/MP1584_schem.svg)
 
@@ -68,7 +68,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## [Olimex-ESP32-POE](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/)
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![bb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_bb.svg)|![pcb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_pcb.svg)|![schem](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_schem.svg)
 
@@ -79,7 +79,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![](./PFC8574N/svg/PCF8574N_bb.svg)|![](./PFC8574N/svg/PCF8574N_pcb.svg)|![](./PFC8574N/svg/PCF8574N_schem.svg)|
 
@@ -88,7 +88,7 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 ## [ULN2803A Eight Darlington arrays](./ULN2803A/)
 
-|Braedboard|PCB|Schematic|
+|Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![](./ULN2803A/svg/ULN2803A_bb.svg)|![](./ULN2803A/svg/ULN2803A_pcb.svg)|![](./ULN2803A/svg/ULN2803A_schem.svg)|
 
