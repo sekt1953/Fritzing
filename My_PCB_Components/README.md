@@ -25,6 +25,11 @@ If you want to draw your own components I can recommend these videos
 
 I use this P-Mosfet for Reverse Polarity Protection Circuits, and I want a part that lay flat on the PCB.
 
+|Braedboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./FQP27P06/svg/P-Mosfet_bb.svg)|![pcb](./FQP27P06/svg/P-Mosfet_pcb.svg)|![schem](./FQP27P06/svg/P-Mosfet_schem.svg)|
+
+
 * find fzpz files here: [FQP27P06](./FQP27P06/FQP27P06.fzpz)
 * Datasheet: [FQP27P06 60V P-Channel MOSFET](https://www.sparkfun.com/datasheets/Components/General/FQP27P06.pdf)
 
