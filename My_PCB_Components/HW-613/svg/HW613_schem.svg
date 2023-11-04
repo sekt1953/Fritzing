@@ -5,9 +5,9 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="0.60973436in"
-   height="0.40973419in"
-   viewBox="0 0 43.900873 29.500861"
+   width="0.69999999in"
+   height="0.5in"
+   viewBox="0 0 50.399998 35.999999"
    id="svg13"
    sodipodi:docname="HW613_schem.svg"
    inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
@@ -22,112 +22,129 @@
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
-     inkscape:showpageshadow="2"
+     inkscape:showpageshadow="false"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="12.678656"
-     inkscape:cx="38.647629"
-     inkscape:cy="11.594289"
+     inkscape:zoom="8.9651636"
+     inkscape:cx="23.535544"
+     inkscape:cy="23.535544"
      inkscape:window-width="1920"
      inkscape:window-height="980"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="schematic" />
+     inkscape:current-layer="schematic"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="3.6"
+       spacingy="3.6"
+       empcolor="#009923"
+       empopacity="0.88627451"
+       color="#005ee5"
+       opacity="0.72941176"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
   <g
      partID="10863910"
      id="g13"
-     transform="translate(-0.005128)">
+     transform="translate(3.594872,3.5999999)">
     <g
        id="schematic">
+      <rect
+         style="fill:none;fill-opacity:0.29177;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
+         id="rect1"
+         width="50.399998"
+         height="36"
+         x="-3.594872"
+         y="-3.5999999" />
       <line
          stroke="#787878"
          fill="none"
-         y2="7.5599699"
+         y2="7.1999998"
          stroke-linejoin="round"
-         x2="7.1859899"
+         x2="7.177855"
          id="connector0pin"
-         x1="0.36512801"
+         x1="0.014067016"
          gorn="0.3.34"
          stroke-linecap="round"
-         y1="7.5599699"
-         stroke-width="0.72" />
-      <g
-         stroke="none"
-         y="7.2"
-         x="0"
-         fill="none"
-         width="0.72"
+         y1="7.1999998"
+         stroke-width="0.737878" />
+      <rect
+         style="fill:#787878;fill-opacity:0.161752;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
          id="connector0terminal"
-         stroke-width="0.72"
-         height="0.72" />
+         width="1.4399999"
+         height="1.4399999"
+         x="-0.71487212"
+         y="6.48" />
       <line
          stroke="#787878"
          fill="none"
-         y2="22.32"
+         y2="21.608938"
          stroke-linejoin="round"
          id="connector1pin"
-         x2="14.405128"
+         x2="14.435189"
          gorn="0.3.34"
-         x1="14.405128"
+         x1="14.435189"
          stroke-linecap="round"
-         y1="29.140862"
-         stroke-width="0.72" />
-      <g
-         stroke="none"
-         y="14.4"
-         fill="none"
-         x="0"
+         y1="28.772738"
+         stroke-width="0.737878" />
+      <rect
+         style="fill:#787878;fill-opacity:0.161752;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
          id="connector1terminal"
-         width="0.72"
-         stroke-width="0.72"
-         height="0.72" />
+         width="1.4399999"
+         height="1.4399999"
+         x="13.685128"
+         y="28.08" />
       <line
          stroke="#787878"
          fill="none"
-         y2="7.5599699"
+         y2="7.1999998"
          stroke-linejoin="round"
          id="connector2pin"
-         x2="43.546001"
+         x2="43.177868"
          gorn="0.3.34"
-         x1="36.725101"
+         x1="36.014065"
          stroke-linecap="round"
-         y1="7.5599699"
-         stroke-width="0.72" />
-      <g
-         stroke="none"
-         y="7.2"
-         fill="none"
-         x="43.2"
+         y1="7.1999998"
+         stroke-width="0.737876" />
+      <rect
+         style="fill:#787878;fill-opacity:0.161752;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
          id="connector2terminal"
-         width="0.72"
-         stroke-width="0.72"
-         height="0.72" />
+         width="1.4399999"
+         height="1.4399999"
+         x="42.474873"
+         y="6.48" />
       <line
          stroke="#787878"
          fill="none"
-         y2="14.76"
+         y2="14.4"
          stroke-linejoin="round"
-         x2="43.546001"
+         x2="43.187027"
          id="connector3pin"
-         x1="36.725101"
+         x1="36.023224"
          gorn="0.3.34"
          stroke-linecap="round"
-         y1="14.76"
-         stroke-width="0.72" />
-      <g
-         stroke="none"
-         y="14.4"
-         fill="none"
-         x="43.2"
-         width="0.72"
+         y1="14.4"
+         stroke-width="0.737876" />
+      <rect
+         style="fill:#787878;fill-opacity:0.161752;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
          id="connector3terminal"
-         stroke-width="0.72"
-         height="0.72" />
+         width="1.4399999"
+         height="1.4399999"
+         x="42.485126"
+         y="13.68" />
       <g
-         transform="scale(0.99281047,1.0072416)"
+         transform="matrix(0.99281047,0,0,1.0072416,-0.37086888,-6.0284634)"
          id="g1">
         <text
            stroke="none"
@@ -157,7 +174,7 @@
            stroke-width="0.072">Vo+</text>
       </g>
       <g
-         transform="matrix(0.99281047,0,0,1.0072416,2.3199457,0.23809122)"
+         transform="matrix(0.99281047,0,0,1.0072416,2.0040741,-0.91172979)"
          id="g3">
         <text
            stroke="none"
@@ -202,14 +219,14 @@
            stroke-width="0.072">EN</text>
       </g>
       <g
-         transform="matrix(0.99281047,0,0,1.0072416,2.5566211,4.3285839e-7)"
+         transform="matrix(0.99281047,0,0,1.0072416,-1.665207,-1.6734233)"
          id="g6">
         <text
            stroke="none"
            text-anchor="middle"
            y="26.197149"
            fill="#787878"
-           x="11.056254"
+           x="14.712603"
            font-size="1.8px"
            id="text1037"
            gorn="0.3.8.0"
@@ -218,13 +235,13 @@
       </g>
       <rect
          stroke="#000000"
-         y="0.36000001"
+         y="0.34979463"
          fill="none"
-         x="7.5599999"
-         width="28.799999"
+         x="7.5497947"
+         width="28.10041"
          id="rect1048"
-         stroke-width="0.72"
-         height="21.6" />
+         stroke-width="0.699589"
+         height="20.900412" />
       <g
          transform="scale(0.99281047,1.0072416)"
          id="g7">
@@ -241,7 +258,7 @@
            stroke-width="0.072">1</text>
       </g>
       <g
-         transform="scale(0.99281047,1.0072416)"
+         transform="matrix(0.99281047,0,0,1.0072416,-1.1608654,0.86344788)"
          id="g8">
         <text
            stroke="none"
@@ -256,7 +273,7 @@
            stroke-width="0.072">3</text>
       </g>
       <g
-         transform="scale(0.99281047,1.0072416)"
+         transform="matrix(0.99281047,0,0,1.0072416,-0.72940279,0.68366892)"
          id="g9">
         <text
            stroke="none"
@@ -271,7 +288,7 @@
            stroke-width="0.072">4</text>
       </g>
       <g
-         transform="scale(0.99281047,1.0072416)"
+         transform="matrix(0.99281047,0,0,1.0072416,-0.37086888,-6.0284634)"
          id="g11">
         <text
            stroke="none"
@@ -286,7 +303,7 @@
            stroke-width="0.072">Adj Buck</text>
       </g>
       <g
-         transform="scale(0.99281047,1.0072416)"
+         transform="matrix(0.99281047,0,0,1.0072416,-0.37086888,-6.0284634)"
          id="g12">
         <text
            stroke="none"
