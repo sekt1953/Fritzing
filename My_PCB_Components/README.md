@@ -66,6 +66,17 @@ Mini DC-DC 12-24V To 5V 3A Step Down Power Supply Module Voltage Buck Converter 
 
 <hr>
 
+## ESP30 DevKit v1 (30 pins long, 11 pins width)
+
+Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text from pcb.
+
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./ESP32/svg/ESP30_30_bb.svg)|![pcb](./ESP32/svg/ESP30_30_pcb.svg)|![schem](./ESP32/svg/ESP30_30_schem.svg)
+
+* find fzpz files here: [ESP30 DevKit v1](./ESP32/DOIT%20Esp32%20DevKit%20v1%20(30%20pins%20long,%2011%20pins%20width).fzpz)
+* Datasheet: [ESP30 DevKit v1](https://mischianti.org/doit-esp32-dev-kit-v1-high-resolution-pinout-and-specs/)
+
 ## [Olimex-ESP32-POE](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/)
 
 |Breadboard|PCB|Schematic|
