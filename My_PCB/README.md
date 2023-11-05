@@ -32,15 +32,19 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 |:---:|:---:|
 |![schem](./occupied_sensor/v1/occupied_sensor_schem.png)|![](./occupied_sensor/v1/png/occupied_sensor_pcb.png)||
 
+|copper_top|copper_bottom|silk_top|
+|:---:|:---:|:---:|
+|![copper_top](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_top.svg)|![copper_bottom](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_bottom.svg)|![silk_top](./occupied_sensor/v1/svg/occupied_sensor_etch_silk_top.svg)|
+
 ## LedDriver with optocoupler
 
 ### V6.1
 
 The Led Driver printed circuit board is made with optocouplers in order to realize that many LEDs are already mounted with a common cathode, and therefore cannot be controlled with a darlington array, which needs the LEDs to be mounted with a common anode.
 
-|Schematic|PCB|
-|:---:|:---:|
-|![schem](./LedDriver/v6.1/png/Skærmbillede%20fra%202023-11-05%2021-52-42.png)|![pcb](./LedDriver/v6.1/png/PCB-LedDriver-V6.1_pcb.png)
+|Schematic|
+|:---:|
+|![schem](./LedDriver/v6.1/png/Skærmbillede%20fra%202023-11-05%2021-52-42.png)|
 
 ||PCB|
 |:---|:---|
@@ -50,9 +54,9 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 
 ### V6.4
 
-|Schematic|PCB|
-|:---:|:---:|
-|![schem](./LedDriver/v6.4/png/PCB-LedDriver-V6.4_schem.png)|![pcb](./LedDriver/v6.4/png/PCB-LedDriver-V6.4_pcb.png)
+|Schematic|
+|:---:|
+|![schem](./LedDriver/v6.4/png/PCB-LedDriver-V6.4_schem.png)|
 
 ||PCB|
 |:---|:---|
@@ -64,9 +68,9 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
 
-|Schematic|PCB|
-|:---:|:---:|
-|![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
+|Schematic|
+|:---:|
+|![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|
 
 |copper_top|copper_bottom|silk_top|
 |:---:|:---:|:---:|
