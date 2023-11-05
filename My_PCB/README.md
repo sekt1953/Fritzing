@@ -47,7 +47,7 @@ Version 6.1 has been produced and there is a small stupid bug that requires a PC
 |:---:|:---:|
 |![](./LedDriver/v6.1/Error/Error.png)|![](./LedDriver/v6.1/Error/Repair.png)|
 
-### [Darlinton_Relay_and_Led_Driver](./Darlinton_Relay_and_Led_Driver/)
+### [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/)
 
 The printed circuit board is a driver card for leds and relays with an anode (+power).
 
