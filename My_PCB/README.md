@@ -30,9 +30,9 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 
 Is a card to detect if there are trains on a track section, be it wagons or locomotives, the printed card has 64 inputs.
 
-|Schematic|PCB|
-|:---:|:---:|
-|![schem](./occupied_sensor/v1/occupied_sensor_schem.png)|![](./occupied_sensor/v1/png/occupied_sensor_pcb.png)||
+|Schematic|
+|:---:|
+|![schem](./occupied_sensor/v1/occupied_sensor_schem.png)|
 
 |copper_top|copper_bottom|silk_top|
 |:---:|:---:|:---:|
