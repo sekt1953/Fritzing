@@ -38,12 +38,6 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |:---:|:---:|
 |![schem](./LedDriver/v6.1/png/Skærmbillede%20fra%202023-11-05%2021-52-42.png)|![pcb](./LedDriver/v6.1/png/PCB-LedDriver-V6.1_pcb.png)
 
-Version 6.1 has been produced and there is a small stupid bug that requires a PCB path to be cut and then connected to GND, see instructions
-
-|Error|Repair|
-|:---:|:---:|
-|![](./LedDriver/v6.1/Error/Error.png)|![](./LedDriver/v6.1/Error/Repair.png)|
-
 ### [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/)
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
