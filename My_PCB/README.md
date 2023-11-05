@@ -34,16 +34,33 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 
 ## LedDriver with optocoupler
 
+### V6.1
+
 The Led Driver printed circuit board is made with optocouplers in order to realize that many LEDs are already mounted with a common cathode, and therefore cannot be controlled with a darlington array, which needs the LEDs to be mounted with a common anode.
 
 |Schematic|PCB|
 |:---:|:---:|
 |![schem](./LedDriver/v6.1/png/Skærmbillede%20fra%202023-11-05%2021-52-42.png)|![pcb](./LedDriver/v6.1/png/PCB-LedDriver-V6.1_pcb.png)
 
-### [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/)
+### V6.4
+
+|Schematic|PCB|
+|:---:|:---:|
+|![schem](./LedDriver/v6.4/png/PCB-LedDriver-V6.4_schem.png)|![pcb](./LedDriver/v6.4/png/PCB-LedDriver-V6.4_pcb.png)
+
+
+
+
+## [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/)
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
 
 |Schematic|PCB|
 |:---:|:---:|
 |![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
+
+||PCB|
+|:---|:---|
+|copper_top|![copper_top](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_copper_top.svg)|
+|copper_bottom|![copper_bottom](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_copper_bottom.svg)|
+|silk_top|![silk_top](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_silk_top.svg)|
