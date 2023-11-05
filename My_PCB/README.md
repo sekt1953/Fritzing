@@ -68,3 +68,6 @@ The printed circuit board is a driver card for leds and relays with an common An
 |:---:|:---:|
 |![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
 
+|copper_top|copper_bottom|silk_top|
+|:---:|:---:|:---:|
+|![copper_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_top.svg)|![copper_bottom](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_bottom.svg)|![silk_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_silk_top.svg)|
