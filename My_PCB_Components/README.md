@@ -20,6 +20,7 @@ If you want to draw your own components I can recommend these videos
 * I/O interface  
   * [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
   * [ULN2803A Eight Darlington arrays](./ULN2803A/)
+  * [DS18B20 1-Wire Digital Thermometer](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
 * Resistor
   * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
 
@@ -105,8 +106,17 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 |:---:|:---:|:---:|
 |![](./ULN2803A/svg/ULN2803A_bb.svg)|![](./ULN2803A/svg/ULN2803A_pcb.svg)|![](./ULN2803A/svg/ULN2803A_schem.svg)|
 
-* find fzpz files here: [ULN2803A)](./ULN2803A/ULN2803A.fzpz)
+* find fzpz files here: [ULN2803A](./ULN2803A/ULN2803A.fzpz)
 * Datasheet: [ULN280x Eight Darlington arrays](https://www.st.com/resource/en/datasheet/uln2801a.pdf)
+
+## [DS18B20 1-Wire Digital Thermometer](./DS18B20/)
+
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./DS18B20/svg/DS18B20_bb.svg)|![pcb](./DS18B20/svg/DS18B20_pcb.svg)|![schem](./DS18B20/svg/DS18B20_schem.svg)|
+
+* find fzpz files here: [DS18B20 1-Wire Digital Thermometer)](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
+* Datasheet: [DS18B20 1-Wire Digital Thermometer](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf)
 
 <hr>
 

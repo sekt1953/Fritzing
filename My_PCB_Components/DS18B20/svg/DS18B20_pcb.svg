@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.30000001in"
+   height="0.16in"
+   viewBox="0 0 21.599983 11.519992"
+   id="svg6"
+   sodipodi:docname="Untitled Sketch 2_pcb.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="19.84565"
+     inkscape:cx="5.5679709"
+     inkscape:cy="6.8528872"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     showgrid="true">
+    <inkscape:grid
+       id="grid6"
+       units="in"
+       originx="3.9239983"
+       originy="4.4039983"
+       spacingx="1.7999987"
+       spacingy="1.7999987"
+       empcolor="#009900"
+       empopacity="1"
+       color="#002be5"
+       opacity="0.83921569"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:none;fill-opacity:0.331758;stroke:none;stroke-width:0.683658;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect6"
+     width="21.599985"
+     height="11.519992"
+     x="2.220446e-16"
+     y="0" />
+  <g
+     partID="11893440"
+     id="g1"
+     transform="translate(1.0599992,-2.798001)">
+    <g
+       id="copper0">
+      <g
+         id="copper1">
+        <circle
+           fill="none"
+           r="1.8"
+           id="connector1pad"
+           stroke="#f6ca34"
+           stroke-width="1.4"
+           stroke-linejoin="round"
+           cx="2.52"
+           cy="6.7379999"
+           stroke-linecap="round" />
+        <circle
+           fill="none"
+           r="1.8"
+           id="connector2pad"
+           stroke="#f6ca34"
+           stroke-width="1.4"
+           stroke-linejoin="round"
+           cx="9.7290001"
+           cy="6.7459998"
+           stroke-linecap="round" />
+        <circle
+           fill="none"
+           r="1.8"
+           id="connector3pad"
+           stroke="#f6ca34"
+           stroke-width="1.4"
+           stroke-linejoin="round"
+           cx="16.915001"
+           cy="6.7379999"
+           stroke-linecap="round" />
+      </g>
+    </g>
+  </g>
+  <g
+     partID="11893441"
+     id="g6"
+     transform="translate(1.0599992,-2.798001)">
+    <g
+       id="silkscreen">
+      <path
+         fill="none"
+         stroke-opacity="1"
+         id="path2413"
+         style="fill-rule:nonzero;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 15.821028,9.7199934 a 6.11074,3.79092 0 0 1 -12.2210303,0.0433"
+         stroke="#ffffff"
+         stroke-width="0.72"
+         fill-opacity="1" />
+      <path
+         fill="none"
+         id="path212391"
+         stroke="#FFFFFF"
+         d="M 3.4667222,3.1482755 15.973265,3.1417245"
+         stroke-width="0.453449"
+         stroke-linecap="round"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
