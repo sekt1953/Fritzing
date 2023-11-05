@@ -24,7 +24,7 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 
 ## PCB Board for modelrailway
 
-### [occupied_sensor](./occupied_sensor/) 
+### [occupied_sensor](./occupied_sensor/) work in progress
 
 Is a card to detect if there are trains on a track section, be it wagons or locomotives, the printed card has 64 inputs.
 
@@ -52,7 +52,7 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |copper_bottom|![copper_bottom](./LedDriver/v6.1/svg/PCB-LedDriver-V6.1_etch_copper_bottom.svg)|
 |silk_top|![silk_top](./LedDriver/v6.1/svg/PCB-LedDriver-V6.1_etch_silk_top.svg)|
 
-### V6.4
+### V6.4 work in progress
 
 |Schematic|
 |:---:|
@@ -64,7 +64,7 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |copper_bottom|![copper_bottom](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_copper_bottom.svg)|
 |silk_top|![silk_top](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_silk_top.svg)|
 
-## [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/)
+## [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/) work in progress
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
 
