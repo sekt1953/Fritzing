@@ -20,6 +20,8 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 |:---:|:---:|
 |![schem](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_schem.png)|![pcb](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_pcb.png)||
 
+* [Fritzing file for download:](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
+
 <hr>
 
 ## PCB Board for modelrailway
@@ -35,6 +37,8 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 |copper_top|copper_bottom|silk_top|
 |:---:|:---:|:---:|
 |![copper_top](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_top.svg)|![copper_bottom](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_bottom.svg)|![silk_top](./occupied_sensor/v1/svg/occupied_sensor_etch_silk_top.svg)|
+
+* [Fritzing file for download:](./occupied_sensor/v1/occupied_sensor.fzz)
 
 ## LedDriver with optocoupler
 
@@ -52,6 +56,8 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |copper_bottom|![copper_bottom](./LedDriver/v6.1/svg/PCB-LedDriver-V6.1_etch_copper_bottom.svg)|
 |silk_top|![silk_top](./LedDriver/v6.1/svg/PCB-LedDriver-V6.1_etch_silk_top.svg)|
 
+* [Fritzing file for download:](./LedDriver/v6.1/PCB-LedDriver-V6.1.fzz)
+
 ### V6.4 work in progress
 
 |Schematic|
@@ -64,6 +70,8 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |copper_bottom|![copper_bottom](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_copper_bottom.svg)|
 |silk_top|![silk_top](./LedDriver/v6.4/svg/PCB-LedDriver-V6.4_etch_silk_top.svg)|
 
+* [Fritzing file for download:](./LedDriver/v6.4/PCB-LedDriver-V6.4.fzz)
+
 ## [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/) work in progress
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
@@ -75,3 +83,5 @@ The printed circuit board is a driver card for leds and relays with an common An
 |copper_top|copper_bottom|silk_top|
 |:---:|:---:|:---:|
 |![copper_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_top.svg)|![copper_bottom](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_bottom.svg)|![silk_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_silk_top.svg)|
+
+* [Fritzing file for download:](./Darlinton_Relay_and_Led_Driver/PCF8574_ULN2803.fzz)
