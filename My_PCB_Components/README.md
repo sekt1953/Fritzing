@@ -116,4 +116,4 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 |:---:|:---:|:---:|
 |![bb](./Resistor/svg/Resistor_sil_5_bb.svg)|![pcb](./Resistor/svg/Resistor_sil_5_pcb.svg)|![schem](./Resistor/svg/Resistor_sil_5_schem.svg)|
 
-* find fzpz files here: [Sil Resistor 4x470Ω)](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
+* find fzpz files here: [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
