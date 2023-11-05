@@ -20,6 +20,8 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 |:---:|:---:|
 |![schem](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_schem.png)|![pcb](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_pcb.png)||
 
+<hr>
+
 ## PCB Board for modelrailway
 
 ### [occupied_sensor](./occupied_sensor/) 
