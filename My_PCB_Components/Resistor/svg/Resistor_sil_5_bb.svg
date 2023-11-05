@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.40000001in"
+   height="0.60042781in"
+   viewBox="0 0 28.8 43.2308"
+   id="svg5"
+   sodipodi:docname="Resistor_sil_5_bb.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="9.2373617"
+     inkscape:cx="9.7430417"
+     inkscape:cy="35.724486"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs5" />
+  <g
+     partID="58110"
+     id="g5"
+     transform="translate(0,-0.00239748)">
+    <g
+       id="schematic">
+      <text
+         fill="#000000"
+         id="label"
+         stroke="none"
+         font-size="3.5px"
+         text-anchor="middle"
+         y="18.1"
+         x="21.6"
+         font-family="'Droid Sans'"
+         style="display:none">IC</text>
+      <line
+         fill="none"
+         stroke="#787878"
+         x2="7.3806105"
+         stroke-linejoin="round"
+         y1="7.1923962"
+         stroke-width="0.501143"
+         stroke-linecap="round"
+         y2="7.1923962"
+         x1="0.17938934"
+         id="line1" />
+      <rect
+         fill="none"
+         width="7.1999998"
+         id="connector0pin"
+         connectorName="1"
+         y="6.8499999"
+         x="0"
+         height="0.69999802"
+         stroke-width="0" />
+      <g
+         fill="none"
+         width="0"
+         id="connector0terminal"
+         y="6.85"
+         x="0"
+         height="0.699998"
+         stroke-width="0" />
+      <text
+         fill="#8c8c8c"
+         stroke="none"
+         font-size="2.5px"
+         text-anchor="middle"
+         class="text"
+         y="6.1500001"
+         x="5.7271914"
+         stroke-width="0"
+         font-family="'Droid Sans'"
+         id="text1">1</text>
+      <line
+         fill="none"
+         stroke="#787878"
+         x2="7.3806105"
+         stroke-linejoin="round"
+         y1="14.4"
+         stroke-width="0.501143"
+         stroke-linecap="round"
+         y2="14.4"
+         x1="0.17938934"
+         id="line2" />
+      <rect
+         fill="none"
+         width="7.1999998"
+         id="connector1pin"
+         connectorName="2"
+         y="14.05"
+         x="0"
+         height="0.69999802"
+         stroke-width="0" />
+      <g
+         fill="none"
+         width="0"
+         id="connector1terminal"
+         y="14.05"
+         x="0"
+         height="0.699998"
+         stroke-width="0" />
+      <g
+         id="R1"
+         transform="translate(-0.35001936,11.304)">
+        <line
+           stroke="#000000"
+           class="other"
+           x2="8.6300297"
+           y1="3.096"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="7.5500202"
+           id="line1-3" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="10.43"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="8.6300297"
+           id="line2-6" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="12.23"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="10.43"
+           id="line3-7" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="14.03"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="12.23"
+           id="line4-5" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="15.8301"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="14.03"
+           id="line5-3" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="17.6301"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="15.8301"
+           id="line6" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="19.430099"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="17.6301"
+           id="line7" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.230101"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="19.430099"
+           id="line8" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.9501"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="3.096"
+           x1="21.230101"
+           id="line9" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.431565;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 21.930188,3.0957819 3.528435,0.012995"
+           id="path5" />
+      </g>
+      <text
+         fill="#8c8c8c"
+         stroke="none"
+         font-size="2.5px"
+         text-anchor="middle"
+         class="text"
+         y="13.35"
+         x="5.7552891"
+         stroke-width="0"
+         font-family="'Droid Sans'"
+         id="text2"
+         style="display:inline">2</text>
+      <line
+         fill="none"
+         stroke="#787878"
+         x2="7.3806105"
+         stroke-linejoin="round"
+         y1="21.6"
+         stroke-width="0.501143"
+         stroke-linecap="round"
+         y2="21.6"
+         x1="0.17938934"
+         id="line3" />
+      <rect
+         fill="none"
+         width="7.1999998"
+         id="connector2pin"
+         connectorName="3"
+         y="21.25"
+         x="0"
+         height="0.69999802"
+         stroke-width="0" />
+      <g
+         fill="none"
+         width="0"
+         id="connector2terminal"
+         y="21.25"
+         x="0"
+         height="0.699998"
+         stroke-width="0" />
+      <g
+         id="R2"
+         transform="translate(-0.35001936,18.504)">
+        <line
+           stroke="#000000"
+           class="other"
+           x2="8.6300297"
+           y1="3.096"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="7.5500202"
+           id="line1-3-6" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="10.43"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="8.6300297"
+           id="line2-6-2" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="12.23"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="10.43"
+           id="line3-7-9" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="14.03"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="12.23"
+           id="line4-5-1" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="15.8301"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="14.03"
+           id="line5-3-2" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="17.6301"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="15.8301"
+           id="line6-7" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="19.430099"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="17.6301"
+           id="line7-0" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.230101"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="19.430099"
+           id="line8-9" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.9501"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="3.096"
+           x1="21.230101"
+           id="line9-3" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.431565;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 21.930188,3.0957819 3.528435,0.012995"
+           id="path5-6" />
+      </g>
+      <text
+         fill="#8c8c8c"
+         stroke="none"
+         font-size="2.5px"
+         text-anchor="middle"
+         class="text"
+         y="20.549999"
+         x="5.7723789"
+         stroke-width="0"
+         font-family="'Droid Sans'"
+         id="text3">3</text>
+      <line
+         fill="none"
+         stroke="#787878"
+         x2="7.3806105"
+         stroke-linejoin="round"
+         y1="28.799999"
+         stroke-width="0.501143"
+         stroke-linecap="round"
+         y2="28.799999"
+         x1="0.17938934"
+         id="line4" />
+      <rect
+         fill="none"
+         width="7.1999998"
+         id="connector3pin"
+         connectorName="4"
+         y="28.450001"
+         x="0"
+         height="0.69999802"
+         stroke-width="0" />
+      <g
+         fill="none"
+         width="0"
+         id="connector3terminal"
+         y="28.45"
+         x="0"
+         height="0.699998"
+         stroke-width="0" />
+      <g
+         id="R3"
+         transform="translate(-0.35001936,25.704)">
+        <line
+           stroke="#000000"
+           class="other"
+           x2="8.6300297"
+           y1="3.096"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="7.5500202"
+           id="line10" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="10.43"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="8.6300297"
+           id="line11" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="12.23"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="10.43"
+           id="line12" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="14.03"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="12.23"
+           id="line13" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="15.8301"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="14.03"
+           id="line14" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="17.6301"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="15.8301"
+           id="line15" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="19.430099"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="17.6301"
+           id="line16" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.230101"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="19.430099"
+           id="line17" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.9501"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="3.096"
+           x1="21.230101"
+           id="line18" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.431565;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 21.930188,3.0957819 3.528435,0.012995"
+           id="path18" />
+      </g>
+      <text
+         fill="#8c8c8c"
+         stroke="none"
+         font-size="2.5px"
+         text-anchor="middle"
+         class="text"
+         y="27.75"
+         x="5.7724004"
+         stroke-width="0"
+         font-family="'Droid Sans'"
+         id="text4">4</text>
+      <line
+         fill="none"
+         stroke="#787878"
+         x2="7.3806105"
+         stroke-linejoin="round"
+         y1="36"
+         stroke-width="0.501143"
+         stroke-linecap="round"
+         y2="36"
+         x1="0.17938934"
+         id="line5" />
+      <rect
+         fill="none"
+         width="7.1999998"
+         id="connector4pin"
+         connectorName="5"
+         y="35.650002"
+         x="0"
+         height="0.69999802"
+         stroke-width="0" />
+      <g
+         fill="none"
+         width="0"
+         id="connector4terminal"
+         y="35.65"
+         x="0"
+         height="0.699998"
+         stroke-width="0" />
+      <g
+         id="R4"
+         transform="translate(-0.35001936,32.904)">
+        <line
+           stroke="#000000"
+           class="other"
+           x2="8.6300297"
+           y1="3.096"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="7.5500202"
+           id="line19" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="10.43"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="8.6300297"
+           id="line20" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="12.23"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="10.43"
+           id="line21" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="14.03"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="12.23"
+           id="line22" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="15.8301"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="14.03"
+           id="line23" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="17.6301"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="15.8301"
+           id="line24" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="19.430099"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="0.21600001"
+           x1="17.6301"
+           id="line25" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.230101"
+           y1="0.21600001"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="5.9759998"
+           x1="19.430099"
+           id="line26" />
+        <line
+           stroke="#000000"
+           class="other"
+           x2="21.9501"
+           y1="5.9759998"
+           stroke-width="0.432002"
+           stroke-linecap="round"
+           y2="3.096"
+           x1="21.230101"
+           id="line27" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.431565;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 21.930188,3.0957819 3.528435,0.012995"
+           id="path27" />
+      </g>
+      <text
+         fill="#8c8c8c"
+         stroke="none"
+         font-size="2.5px"
+         text-anchor="middle"
+         class="text"
+         y="34.950001"
+         x="5.7845645"
+         stroke-width="0"
+         font-family="'Droid Sans'"
+         id="text5">5</text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.432;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 7.1999999,7.1992248 18.0257581,0.00155"
+         id="path28" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.432;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.199999,7.1999997 0.03641,28.8216783"
+         id="path29" />
+      <rect
+         style="fill:none;fill-opacity:0.161752;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect29"
+         width="28.799999"
+         height="43.230801"
+         x="0"
+         y="0.0023974807" />
+    </g>
+  </g>
+</svg>

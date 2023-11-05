@@ -20,6 +20,8 @@ If you want to draw your own components I can recommend these videos
 * I/O interface  
   * [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
   * [ULN2803A Eight Darlington arrays](./ULN2803A/)
+* Resistor
+  * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
 
 ## [FQP27P06 60V P-Channel MOSFET](./FQP27P06/)
 
@@ -105,3 +107,11 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 
 * find fzpz files here: [ULN2803A)](./ULN2803A/ULN2803A.fzpz)
 * Datasheet: [ULN280x Eight Darlington arrays](https://www.st.com/resource/en/datasheet/uln2801a.pdf)
+
+## Resistor [Sil Resistor 4x470Ω](./Resistor/)
+
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./Resistor/svg/Resistor_sil_5_bb.svg)|![pcb](./Resistor/svg/Resistor_sil_5_pcb.svg)|![schem](./Resistor/svg/Resistor_sil_5_schem.svg)|
+
+* find fzpz files here: [ULN2803A)](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
