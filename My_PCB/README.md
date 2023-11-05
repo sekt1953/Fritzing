@@ -14,29 +14,44 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 ### [PWM_Light_Controller](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
 
-|||
+The PWM Light Controller is a light controller based on an ESP32 and Power Mosfet, it also has an I2C interface where I have connected a BMP230 climate sensor.
+
+|Schematic|PCB|
 |:---:|:---:|
 |![schem](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_schem.png)|![pcb](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_pcb.png)||
 
 ## PCB Board for modelrailway
 
-WM_Light_Controller:  
-The PWM Light Controller is a light controller based on an ESP32 and Power Mosfet, it also has an I2C interface where I have connected a BMP230 climate sensor.
+
 
 ### [occupied_sensor](./occupied_sensor/) 
 
-|||
+Is a card to detect if there are trains on a track section, be it wagons or locomotives, the printed card has 64 inputs.
+
+|Schematic|PCB|
 |:---:|:---:|
 |![schem](./occupied_sensor/v1/occupied_sensor_schem.png)|![](./occupied_sensor/v1/png/occupied_sensor_pcb.png)||
 
-Occupied Sensor:  
-Is a card to detect if there are trains on a track section, be it wagons or locomotives, the printed card has 64 inputs.
+
+## LedDriver with optocoupler
+
+The Led Driver printed circuit board is made with optocouplers in order to realize that many LEDs are already mounted with a common cathode, and therefore cannot be controlled with a darlington array, which needs the LEDs to be mounted with a common anode.
+
+|Schematic|PCB|
+|:---:|:---:|
+|![schem](./LedDriver/v6.1/png/Skærmbillede%20fra%202023-11-05%2021-52-42.png)|![pcb](./LedDriver/v6.1/png/PCB-LedDriver-V6.1_pcb.png)
+
+Version 6.1 has been produced and there is a small stupid bug that requires a PCB path to be cut and then connected to GND, see instructions
+
+|Error|Repair|
+|:---:|:---:|
+|![](./LedDriver/v6.1/Error/Error.png)|![](./LedDriver/v6.1/Error/Repair.png)|
 
 ### [Darlinton_Relay_and_Led_Driver](./Darlinton_Relay_and_Led_Driver/)
 
-|||
+The printed circuit board is a driver card for leds and relays with an anode (+power).
+
+|Schematic|PCB|
 |:---:|:---:|
 |![schem](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_schem.png)|![pcb](./Darlinton_Relay_and_Led_Driver/png/PCF8574_ULN2803_pcb.png)
 
-Darlinton_Relay_and_Led_Driver:  
-The printed circuit board is a driver card for leds and relays with an anode (+power).
