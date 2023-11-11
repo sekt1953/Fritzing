@@ -58,6 +58,15 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 
 * [Fritzing file for download:](./LedDriver/v6.1/PCB-LedDriver-V6.1.fzz)
 
+### Error i version 6.1 fix in 6.4
+
+|Error v6.1|Fix v6.4|
+|:---|:---|
+|![Error](./LedDriver/v6.1/png/PCB-Error-V6.1_schem.png)|![Fix](./LedDriver/v6.1/png/PCB-Fix-V6.4_schem.png)
+|See the blue marking|See marking|
+
+
+
 ### V6.4 work in progress
 
 |Schematic|
