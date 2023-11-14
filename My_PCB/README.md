@@ -65,9 +65,11 @@ The Led Driver printed circuit board is made with optocouplers in order to reali
 |![Error](./LedDriver/v6.1/png/PCB-Error-V6.1_schem.png)|![Fix](./LedDriver/v6.1/png/PCB-Fix-V6.4_schem.png)
 |See the blue marking|See marking|
 
-
-
 ### V6.4 work in progress
+
+v6.4 fixes the plug bug of v6.1 and implements reverse current protection.
+
+![reverse](./LedDriver/ReverseProtection/Reverseprotection%20_schem.png)
 
 |Schematic|
 |:---:|

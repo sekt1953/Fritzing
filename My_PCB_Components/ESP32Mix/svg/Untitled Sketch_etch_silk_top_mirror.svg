@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" y="0in" height="2.22222in" xmlns:svg="http://www.w3.org/2000/svg" width="3.33333in"  x="0in" version="1.2" baseProfile="tiny">
+ <g transform="matrix(-1, 0, 0, 1, 240, 0)">
+  <g partID="57832">
+   <g id="silkscreen">
+    <rect fill="none" height="159.424" y="0.288" stroke="black" width="239.424" x="0.288" stroke-width="0.576"/>
+   </g>
+  </g>
+  <g partID="57830">
+   <g id="board">
+    <rect fill="none" fill-opacity="0.5" height="159.424" y="0.288" stroke="black" id="boardoutline" width="239.424" x="0.288" stroke-width="0.5"/>
+   </g>
+  </g>
+  <g partID="57832">
+   <g id="silkscreen">
+    <rect fill="none" height="159.424" y="0.288" stroke="black" width="239.424" x="0.288" stroke-width="0.576"/>
+   </g>
+  </g>
+  <g partID="12069672">
+   <g transform="translate(53.8892,20.8892)">
+    <g transform="matrix(1, 0, 0, 1, 3.02281, 60.7668)">
+     <g id="silkscreen">
+      <g gorn="0.3.0.0.0">
+       <line class="other" y2="22.677" stroke-opacity="0.9" x2="115.486" gorn="0.3.0.0.0.0" stroke="black" style="stroke-dasharray:none;" id="line55" x1="115.486" stroke-linecap="round" stroke-width="0.580355" y1="-51.2618"/>
+       <line class="other" y2="-17.2201" stroke-opacity="0.9" x2="0.288" gorn="0.3.0.0.0.1" stroke="black" style="stroke-dasharray:none;" id="line56" x1="0.288" stroke-linecap="round" stroke-width="0.593916" y1="-51.1799"/>
+       <line class="other" y2="-10.08" stroke-opacity="0.9" x2="0.288" gorn="0.3.0.0.0.2" stroke="black" style="stroke-dasharray:none;" id="line57" x1="0.288" stroke-linecap="round" stroke-width="0.576" y1="21.3382"/>
+       <path d="m0.288,-17.136a2.88,2.88,0,1,1,0,5.76" fill="none" class="other" stroke-opacity="0.9" gorn="0.3.0.0.0.3" stroke="black" id="path57" stroke-width="0.576"/>
+       <line class="other" y2="-51.696" stroke-opacity="0.9" x2="1.008" gorn="0.3.0.0.0.4" stroke="black" id="line58" x1="0.288" stroke-linecap="round" stroke-width="0.576" y1="-51.696"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="1.008" gorn="0.3.0.0.0.5" stroke="black" id="line60" x1="0.288" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="-51.696" stroke-opacity="0.9" x2="114.768" gorn="0.3.0.0.0.6" stroke="black" id="line61" x1="115.488" stroke-linecap="round" stroke-width="0.576" y1="-51.696"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="114.768" gorn="0.3.0.0.0.7" stroke="black" id="line62" x1="115.488" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="8.208" gorn="0.3.0.0.0.8" stroke="black" id="line70" x1="6.768" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="65.808" gorn="0.3.0.0.0.9" stroke="black" id="line71" x1="64.368" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="73.008" gorn="0.3.0.0.0.10" stroke="black" id="line72" x1="71.568" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="80.208" gorn="0.3.0.0.0.11" stroke="black" id="line73" x1="78.768" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="87.408" gorn="0.3.0.0.0.12" stroke="black" id="line74" x1="85.968" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="94.608" gorn="0.3.0.0.0.13" stroke="black" id="line75" x1="93.168" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="101.808" gorn="0.3.0.0.0.14" stroke="black" id="line76" x1="100.368" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="109.008" gorn="0.3.0.0.0.15" stroke="black" id="line77" x1="107.568" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="15.408" gorn="0.3.0.0.0.16" stroke="black" id="line63" x1="13.968" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="22.608" gorn="0.3.0.0.0.17" stroke="black" id="line64" x1="21.168" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="29.808" gorn="0.3.0.0.0.18" stroke="black" id="line65" x1="28.368" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="37.008" gorn="0.3.0.0.0.19" stroke="black" id="line66" x1="35.568" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="44.208" gorn="0.3.0.0.0.20" stroke="black" id="line67" x1="42.768" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="51.408" gorn="0.3.0.0.0.21" stroke="black" id="line78" x1="49.968" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="23.184" stroke-opacity="0.9" x2="58.608" gorn="0.3.0.0.0.22" stroke="black" id="line79" x1="57.168" stroke-linecap="round" stroke-width="0.576" y1="23.184"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="80.208" gorn="0.3.0.0.0.23" stroke="black" id="line80" x1="78.768" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="87.408" gorn="0.3.0.0.0.24" stroke="black" id="line81" x1="85.968" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="94.608" gorn="0.3.0.0.0.25" stroke="black" id="line82" x1="93.168" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="101.808" gorn="0.3.0.0.0.26" stroke="black" id="line83" x1="100.368" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="109.008" gorn="0.3.0.0.0.27" stroke="black" id="line84" x1="107.568" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="15.408" gorn="0.3.0.0.0.28" stroke="black" id="line85" x1="13.968" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="22.608" gorn="0.3.0.0.0.29" stroke="black" id="line86" x1="21.168" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="29.808" gorn="0.3.0.0.0.30" stroke="black" id="line87" x1="28.368" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="37.008" gorn="0.3.0.0.0.31" stroke="black" id="line88" x1="35.568" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="44.208" gorn="0.3.0.0.0.32" stroke="black" id="line89" x1="42.768" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="51.408" gorn="0.3.0.0.0.33" stroke="black" id="line90" x1="49.968" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="58.608" gorn="0.3.0.0.0.34" stroke="black" id="line91" x1="57.168" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="65.808" gorn="0.3.0.0.0.35" stroke="black" id="line92" x1="64.368" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <line class="other" y2="-51.408" stroke-opacity="0.9" x2="73.008" gorn="0.3.0.0.0.36" stroke="black" id="line93" x1="71.568" stroke-linecap="round" stroke-width="0.576" y1="-51.408"/>
+       <rect fill="none" stroke-opacity="0.9" height="93.0216" y="-60.7668" gorn="0.3.0.0.0.37" style="stroke-linecap:round;stroke-dasharray:none;paint-order:fill markers stroke" stroke="black" id="rect93" width="121.822" x="-3.02281" stroke-width="0"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="partLabel" partID="12069670">
+   <g transform="translate(175.711,15.2892)">
+    <g font-style="normal" fill="#000000" fill-opacity="1" font-family="'OCRA'" stroke="none" id="silkscreenLabel" font-weight="normal" font-size="5">
+     <text y="3.75" x="0">J2</text>
+    </g>
+   </g>
+  </g>
+  <g partID="12069671">
+   <g transform="translate(53.8892,20.8892)">
+    <g transform="matrix(1, 0, 0, 1, 3.02281, 60.7668)">
+     <g id="copper1">
+      <g gorn="0.2.0.0.0">
+       <g gorn="0.2.0.0.0.0" id="copper0">
+        <g gorn="0.2.0.0.0.0.0" id="EXT1">
+         <g gorn="0.2.0.0.0.0.0.0" id="pin1">
+          <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.0.0" stroke="white" connectorname="1" id="connector0pad" cy="25.344" stroke-width="1.44"/>
+          <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.0.1" stroke="white" id="path1" stroke-width="0.72"/>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 7.2, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.1.0.0" id="pin2">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.1.0.0.0" stroke="white" connectorname="1" id="circle9" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.1.0.0.1" stroke="white" id="path9" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 14.4, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.2.0.0" id="pin3">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.2.0.0.0" stroke="white" connectorname="1" id="circle10" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.2.0.0.1" stroke="white" id="path10" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 21.6, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.3.0.0" id="pin4">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.3.0.0.0" stroke="white" connectorname="1" id="circle11" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.3.0.0.1" stroke="white" id="path11" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 28.8, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.4.0.0" id="pin5">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.4.0.0.0" stroke="white" connectorname="1" id="circle12" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.4.0.0.1" stroke="white" id="path12" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 36, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.5.0.0" id="pin6">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.5.0.0.0" stroke="white" connectorname="1" id="circle13" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.5.0.0.1" stroke="white" id="path13" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 43.2, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.6.0.0" id="pin7">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.6.0.0.0" stroke="white" connectorname="1" id="circle14" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.6.0.0.1" stroke="white" id="path14" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 50.4, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.7.0.0" id="pin8">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.7.0.0.0" stroke="white" connectorname="1" id="circle15" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.7.0.0.1" stroke="white" id="path15" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 57.6, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.8.0.0" id="pin9">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.8.0.0.0" stroke="white" connectorname="1" id="circle16" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.8.0.0.1" stroke="white" id="path16" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 64.8, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.9.0.0" id="pin10">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.9.0.0.0" stroke="white" connectorname="1" id="circle17" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.9.0.0.1" stroke="white" id="path17" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 72, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.10.0.0" id="pin11">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.10.0.0.0" stroke="white" connectorname="1" id="circle18" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.10.0.0.1" stroke="white" id="path18" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 79.2, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.11.0.0" id="pin12">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.11.0.0.0" stroke="white" connectorname="1" id="circle19" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.11.0.0.1" stroke="white" id="path19" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 86.4, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.12.0.0" id="pin13">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.12.0.0.0" stroke="white" connectorname="1" id="circle20" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.12.0.0.1" stroke="white" id="path20" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 93.6, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.13.0.0" id="pin14">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.13.0.0.0" stroke="white" connectorname="1" id="circle21" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.13.0.0.1" stroke="white" id="path21" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 100.8, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.14.0.0" id="pin15">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.14.0.0.0" stroke="white" connectorname="1" id="circle22" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.14.0.0.1" stroke="white" id="path22" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(1, 0, 0, 1, 108, 0)">
+          <g>
+           <g>
+            <g gorn="0.2.0.0.0.0.0.15.0.0" id="pin16">
+             <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.0.15.0.0.0" stroke="white" connectorname="1" id="circle23" cy="25.344" stroke-width="1.44"/>
+             <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.0.15.0.0.1" stroke="white" id="path23" stroke-width="0.72"/>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 0, 7.20118)">
+         <g>
+          <g>
+           <g gorn="0.2.0.0.0.0.1.0.0" id="EXT2">
+            <g transform="matrix(1, 0, 0, 1, 0, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.0.0.0" id="pin32">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.0.0.0.0" stroke="white" connectorname="1" id="circle39" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.0.0.0.1" stroke="white" id="path39" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 7.2, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.1.0.0" id="pin31">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.1.0.0.0" stroke="white" connectorname="1" id="circle40" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.1.0.0.1" stroke="white" id="path40" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 14.4, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.2.0.0" id="pin30">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.2.0.0.0" stroke="white" connectorname="1" id="circle41" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.2.0.0.1" stroke="white" id="path41" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 21.6, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.3.0.0" id="pin29">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.3.0.0.0" stroke="white" connectorname="1" id="circle42" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.3.0.0.1" stroke="white" id="path42" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 28.8, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.4.0.0" id="pin28">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.4.0.0.0" stroke="white" connectorname="1" id="circle43" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.4.0.0.1" stroke="white" id="path43" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 36, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.5.0.0" id="pin27">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.5.0.0.0" stroke="white" connectorname="1" id="circle44" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.5.0.0.1" stroke="white" id="path44" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 43.2, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.6.0.0" id="pin26">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.6.0.0.0" stroke="white" connectorname="1" id="circle45" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.6.0.0.1" stroke="white" id="path45" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 50.4, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.7.0.0" id="pin25">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.7.0.0.0" stroke="white" connectorname="1" id="circle46" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.7.0.0.1" stroke="white" id="path46" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 57.6, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.8.0.0" id="pin24">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.8.0.0.0" stroke="white" connectorname="1" id="circle47" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.8.0.0.1" stroke="white" id="path47" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 64.8, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.9.0.0" id="pin23">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.9.0.0.0" stroke="white" connectorname="1" id="circle48" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.9.0.0.1" stroke="white" id="path48" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 72, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.10.0.0" id="pin22">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.10.0.0.0" stroke="white" connectorname="1" id="circle49" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.10.0.0.1" stroke="white" id="path49" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 79.2, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.11.0.0" id="pin21">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.11.0.0.0" stroke="white" connectorname="1" id="circle50" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.11.0.0.1" stroke="white" id="path50" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 86.4, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.12.0.0" id="pin20">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.12.0.0.0" stroke="white" connectorname="1" id="circle51" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.12.0.0.1" stroke="white" id="path51" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 93.6, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.13.0.0" id="pin19">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.13.0.0.0" stroke="white" connectorname="1" id="circle52" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.13.0.0.1" stroke="white" id="path52" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 100.8, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.14.0.0" id="pin18">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.14.0.0.0" stroke="white" connectorname="1" id="circle53" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.14.0.0.1" stroke="white" id="path53" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 108, -79.2)">
+             <g>
+              <g>
+               <g gorn="0.2.0.0.0.0.1.0.0.15.0.0" id="pin17">
+                <circle fill="white" cx="3.888" r="1.512" gorn="0.2.0.0.0.0.1.0.0.15.0.0.0" stroke="white" connectorname="1" id="circle54" cy="25.344" stroke-width="1.44"/>
+                <path d="m3.888,21.6a1.872,1.872,0,0,1,1.872,1.872l0,3.744a1.872,1.872,0,0,1,-1.872,1.872l0,0A1.872,1.872,0,0,1,2.016,27.216L2.016,23.472A1.872,1.872,0,0,1,3.888,21.6Zm-1.152,3.744a1.152,1.152,0,1,0,2.304,0,1.152,1.152,0,1,0,-2.304,0z" fill="white" gorn="0.2.0.0.0.0.1.0.0.15.0.0.1" stroke="white" id="path54" stroke-width="0.72"/>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
