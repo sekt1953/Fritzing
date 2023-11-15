@@ -9,7 +9,7 @@ The next big problem I struggled with was getting the text in the right size and
 
 ### Here are my instructions for making Fritzing components
 
-* [InkScape Document Properties]()
+* [InkScape Document Properties](./Instructions/InkScapeDocumentProperties.md)
 * [Howto make Schematic View Graphics](./Instructions/HowtoMakeSchematicViewGraphics.md)
 * [Howto make PCB View Graphics](./Instructions/HowtoMakePCBViewGraphics.md)
 * [Howto make BreadBoard View Graphics](./Instructions/HowtoMakeBreadBoardViewGraphics.md)
