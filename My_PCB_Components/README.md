@@ -7,6 +7,13 @@ I use inkscape to make the svg files, if you want to start making or editing com
 I found it difficult to design my own components until I found [Fritzing SVG dimension rules](https://forum.fritzing.org/t/fritzing-svg-dimension-rules/10719) on the Fritzing Forum it led me to get the right setup in InkScape, [microMerlin's](https://forum.fritzing.org/u/microMerlin) contribution was of great help.  
 The next big problem I struggled with was getting the text in the right size and position, my solution is to open the svg file in the program Geany and do a search and replace px" with ".
 
+### Here are my instructions for making Fritzing components
+
+* [InkScape Document Properties]()
+* [Howto make Schematic View Graphics](./Instructions/HowtoMakeSchematicViewGraphics.md)
+* [Howto make PCB View Graphics](./Instructions/HowtoMakePCBViewGraphics.md)
+* [Howto make BreadBoard View Graphics](./Instructions/HowtoMakeBreadBoardViewGraphics.md)
+
 ## Good videos to watch before you start
 
 * SidneyCritic ComedyHound Videos
