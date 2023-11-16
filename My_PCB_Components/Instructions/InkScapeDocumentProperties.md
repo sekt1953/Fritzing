@@ -47,7 +47,7 @@ I have experienced that having 2 sets of grids, which you can easily switch betw
 
 |skeleton_DIP_8_300mil_schematic.svg|Skeleton_Sketch.fzz|
 |:---:|:---:|
-|![svg](./images/Skærmbillede%20fra%202023-11-16%2015-09-23.png)|![](./Skeleton/Skeleton_Sketch_schem.png)
+|![skeleton_DIP_8_300mil_schematic](./images/Skærmbillede%20fra%202023-11-16%2015-09-23.png)|![Skeleton_Sketch](./Skeleton/Skeleton_Sketch_schem.png)
 
 * Files
   * [skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)
@@ -55,7 +55,7 @@ I have experienced that having 2 sets of grids, which you can easily switch betw
   * [Skelenton-8-pins.fzpz](./Skeleton/Skelenton-8-pins.fzpz)
   * [Skeleton_Sketch.fzz](./Skeleton/Skeleton_Sketch.fzz)
 
-### Skeleton svg code sample
+### Skeleton XML code sample
 
 Header:
 
@@ -191,7 +191,7 @@ Pin numbers group sample:
          id="text1">1</text>
 ```
 
-XNL code end
+XML code end
 
 ```code
     </g>

@@ -14,55 +14,8 @@ I think you should start your PCB layout by creating a circuit diagram, therefor
 
 A total of 32 pins to be displayed in my Schematic View Graphics
 
-## Create Schematic View Graphics
+## Create Schematic View from skeleton
 
-|Fritzing SVG file|InkScape Document Properties|
-|:---:|:---:|
-|![Image from Fritzing](./svg/Olimex-ESP32-PoE_microcontroller_DIP_20_1000mil_1_schematic.svg)|![](./images/Skærmbillede%20fra%202023-11-15%2014-13-32.png)|
-
-* Start Fritzing
-  * Select Schematic
-    * Parts window select: CORE
-      * Under CORE find ICs and select the first one named IC 
-        * Drag it into the schematic window
-    * In the Inspector window, correct the following
-      * Pins from 8 to 32
-      * Chip label from IC to CPU
-  * Now right-click the new schematic 
-    * Select: Edit (New parts editor), the Parts Editor opens
-      * Select Schematic
-        * Click File -> Show in Folder
-          * Find a file with a name like:
-          "prefix0000_1675214adb8f7492974344c00e5273a4_1_schematic.svg"
-            * Right Clik File and Select: "Open with another program"
-            * Select InkScape
-            * Check Document Properties: (***Remove Show shadow***)
-            * Save file as:
-              * Plain SVG (*.svg)
-              * Name: "Olimex-ESP32-PoE_microcontroller_DIP_20_1000mil_1_schematic.svg"
-* Close Fritzing, ***!!! Do not save***
-
-## Edit Layers and Objects
-
-### Help Group
-
-![Help Group](./images/Skærmbillede%20fra%202023-11-15%2015-13-27.png)
-
-* Create a Help Group
-  * Layers and Objects
-    * Draw a rectangle
-      * Size:
-        * X: 0,000 in
-        * Y: -0,200 in
-        * W: 1,500 in
-        * H: 1,500 in
-    * Group rectangle
-      * Rename Group id: help (***!!! Use XLM Editor***)
-      * Rename Rectangle id: background (***!!! Use XLM Editor***)
-      * Lower to Botton: Group help
-  * Fill and Stroke
-    * Fill:
-      * RGB: 0,0,012  
-      * Stroke paint: No paint
-      * Stroke style:
-        * Width: 0,000 in
+|Skeleton_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|
+|:---:|:---:|:---:|
+|![Skeleton_Sketch_schem.png](./Skeleton/Skærmbillede%20fra%202023-11-16%2022-52-05.png)|![Skærmbillede%20fra%202023-11-16%2022-46-32.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Skærmbillede%20fra%202023-11-16%2022-46-32.png)|![Olimex-ESP32-PoE_32pins_Sketch_schem.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_Sketch_schem.png)|
