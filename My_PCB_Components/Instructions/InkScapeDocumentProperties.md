@@ -55,51 +55,146 @@ I have experienced that having 2 sets of grids, which you can easily switch betw
   * [Skelenton-8-pins.fzpz](./Skeleton/Skelenton-8-pins.fzpz)
   * [Skeleton_Sketch.fzz](./Skeleton/Skeleton_Sketch.fzz)
 
-### My Default Settings
+### Skeleton svg code sample
 
-* help
-  * rect id: background
-    * fill: RGB 0,0,0,15 (or fill: none)
-    * stroke: no paint
-    * stroke With: 0,000 in
-    * stroke Join:
-    * stroke Cap:
-* schematic
-  * rect id: bodypart
-    * fill: no paint
-    * stroke: RGB 0,0,0,100
-    * stroke With: 0,012 in
-    * stroke Join: round
-    * stroke Cap: round
-  * label
-    * text id: label
-      * fill: #000000
-      * stroke: none
-      * font-famely: 'Droid Sans'
-      * text-anchor: middle
-      * font-size: 48
-  * pin1
-    * line id: connector0pin
-      * fill: none
-      * stroke: #787878
-      * stroke-linejoin: round
-      * stroke-linecap: round
-      * stroke-width: 10 mill
-    * rect id: connector0terminal  
-      * fill: none
-      * stroke: none
-      * stroke-width: 0 mill
-      * width: 10 mill
-      * height: 10 mill
-    * text id: label0
-      * fill: #8c8c8c8
-      * stroke: none
-      * font-famely: 'Droid Sans'
-      * text-anchor: start / middle / end
-      * font-size: 48
-    * text id: text0
-      * fill: #8c8c8c8
-      * stroke: none
-      * font-famely: 'Droid Sans'
-      * text-anchor: start / middle / end
-      * font-size: 35
+Header:
+
+```code
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.700in"
+   height="0.700in"
+   viewBox="0 0 700 700"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+```
+
+Help Group:
+
+```code
+<g
+     id="help">
+    <rect
+       stroke-dasharray="none"
+       stroke-width="0"
+       stroke="none"
+       fill-opacity="0.15"
+       fill="none"
+       y="0"
+       x="0"
+       height="700"
+       width="700"
+       id="background" />
+  </g>
+  
+```
+
+Schematic group:
+
+part_symbol & Label:
+
+```code
+<g
+   id="schematic">
+  <rect
+     stroke-opacity="1"
+     stroke-dasharray="none"
+     stroke-linecap="round"
+     stroke-width="12"
+     stroke="#000000"
+     fill="none"
+     y="100"
+     x="100"
+     height="500"
+     width="500"
+     id="part_symbol" />
+  <text
+     font-size="48"
+     x="350"
+     text-anchor="middle"
+     gorn="0.1.1"
+     y="350"
+     id="label"
+     font-family="'Droid Sans'"
+     stroke="none"
+     fill="#000000">Label</text>
+```
+
+Pins group sample:
+
+```code
+    <g
+       id="pins">
+      <line
+         y2="95"
+         stroke-width="10"
+         stroke-linecap="round"
+         y1="5"
+         stroke-linejoin="round"
+         x2="200"
+         x1="200"
+         stroke="#787878"
+         fill="none"
+         id="connector7pin" />
+      <rect
+         paint-order="fill markers stroke"
+         stroke-dasharray="none"
+         stroke-linecap="round"
+         stroke-width="0"
+         stroke="none"
+         fill="none"
+         y="-5"
+         x="195"
+         height="10"
+         width="10"
+         id="connector7terminal" />
+```
+
+Pin labels group sample:
+
+```code
+    <g
+       id="pin_labels">
+      <text
+         font-size="48"
+         x="125"
+         text-anchor="start"
+         gorn="0.1.5"
+         y="317"
+         id="label0"
+         font-family="'Droid Sans'"
+         stroke="none"
+         fill="#8c8c8c">In1&#10;</text>
+```
+
+Pin numbers group sample:
+
+```code
+    <g
+       id="pin_numbers">
+      <text
+         stroke-width="0"
+         font-size="34"
+         x="47"
+         text-anchor="middle"
+         y="290"
+         class="text"
+         font-family="'Droid Sans'"
+         stroke="none"
+         fill="#8c8c8c"
+         id="text1">1</text>
+```
+
+XNL code end
+
+```code
+    </g>
+  </g>
+</svg>
+```
