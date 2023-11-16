@@ -45,11 +45,21 @@ I have experienced that having 2 sets of grids, which you can easily switch betw
 
 ## Schematic View Graphics
 
+|skeleton_DIP_8_300mil_schematic.svg|Skeleton_Sketch.fzz|
+|:---:|:---:|
+|![svg](./images/Skærmbillede%20fra%202023-11-16%2015-09-23.png)|![](./Skeleton/Skeleton%20Sketch_schem.png)
+
+* Files
+  * [skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)
+  * [Skeleton_Sketch_schem.png](./Skeleton/Skeleton_Sketch_schem.png)
+  * [Skelenton-8-pins.fzpz](./Skeleton/Skelenton-8-pins.fzpz)
+  * [Skeleton_Sketch.fzz](./Skeleton/Skeleton_Sketch.fzz)
+
 ### My Default Settings
 
 * help
   * rect id: background
-    * fill: RGB 0,0,0,15
+    * fill: RGB 0,0,0,15 (or fill: none)
     * stroke: no paint
     * stroke With: 0,000 in
     * stroke Join:
