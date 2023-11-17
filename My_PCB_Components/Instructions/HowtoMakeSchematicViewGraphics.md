@@ -207,3 +207,18 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
 * |Before|Now|
   |:---|:---|
   |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-17-46.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-26-06.png)
+
+### Save AS Plain SVG(*.svg)
+
+* Select File -> Save As... -> Plain SVG(*.svg)
+  * make sure you have selected "Plain SVG(*.svg)" as file format.
+  * Press Replace
+
+### Remove px from file
+
+By removing px from text-object font-size parameter will text bee shown corect in Fritzing.
+
+* Open file with Geany (or Notepad++ for windows user)
+  * Select Find -> Replace 
+  * Replace px" with "
+  * Save file

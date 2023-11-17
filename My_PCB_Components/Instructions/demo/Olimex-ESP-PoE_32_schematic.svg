@@ -7,49 +7,8 @@
    viewBox="0 0 1499.9999 1700"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Olimex-ESP-PoE_32_schematic.svg"
-   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
-     showgrid="true"
-     inkscape:zoom="4.1037448"
-     inkscape:cx="30.581824"
-     inkscape:cy="80.414357"
-     inkscape:window-width="1920"
-     inkscape:window-height="980"
-     inkscape:window-x="3840"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="pin_labels_ext1">
-    <inkscape:grid
-       id="grid1"
-       units="in"
-       originx="0"
-       originy="0"
-       spacingx="25.000001"
-       spacingy="25"
-       empcolor="#009900"
-       empopacity="1"
-       color="#0000e5"
-       opacity="0.14901961"
-       empspacing="4"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
-       visible="true" />
-  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
@@ -81,11 +40,11 @@
        width="1300"
        id="part_symbol" />
     <text
-       font-size="48px"
-       x="350"
+       font-size="48"
+       x="749.98047"
        text-anchor="middle"
        gorn="0.1.1"
-       y="350"
+       y="650.46875"
        id="label"
        font-family="'Droid Sans'"
        stroke="none"
@@ -846,210 +805,120 @@
       <g
          id="pin_labels_uext">
         <text
-           font-size="48px"
-           x="142.96303"
+           font-size="48"
+           x="623.02454"
            text-anchor="middle"
            gorn="0.1.5"
-           y="376.96301"
-           id="label6"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+3V3</text>
-        <text
-           font-size="48px"
-           x="78.578003"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="313.578"
-           id="label7"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+5V</text>
-        <text
-           font-size="48px"
-           x="284.3844"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="518.38434"
-           id="text64"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+3V3</text>
-        <text
-           font-size="48px"
-           x="219.99937"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="454.99936"
-           id="text65"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+5V</text>
-        <text
-           font-size="48px"
-           x="425.80576"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="659.80573"
-           id="text66"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+3V3</text>
-        <text
-           font-size="48px"
-           x="361.42075"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="596.42072"
-           id="text67"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+5V</text>
-        <text
-           font-size="48px"
-           x="567.22711"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="801.22711"
-           id="text68"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+3V3</text>
-        <text
-           font-size="48px"
-           x="502.84207"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="737.8421"
-           id="text69"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c"
-           transform="rotate(-45)">+5V</text>
-        <text
-           font-size="48px"
-           x="708.6485"
-           text-anchor="middle"
-           gorn="0.1.5"
-           y="942.6485"
+           y="971.73877"
            id="text70"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           transform="rotate(-45)">+3V3</text>
+           transform="rotate(-45)">GPIO5\SPICS</text>
         <text
-           font-size="48px"
-           x="644.26343"
+           font-size="48"
+           x="529.04041"
            text-anchor="middle"
            gorn="0.1.5"
-           y="879.26349"
+           y="901.01636"
            id="text71"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           transform="rotate(-45)">+5V</text>
+           transform="rotate(-45)">GPIO14\HSCLK</text>
+        <text
+           font-size="48"
+           x="456.70084"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="830.37598"
+           id="text68"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPIO2\HSDATA</text>
+        <text
+           font-size="48"
+           x="378.93546"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="759.59497"
+           id="text69"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPIO15\HSCMD</text>
+        <text
+           font-size="48"
+           x="343.05292"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="688.95459"
+           id="text66"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPIO13\SDA</text>
+        <text
+           font-size="48"
+           x="278.04926"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="618.17358"
+           id="text67"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPIO16\SCL</text>
+        <text
+           font-size="48"
+           x="221.74092"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="547.46295"
+           id="text64"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPI36\RXD</text>
+        <text
+           font-size="48"
+           x="148.37009"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="476.75226"
+           id="text65"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GPIO4\TXD</text>
+        <text
+           font-size="48"
+           x="147.45627"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="406.04156"
+           id="label6"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">GND</text>
+        <text
+           font-size="48"
+           x="26.683088"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="333.784"
+           id="label7"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+3V3 Out</text>
       </g>
       <g
          id="pin_labels_ext2">
         <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="517.80469"
-           id="label5"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out1</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="617.42578"
-           id="label4"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out2</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="717.80469"
-           id="text56"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out1</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="817.42578"
-           id="text57"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out2</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="917.80469"
-           id="text58"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out1</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="1017.4258"
-           id="text59"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out2</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="1117.8047"
-           id="text60"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out1</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="1217.4258"
-           id="text61"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out2</text>
-        <text
-           font-size="48px"
-           x="1381.6641"
-           text-anchor="end"
-           gorn="0.1.5"
-           y="1317.8047"
-           id="text62"
-           font-family="'Droid Sans'"
-           stroke="none"
-           fill="#8c8c8c">Out1</text>
-        <text
-           font-size="48px"
+           font-size="48"
            x="1381.6641"
            text-anchor="end"
            gorn="0.1.5"
@@ -1057,23 +926,113 @@
            id="text63"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">Out2</text>
+           fill="#8c8c8c">GPIO13\SDA</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1317.8047"
+           id="text62"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO14</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1217.4258"
+           id="text61"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO15</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1117.8047"
+           id="text60"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO16\SCL</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1017.4258"
+           id="text59"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO32\HSCMD</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="917.80469"
+           id="text58"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO33\HSCLK</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="817.42578"
+           id="text57"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPI34</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="717.80469"
+           id="text56"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPI35</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="617.42578"
+           id="label4"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPI36\RXD</text>
+        <text
+           font-size="48"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="517.80469"
+           id="label5"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPI39</text>
       </g>
       <g
          id="pin_labels_batt">
         <text
-           font-size="48px"
-           x="-497.4176"
+           font-size="48"
+           x="-426.92029"
            text-anchor="middle"
            gorn="0.1.5"
-           y="1691.5693"
+           y="1762.0667"
            id="label3"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           transform="rotate(-45)">GND</text>
+           transform="rotate(-45)">-BATT</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="-657.41766"
            text-anchor="middle"
            gorn="0.1.5"
@@ -1082,12 +1041,12 @@
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           transform="rotate(-45)">EN</text>
+           transform="rotate(-45)">+BATT</text>
       </g>
       <g
          id="pin_labels_ext1">
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1095,9 +1054,9 @@
            id="text54"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">GPIO5</text>
+           fill="#8c8c8c">GPIO5\SPICS</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1105,9 +1064,9 @@
            id="text55"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">GPIO4</text>
+           fill="#8c8c8c">GPIO4\TXD</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1117,7 +1076,7 @@
            stroke="none"
            fill="#8c8c8c">GPIO3</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1125,9 +1084,9 @@
            id="text53"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">GPIO2</text>
+           fill="#8c8c8c">GPIO2\HSDATA</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1137,7 +1096,7 @@
            stroke="none"
            fill="#8c8c8c">GPIO1</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1147,7 +1106,7 @@
            stroke="none"
            fill="#8c8c8c">GPIO0</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1157,7 +1116,7 @@
            stroke="none"
            fill="#8c8c8c">EN</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125.07812"
            text-anchor="start"
            gorn="0.1.5"
@@ -1167,7 +1126,7 @@
            stroke="none"
            fill="#8c8c8c">GND</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125"
            text-anchor="start"
            gorn="0.1.5"
@@ -1177,7 +1136,7 @@
            stroke="none"
            fill="#8c8c8c">+3V3 Out</text>
         <text
-           font-size="48px"
+           font-size="48"
            x="125"
            text-anchor="start"
            gorn="0.1.5"
@@ -1194,85 +1153,349 @@
          id="pin_numbers_uext">
         <text
            stroke-width="0"
-           font-size="34px"
-           x="185"
+           font-size="34"
+           x="1186.2324"
            text-anchor="end"
-           y="79"
+           y="79.271484"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text8">8</text>
+           id="text94">30</text>
         <text
            stroke-width="0"
-           font-size="34px"
-           x="486"
+           font-size="34"
+           x="1084.9668"
            text-anchor="end"
            y="79"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text7">7</text>
+           id="text95">29</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="986.23242"
+           text-anchor="end"
+           y="79.271484"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text92">28</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="884.9668"
+           text-anchor="end"
+           y="79"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text93">27</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="786.23242"
+           text-anchor="end"
+           y="79.271484"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text90">26</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="684.9668"
+           text-anchor="end"
+           y="79"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text91">25</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="586.23242"
+           text-anchor="end"
+           y="79.271484"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text88">24</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="484.9668"
+           text-anchor="end"
+           y="79"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text89">23</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="386.23242"
+           text-anchor="end"
+           y="79.271484"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text7">22</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="284.9668"
+           text-anchor="end"
+           y="79"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text8">21</text>
       </g>
       <g
          id="pin_numbers_ext2">
         <text
            stroke-width="0"
-           font-size="34px"
-           x="647"
+           font-size="34"
+           x="1447.4873"
            text-anchor="middle"
-           y="290"
+           y="1388.6201"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text6">6</text>
+           id="text87">20</text>
         <text
            stroke-width="0"
-           font-size="34px"
-           x="647"
+           font-size="34"
+           x="1447.4873"
            text-anchor="middle"
-           y="389"
+           y="1289.6201"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text5">5</text>
+           id="text86">19</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="1188.6201"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text85">18</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="1089.6201"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text84">17</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="988.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text83">16</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="889.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text82">15</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="788.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text81">14</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="689.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text80">13</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="588.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text5">12</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="1447.4873"
+           text-anchor="middle"
+           y="489.62012"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text6">11</text>
       </g>
       <g
          id="pin_numbers_batt">
         <text
            stroke-width="0"
-           font-size="34px"
-           x="386"
+           font-size="34"
+           x="885.34473"
            text-anchor="end"
-           y="654"
+           y="1654.4043"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text4">4</text>
+           id="text4">30</text>
         <text
            stroke-width="0"
-           font-size="34px"
-           x="186"
+           font-size="34"
+           x="585.55176"
            text-anchor="end"
-           y="654"
+           y="1654.4043"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
-           id="text3">5</text>
+           id="text3">31</text>
       </g>
       <g
          id="pin_numbers_ext1">
         <text
            stroke-width="0"
-           font-size="34px"
-           x="47"
+           font-size="34"
+           x="46.769531"
            text-anchor="middle"
-           y="390"
+           y="1390.2715"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text78">10</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="1290.2715"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text79">9</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="1190.2715"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text76">8</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="1090.2715"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text77">7</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="990.27148"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text74">6</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="890.27148"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text75">5</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="790.27148"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text72">4</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="690.27148"
+           class="text"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           id="text73">3</text>
+        <text
+           stroke-width="0"
+           font-size="34"
+           x="46.769531"
+           text-anchor="middle"
+           y="590.27148"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
@@ -1280,10 +1503,10 @@
            id="text2">2</text>
         <text
            stroke-width="0"
-           font-size="34px"
-           x="47"
+           font-size="34"
+           x="46.769531"
            text-anchor="middle"
-           y="290"
+           y="490.27148"
            class="text"
            font-family="'Droid Sans'"
            stroke="none"
