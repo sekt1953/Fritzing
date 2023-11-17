@@ -77,82 +77,94 @@ My pen label schema:
 |9|GPIO4\TXD|GPIO14|GPIO14\HSCLK||
 |10|GPIO5\SPICS|GPIO13\SDA|GPIO5\SPICS||
 
-### How I make it
+## How I make it
 
-* Create new file:
-  * Copy the "[skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)" to working directory
-  * Rename the skeleton to "Olimex-ESP-PoE_32_schematic.svg" or whatever name you want to use for your component
-* Set the size of your component:
-  * Set background size
-    * Select "Object -> Layers and Objects"
-    * Expand the help group
-      * Select "background" rectangle object
-      * Select "Edit -> XML Editor"
-      * Check and edit settings to:
-        * |Name|Value|
-          |:---|:---|
-          |id|background|
-          |width|1500|
-          |height|1700|
-          |x|0|
-          |y|0|
-          |fill|none|
-          |fill-opacity|0.15|
-          |stroke|none|
-          |stroke-width|0|
-          |stroke-dasharray|none|
-        * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
-      * Resize to content:
-        * Select: "File -> Document Properties"
-        * Click: "Display -> Front page -> Resize to content"
-      * Remove Shadow:
-        * UnCheck "Display -> Display -> show shadow"
-  * Set part_symbol size:
-    * Select "Object -> Layers and Objects"
-    * Expand the schematic group
-      * Select "part_symbol" rectangle object
-      * Select "Edit -> XML Editor"
-      * Check and edit settings to:
-        * |Name|Value|
-          |:---|:---|
-          |id|part_symbol|
-          |width|1300|
-          |height|1500|
-          |x|100|
-          |y|100|
-          |fill|none|
-          |stroke|#000000|
-          |stroke-width|12|
-          |stroke-linecap|round|
-          |stroke-dasharray|none|
-          |stroke-opacity|1|
-        * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
-* Edit schematic group names
-  * Select "Layers and Object"
-    * Expand "pin_numbers" group
-    * Rename "pin_numbers" groups:
-      * |Old|New|
+### Create new file:
+
+* Copy the "[skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)" to working directory
+* Rename the skeleton to "Olimex-ESP-PoE_32_schematic.svg" or whatever name you want to use for your component
+
+### Set the size of your component:
+
+* Set "background" size
+  * Select "Object -> Layers and Objects"
+  * Expand the help group
+    * Select "background" rectangle object
+    * Select "Edit -> XML Editor"
+    * Check and edit settings to:
+      * |Name|Value|
         |:---|:---|
-        | pin_numbers_west|pin_numbers_ext1|
-        | pin_numbers_south|pin_numbers_batt|
-        | pin_numbers_east|pin_numbers_ext2|
-        | pin_numbers_north|pin_numbers_uext|
-    * Expand "pin_labels" group
-    * Rename "pin_labels" groups:
-      * |Old|New|
+        |id|background|
+        |width|1500|
+        |height|1700|
+        |x|0|
+        |y|0|
+        |fill|none|
+        |fill-opacity|0.15|
+        |stroke|none|
+        |stroke-width|0|
+        |stroke-dasharray|none|
+      * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
+    * Resize to content:
+      * Select: "File -> Document Properties"
+      * Click: "Display -> Front page -> Resize to content"
+    * Remove Shadow:
+      * UnCheck "Display -> Display -> show shadow"
+* Set "part_symbol" size:
+  * Select "Object -> Layers and Objects"
+  * Expand the schematic group
+    * Select "part_symbol" rectangle object
+    * Select "Edit -> XML Editor"
+    * Check and edit settings to:
+      * |Name|Value|
         |:---|:---|
-        | pin_labels_west|pin_labels_ext1|
-        | pin_labels_south|pin_labels_batt|
-        | pin_labels_east|pin_labels_ext2|
-        | pin_labels_north|pin_labels_uext|
-    * Expand "pins" group
-    * Rename "pins" groups:
-      * |Old|New|
-        |:---|:---|
-        | pins_west|pins_ext1|
-        | pins_south|pins_batt|
-        | pins_east|pins_ext2|
-        | pins_north|pins_uext|
-  * |Before||Now||
-    |:---|:---|:---|:---|
-    |![before L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-03-41.png)|![before XML](./demo/images/Skærmbillede%20fra%202023-11-17%2014-09-27.png)|![now L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-51.png)|![now xml](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-25.png)
+        |id|part_symbol|
+        |width|1300|
+        |height|1500|
+        |x|100|
+        |y|100|
+        |fill|none|
+        |stroke|#000000|
+        |stroke-width|12|
+        |stroke-linecap|round|
+        |stroke-dasharray|none|
+        |stroke-opacity|1|
+      * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
+* |Before||Now|
+  |:---|:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2014-35-45.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2014-36-12.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2014-37-19.png)|
+
+### Edit schematic group names
+
+* Select "Layers and Object"
+  * Expand "pin_numbers" group
+  * Rename "pin_numbers" groups:
+    * |Old|New|
+      |:---|:---|
+      | pin_numbers_west|pin_numbers_ext1|
+      | pin_numbers_south|pin_numbers_batt|
+      | pin_numbers_east|pin_numbers_ext2|
+      | pin_numbers_north|pin_numbers_uext|
+  * Expand "pin_labels" group
+  * Rename "pin_labels" groups:
+    * |Old|New|
+      |:---|:---|
+      | pin_labels_west|pin_labels_ext1|
+      | pin_labels_south|pin_labels_batt|
+      | pin_labels_east|pin_labels_ext2|
+      | pin_labels_north|pin_labels_uext|
+  * Expand "pins" group
+  * Rename "pins" groups:
+    * |Old|New|
+      |:---|:---|
+      | pins_west|pins_ext1|
+      | pins_south|pins_batt|
+      | pins_east|pins_ext2|
+      | pins_north|pins_uext|
+* |Before||Now||
+  |:---|:---|:---|:---|
+  |![before L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-03-41.png)|![before XML](./demo/images/Skærmbillede%20fra%202023-11-17%2014-09-27.png)|![now L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-51.png)|![now xml](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-25.png)
+
+### Add Pins to EXT1
+
+* 
