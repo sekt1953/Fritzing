@@ -86,12 +86,21 @@ My pen label schema:
   * Set background size
     * Select "Object -> Layers and Objects"
     * Expand the help group
-      * Select background rectangle object
-        * Set size to:
-          * X: 0,000 in
-          * Y: 0,000 in
-          * W: 1,500 in
-          * H: 1,700 in
+      * Select "background" rectangle object
+      * Select "Edit -> XML Editor"
+      * Check and edit settings to:
+        * |Name|Value|
+          |:---|:---|
+          |id|background|
+          |width|1500|
+          |height|1700|
+          |x|0|
+          |y|0|
+          |fill|none|
+          |fill-opacity|0.15|
+          |stroke|none|
+          |stroke-width|0|
+          |stroke-dasharray|none|
       * Resize to content:
         * Select: "File -> Document Properties"
         * Click: "Display -> Front page -> Resize to content"
