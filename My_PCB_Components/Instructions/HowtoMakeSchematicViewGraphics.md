@@ -101,6 +101,7 @@ My pen label schema:
           |stroke|none|
           |stroke-width|0|
           |stroke-dasharray|none|
+        * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
       * Resize to content:
         * Select: "File -> Document Properties"
         * Click: "Display -> Front page -> Resize to content"
@@ -110,7 +111,7 @@ My pen label schema:
     * Select "Object -> Layers and Objects"
     * Expand the schematic group
       * Select part_symbol rectangle object
-    * Select "Edit -> XML Editor"
+      * Select "Edit -> XML Editor"
       * Check and edit settings to:
        * |Name|Value|
          |:---|:---|
@@ -125,5 +126,5 @@ My pen label schema:
          |stroke-linecap|round|
          |stroke-dasharray|none|
          |stroke-opacity|1|
-      * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
+        * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
 
