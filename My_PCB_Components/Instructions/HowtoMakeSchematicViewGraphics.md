@@ -219,6 +219,32 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
 By removing px from text-object font-size parameter will text bee shown corect in Fritzing.
 
 * Open file with Geany (or Notepad++ for windows user)
-  * Select Find -> Replace 
+  * Select Find -> Replace
   * Replace px" with "
   * Save file
+
+## Fritzing Add New Component
+
+### Open Fritzing
+
+* Click Schematic
+  * In Parts -> core -> ICs
+    * Add a Generic IC
+    * Change numbers of pins in "Inspector -> pins" from "8" to "32"
+
+### Open New Parts Editor by:
+
+* Right-Click IC1 to Edit it in Parts Editor
+  * Select Schematic View
+  * Select "File -> Load Images for view"
+    * Find Your file "Olimex-ESP-PoE_32_schematic.svg"
+  * Click File -> Save as new part 
+    * Fill Filename prefix with you filename (Demo)
+
+
+
+* |Fritzind|Parts Editor|
+  |:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-56-34.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-57-42.png)|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-58-03.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2017-10-18.png)
+
