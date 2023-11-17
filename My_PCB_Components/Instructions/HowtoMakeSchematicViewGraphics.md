@@ -240,9 +240,6 @@ By removing px from text-object font-size parameter will text bee shown corect i
     * Find Your file "Olimex-ESP-PoE_32_schematic.svg"
   * Click File -> Save as new part 
     * Fill Filename prefix with you filename (Demo)
-
-
-
 * |Fritzind|Parts Editor Schematic before|
   |:---|:---|
   |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-56-34.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-57-42.png)|
