@@ -34,7 +34,7 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
   * connector0terminal is connection point for pin 1
   * connector0pin is pin no.1
 
-#### Pen_id Schema:
+#### Pin_id Schema
 
 |type|pin|ext1|ext2|uext|batt|
 |:---:|---:|:---|:---|:---|:---|
@@ -59,23 +59,23 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
 |rect|10|connector9terminal|connector19terminal|connector29terminal||
 |line|10|connector9pin|connector19pin|connector29pin||
 
-My pen label schema:
+### Pin_label text Schema
 
 * [ESP32-POE latest schematic in PDF format](https://github.com/OLIMEX/ESP32-POE/blob/master/HARDWARE/ESP32-PoE-hardware-revision-K/ESP32-PoE_Rev_K.pdf)
 * [ESP32-POE GPIO map](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/resources/ESP32-POE-GPIO.png)
 
-|pen|ext1|ext2|uext|batt|
-|---:|:---|:---|:---|:---|
-|1|+5V IN/Out|GPI39|+3V3 Out|+BATT|
-|2|+3V3 Out|GPI36\RXD|GND|-BATT|
-|3|GND|GPI35|GPIO4\TXD||
-|4|EN|GPI34|GPI36\RXD||
-|5|GPIO0|GPIO33\HSCLK|GPIO16\SCL||
-|6|GPIO1|GPIO32\HSCMD|GPIO13\SDA||
-|7|GPIO2\HSDATA|GPIO16\SCL|GPIO15\HSCMD||
-|8|GPIO3|GPIO15|GPIO2\HSDATA||
-|9|GPIO4\TXD|GPIO14|GPIO14\HSCLK||
-|10|GPIO5\SPICS|GPIO13\SDA|GPIO5\SPICS||
+|nr.|ext1|nr.|ext2|nr.|uext|nr.|batt|
+|---:|:---|:---|:---|:---|:---|:---|:---|
+|1|+5V IN/Out|11|GPI39|21|+3V3 Out|31|+BATT|
+|2|+3V3 Out|12|GPI36\RXD|22|GND|32|-BATT|
+|3|GND|13|GPI35|23|GPIO4\TXD||
+|4|EN|14|GPI34|24|GPI36\RXD||
+|5|GPIO0|15|GPIO33\HSCLK|25|GPIO16\SCL||
+|6|GPIO1|16|GPIO32\HSCMD|26|GPIO13\SDA||
+|7|GPIO2\HSDATA|17|GPIO16\SCL|27|GPIO15\HSCMD||
+|8|GPIO3|18|GPIO15|28|GPIO2\HSDATA||
+|9|GPIO4\TXD|19|GPIO14|29|GPIO14\HSCLK||
+|10|GPIO5\SPICS|20|GPIO13\SDA|30|GPIO5\SPICS||
 
 ## How I make it
 
@@ -174,10 +174,25 @@ My pen label schema:
     * Repeate the duplication until there are 10 pens.
   * Select XML Editor
     * Rename pins following the "Pen_id Schema" listed in top
-* Repeate thisd process for all pin groups.
+* Repeate this process for all "pins" groups.
 * |Before|Now|
   |:---|:---|
   |![before](./demo/images/Skærmbillede%20fra%202023-11-17%2014-43-55.png)|![after](./demo/images/Skærmbillede%20fra%202023-11-17%2014-46-58.png)|
   |![](./demo/images/Skærmbillede%20fra%202023-11-17%2015-04-12.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2015-18-40.png)
 
-### Duplicate Labels
+### Duplicate Pin Labels
+
+* Select Layers and Object -> schematic -> labels -> pin_labels_ext1
+  * Select Objects "label0" & "label1"
+    * Press {[CTRL]+D to Duplicate Pins
+    * Move Pens to position by "X: or Y: - or +" sign in top of frame
+    * Repeate the duplication until there are 10 pens.
+  * Select XML Editor
+    * Rename pins following the "Pin_label Schema" listed in top
+* Repeate this process for all "pins_labes" groups.
+* |Before|Now|
+  |:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2015-33-47.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-00-00.png)
+
+### Duplicate Pin Numbers
+

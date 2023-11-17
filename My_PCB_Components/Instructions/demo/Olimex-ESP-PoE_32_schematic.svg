@@ -2,13 +2,54 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="0.700in"
-   height="0.700in"
-   viewBox="0 0 700 700"
+   width="1.4999999in"
+   height="1.6999999in"
+   viewBox="0 0 1499.9999 1700"
    version="1.1"
    id="svg1"
+   sodipodi:docname="Olimex-ESP-PoE_32_schematic.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="4.1037448"
+     inkscape:cx="30.581824"
+     inkscape:cy="80.414357"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="pin_labels_ext1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="25.000001"
+       spacingy="25"
+       empcolor="#009900"
+       empopacity="1"
+       color="#0000e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
@@ -21,8 +62,8 @@
        fill="none"
        y="0"
        x="0"
-       height="700"
-       width="700"
+       height="1700"
+       width="1500"
        id="background" />
   </g>
   <g
@@ -36,11 +77,11 @@
        fill="none"
        y="100"
        x="100"
-       height="500"
-       width="500"
+       height="1500"
+       width="1300"
        id="part_symbol" />
     <text
-       font-size="48"
+       font-size="48px"
        x="350"
        text-anchor="middle"
        gorn="0.1.1"
@@ -52,18 +93,18 @@
     <g
        id="pins">
       <g
-         id="pins_north">
+         id="pins_uext">
         <line
            y2="95"
            stroke-width="10"
            stroke-linecap="round"
            y1="5"
            stroke-linejoin="round"
-           x2="200"
-           x1="200"
+           x2="300"
+           x1="300"
            stroke="#787878"
            fill="none"
-           id="connector7pin" />
+           id="line20" />
         <rect
            paint-order="fill markers stroke"
            stroke-dasharray="none"
@@ -72,10 +113,56 @@
            stroke="none"
            fill="none"
            y="-5"
-           x="195"
+           x="295"
            height="10"
            width="10"
-           id="connector7terminal" />
+           id="rect26" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="400"
+           x1="400"
+           stroke="#787878"
+           fill="none"
+           id="line21" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="395"
+           height="10"
+           width="10"
+           id="rect32" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="600"
+           x1="600"
+           stroke="#787878"
+           fill="none"
+           id="line40" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="595"
+           height="10"
+           width="10"
+           id="rect41" />
         <line
            y2="95"
            stroke-width="10"
@@ -86,7 +173,7 @@
            x1="500"
            stroke="#787878"
            fill="none"
-           id="connector6pin" />
+           id="line41" />
         <rect
            paint-order="fill markers stroke"
            stroke-dasharray="none"
@@ -98,18 +185,530 @@
            x="495"
            height="10"
            width="10"
-           id="connector6terminal" />
-      </g>
-      <g
-         id="pins_east">
+           id="rect42" />
         <line
-           y2="300"
+           y2="95"
            stroke-width="10"
            stroke-linecap="round"
-           y1="300"
+           y1="5"
            stroke-linejoin="round"
-           x2="695"
-           x1="605"
+           x2="800"
+           x1="800"
+           stroke="#787878"
+           fill="none"
+           id="line42" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="795"
+           height="10"
+           width="10"
+           id="rect43" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="700"
+           x1="700"
+           stroke="#787878"
+           fill="none"
+           id="line43" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="695"
+           height="10"
+           width="10"
+           id="rect44" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="1000"
+           x1="1000"
+           stroke="#787878"
+           fill="none"
+           id="line44" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="995"
+           height="10"
+           width="10"
+           id="rect45" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="900"
+           x1="900"
+           stroke="#787878"
+           fill="none"
+           id="line45" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="895"
+           height="10"
+           width="10"
+           id="rect46" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="1200"
+           x1="1200"
+           stroke="#787878"
+           fill="none"
+           id="line46" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="1195"
+           height="10"
+           width="10"
+           id="rect47" />
+        <line
+           y2="95"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="5"
+           stroke-linejoin="round"
+           x2="1100"
+           x1="1100"
+           stroke="#787878"
+           fill="none"
+           id="line47" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="-5"
+           x="1095"
+           height="10"
+           width="10"
+           id="rect48" />
+      </g>
+      <g
+         id="pins_ext2">
+        <line
+           y2="500"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="500"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line19" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="495"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect25" />
+        <line
+           y2="600.11334"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="600.11334"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line18" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="595"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect24" />
+        <line
+           y2="700"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="700"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line32" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="695"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect33" />
+        <line
+           y2="800.11334"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="800.11334"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line33" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="795"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect34" />
+        <line
+           y2="900"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="900"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line34" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="895"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect35" />
+        <line
+           y2="1000.1133"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1000.1133"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line35" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="995"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect36" />
+        <line
+           y2="1100"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1100"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line36" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1095"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect37" />
+        <line
+           y2="1200.1133"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1200.1133"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line37" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1195"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect38" />
+        <line
+           y2="1300"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1300"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line38" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1295"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect39" />
+        <line
+           y2="1400.1133"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1400.1133"
+           stroke-linejoin="round"
+           x2="1495"
+           x1="1405"
+           stroke="#787878"
+           fill="none"
+           id="line39" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1395"
+           x="1495"
+           height="10"
+           width="10"
+           id="rect40" />
+      </g>
+      <g
+         id="pins_batt">
+        <line
+           y2="1695"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1605"
+           stroke-linejoin="round"
+           x2="900"
+           x1="900"
+           stroke="#787878"
+           fill="none"
+           id="line17" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1695"
+           x="895"
+           height="10"
+           width="10"
+           id="rect23" />
+        <line
+           y2="1695"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1605"
+           stroke-linejoin="round"
+           x2="600"
+           x1="600"
+           stroke="#787878"
+           fill="none"
+           id="line16" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1695"
+           x="595"
+           height="10"
+           width="10"
+           id="rect21" />
+      </g>
+      <g
+         id="pins_ext1">
+        <line
+           y2="1400"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1400"
+           stroke-linejoin="round"
+           x2="95"
+           x1="5"
+           stroke="#787878"
+           fill="none"
+           id="connector9pin" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1395"
+           x="-5"
+           height="10"
+           width="10"
+           id="connector9terminal" />
+        <line
+           y2="1300"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1300"
+           stroke-linejoin="round"
+           x2="95"
+           x1="5"
+           stroke="#787878"
+           fill="none"
+           id="connector8pin" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1295"
+           x="-5"
+           height="10"
+           width="10"
+           id="connector8terminal" />
+        <line
+           y2="1200"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1200"
+           stroke-linejoin="round"
+           x2="95"
+           x1="5"
+           stroke="#787878"
+           fill="none"
+           id="connector7pin" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1195"
+           x="-5"
+           height="10"
+           width="10"
+           id="connector7terminal" />
+        <line
+           y2="1100"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1100"
+           stroke-linejoin="round"
+           x2="95"
+           x1="5"
+           stroke="#787878"
+           fill="none"
+           id="connector6pin" />
+        <rect
+           paint-order="fill markers stroke"
+           stroke-dasharray="none"
+           stroke-linecap="round"
+           stroke-width="0"
+           stroke="none"
+           fill="none"
+           y="1095"
+           x="-5"
+           height="10"
+           width="10"
+           id="connector6terminal" />
+        <line
+           y2="1000"
+           stroke-width="10"
+           stroke-linecap="round"
+           y1="1000"
+           stroke-linejoin="round"
+           x2="95"
+           x1="5"
            stroke="#787878"
            fill="none"
            id="connector5pin" />
@@ -120,19 +719,19 @@
            stroke-width="0"
            stroke="none"
            fill="none"
-           y="295"
-           x="695"
+           y="995"
+           x="-5"
            height="10"
            width="10"
            id="connector5terminal" />
         <line
-           y2="400.11331"
+           y2="900"
            stroke-width="10"
            stroke-linecap="round"
-           y1="400.11331"
+           y1="900"
            stroke-linejoin="round"
-           x2="695"
-           x1="605"
+           x2="95"
+           x1="5"
            stroke="#787878"
            fill="none"
            id="connector4pin" />
@@ -143,22 +742,19 @@
            stroke-width="0"
            stroke="none"
            fill="none"
-           y="395"
-           x="695"
+           y="895"
+           x="-5"
            height="10"
            width="10"
            id="connector4terminal" />
-      </g>
-      <g
-         id="pins_south">
         <line
-           y2="695"
+           y2="800"
            stroke-width="10"
            stroke-linecap="round"
-           y1="605"
+           y1="800"
            stroke-linejoin="round"
-           x2="400"
-           x1="400"
+           x2="95"
+           x1="5"
            stroke="#787878"
            fill="none"
            id="connector3pin" />
@@ -169,19 +765,19 @@
            stroke-width="0"
            stroke="none"
            fill="none"
-           y="695"
-           x="395"
+           y="795"
+           x="-5"
            height="10"
            width="10"
            id="connector3terminal" />
         <line
-           y2="695"
+           y2="700"
            stroke-width="10"
            stroke-linecap="round"
-           y1="605"
+           y1="700"
            stroke-linejoin="round"
-           x2="200"
-           x1="200"
+           x2="95"
+           x1="5"
            stroke="#787878"
            fill="none"
            id="connector2pin" />
@@ -193,18 +789,15 @@
            stroke="none"
            fill="none"
            y="695"
-           x="195"
+           x="-5"
            height="10"
            width="10"
            id="connector2terminal" />
-      </g>
-      <g
-         id="pins_west">
         <line
-           y2="400"
+           y2="600"
            stroke-width="10"
            stroke-linecap="round"
-           y1="400"
+           y1="600"
            stroke-linejoin="round"
            x2="95"
            x1="5"
@@ -218,16 +811,16 @@
            stroke-width="0"
            stroke="none"
            fill="none"
-           y="395"
+           y="595"
            x="-5"
            height="10"
            width="10"
            id="connector1terminal" />
         <line
-           y2="300"
+           y2="500"
            stroke-width="10"
            stroke-linecap="round"
-           y1="300"
+           y1="500"
            stroke-linejoin="round"
            x2="95"
            x1="5"
@@ -241,7 +834,7 @@
            stroke-width="0"
            stroke="none"
            fill="none"
-           y="295"
+           y="495"
            x="-5"
            height="10"
            width="10"
@@ -251,72 +844,240 @@
     <g
        id="pin_labels">
       <g
-         id="pin_labels_north">
+         id="pin_labels_uext">
         <text
-           font-size="48"
-           x="8"
+           font-size="48px"
+           x="142.96303"
            text-anchor="middle"
            gorn="0.1.5"
-           y="243"
+           y="376.96301"
+           id="label6"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+3V3</text>
+        <text
+           font-size="48px"
+           x="78.578003"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="313.578"
            id="label7"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
            transform="rotate(-45)">+5V</text>
         <text
-           font-size="48"
-           x="214"
+           font-size="48px"
+           x="284.3844"
            text-anchor="middle"
            gorn="0.1.5"
-           y="448"
-           id="label6"
+           y="518.38434"
+           id="text64"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
            transform="rotate(-45)">+3V3</text>
+        <text
+           font-size="48px"
+           x="219.99937"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="454.99936"
+           id="text65"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+5V</text>
+        <text
+           font-size="48px"
+           x="425.80576"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="659.80573"
+           id="text66"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+3V3</text>
+        <text
+           font-size="48px"
+           x="361.42075"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="596.42072"
+           id="text67"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+5V</text>
+        <text
+           font-size="48px"
+           x="567.22711"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="801.22711"
+           id="text68"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+3V3</text>
+        <text
+           font-size="48px"
+           x="502.84207"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="737.8421"
+           id="text69"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+5V</text>
+        <text
+           font-size="48px"
+           x="708.6485"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="942.6485"
+           id="text70"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+3V3</text>
+        <text
+           font-size="48px"
+           x="644.26343"
+           text-anchor="middle"
+           gorn="0.1.5"
+           y="879.26349"
+           id="text71"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c"
+           transform="rotate(-45)">+5V</text>
       </g>
       <g
-         id="pin_labels_east">
+         id="pin_labels_ext2">
         <text
-           font-size="48"
-           x="582"
+           font-size="48px"
+           x="1381.6641"
            text-anchor="end"
            gorn="0.1.5"
-           y="317.37894"
+           y="517.80469"
            id="label5"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c">Out1</text>
         <text
-           font-size="48"
-           x="582"
+           font-size="48px"
+           x="1381.6641"
            text-anchor="end"
            gorn="0.1.5"
-           y="417"
+           y="617.42578"
            id="label4"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out2</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="717.80469"
+           id="text56"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out1</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="817.42578"
+           id="text57"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out2</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="917.80469"
+           id="text58"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out1</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1017.4258"
+           id="text59"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out2</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1117.8047"
+           id="text60"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out1</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1217.4258"
+           id="text61"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out2</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1317.8047"
+           id="text62"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">Out1</text>
+        <text
+           font-size="48px"
+           x="1381.6641"
+           text-anchor="end"
+           gorn="0.1.5"
+           y="1417.4258"
+           id="text63"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c">Out2</text>
       </g>
       <g
-         id="pin_labels_south">
+         id="pin_labels_batt">
         <text
-           font-size="48"
-           x="-74"
+           font-size="48px"
+           x="-497.4176"
            text-anchor="middle"
            gorn="0.1.5"
-           y="715"
+           y="1691.5693"
            id="label3"
            font-family="'Droid Sans'"
            stroke="none"
            fill="#8c8c8c"
            transform="rotate(-45)">GND</text>
         <text
-           font-size="48"
-           x="-234"
+           font-size="48px"
+           x="-657.41766"
            text-anchor="middle"
            gorn="0.1.5"
-           y="575"
+           y="1551.5693"
            id="label2"
            font-family="'Droid Sans'"
            stroke="none"
@@ -324,36 +1085,116 @@
            transform="rotate(-45)">EN</text>
       </g>
       <g
-         id="pin_labels_west">
+         id="pin_labels_ext1">
         <text
-           font-size="48"
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="1417.5312"
+           id="text54"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO5</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="1317.2656"
+           id="text55"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO4</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="1217.5312"
+           id="text52"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO3</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="1117.5312"
+           id="text53"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO2</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="1017.5312"
+           id="text50"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO1</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="917.53125"
+           id="text51"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GPIO0</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="817.53125"
+           id="text48"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">EN</text>
+        <text
+           font-size="48px"
+           x="125.07812"
+           text-anchor="start"
+           gorn="0.1.5"
+           y="717.53125"
+           id="text49"
+           font-family="'Droid Sans'"
+           stroke="none"
+           fill="#8c8c8c">GND</text>
+        <text
+           font-size="48px"
            x="125"
            text-anchor="start"
            gorn="0.1.5"
-           y="417"
+           y="617.26562"
            id="label1"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">In2</text>
+           fill="#8c8c8c">+3V3 Out</text>
         <text
-           font-size="48"
+           font-size="48px"
            x="125"
            text-anchor="start"
            gorn="0.1.5"
-           y="317"
+           y="517.26562"
            id="label0"
            font-family="'Droid Sans'"
            stroke="none"
-           fill="#8c8c8c">In1&#10;</text>
+           fill="#8c8c8c">+5V IN/Out</text>
       </g>
     </g>
     <g
        id="pin_numbers">
       <g
-         id="pin_numbers_north">
+         id="pin_numbers_uext">
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="185"
            text-anchor="end"
            y="79"
@@ -364,7 +1205,7 @@
            id="text8">8</text>
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="486"
            text-anchor="end"
            y="79"
@@ -375,10 +1216,10 @@
            id="text7">7</text>
       </g>
       <g
-         id="pin_numbers_east">
+         id="pin_numbers_ext2">
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="647"
            text-anchor="middle"
            y="290"
@@ -389,7 +1230,7 @@
            id="text6">6</text>
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="647"
            text-anchor="middle"
            y="389"
@@ -400,10 +1241,10 @@
            id="text5">5</text>
       </g>
       <g
-         id="pin_numbers_south">
+         id="pin_numbers_batt">
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="386"
            text-anchor="end"
            y="654"
@@ -414,7 +1255,7 @@
            id="text4">4</text>
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="186"
            text-anchor="end"
            y="654"
@@ -425,10 +1266,10 @@
            id="text3">5</text>
       </g>
       <g
-         id="pin_numbers_west">
+         id="pin_numbers_ext1">
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="47"
            text-anchor="middle"
            y="390"
@@ -439,7 +1280,7 @@
            id="text2">2</text>
         <text
            stroke-width="0"
-           font-size="34"
+           font-size="34px"
            x="47"
            text-anchor="middle"
            y="290"
