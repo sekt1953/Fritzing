@@ -59,7 +59,10 @@ My pen number schema:
 |rect|10|connector9terminal|connector19terminal|connector29terminal||
 |line|10|connector9pin|connector19pin|connector29pin||
 
-[My pen label schema:](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/resources/ESP32-POE-GPIO.png)
+My pen label schema:
+
+* [ESP32-POE latest schematic in PDF format](https://github.com/OLIMEX/ESP32-POE/blob/master/HARDWARE/ESP32-PoE-hardware-revision-K/ESP32-PoE_Rev_K.pdf)
+* [ESP32-POE GPIO map](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/resources/ESP32-POE-GPIO.png)
 
 |pen|ext1|ext2|uext|batt|
 |---:|:---|:---|:---|:---|
