@@ -196,3 +196,14 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
 
 ### Duplicate Pin Numbers
 
+* Select Layers and Object -> schematic -> labels -> pin_numbers_ext1
+  * Objects "text0" & "text1"
+    * Press {[CTRL]+D to Duplicate Pins
+    * Move Pens to position by "X: or Y: - or +" sign in top of frame
+    * Repeate the duplication until there are 10 pens.
+  * Select XML Editor
+    * Rename pins following the "Pin_label Schema" listed in top
+* Repeate this process for all "pin_numbers" groups.
+* |Before|Now|
+  |:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-17-46.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-26-06.png)
