@@ -37,7 +37,7 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
 My pen number schema:
 
 |type|pin|ext1|ext2|uext|batt|
-|:---:|:---:|:---|:---|:---|:---|
+|:---:|---:|:---|:---|:---|:---|
 |rect|1|connector0terminal|connector10terminal|connector20terminal|connector30terminal|
 |line|1|connector0pin|connector10pin|connector20pin|connector30pin|
 |rect|2|connector1terminal|connector11terminal|connector21terminal|connector31terminal|
@@ -59,3 +59,17 @@ My pen number schema:
 |rect|10|connector9terminal|connector19terminal|connector29terminal||
 |line|10|connector9pin|connector19pin|connector29pin||
 
+[My pen label schema:](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/resources/ESP32-POE-GPIO.png)
+
+|pen|ext1|ext2|uext|batt|
+|---:|:---|:---|:---|:---|
+|1|+5V IN/Out|GPI39|+3V3 Out|+BATT|
+|2|+3V3 Out|GPI36\RXD|GND|-BATT|
+|3|GND|GPI35|GPIO4\TXD||
+|4|EN|GPI34|GPI36\RXD||
+|5|GPIO0|GPIO33\HSCLK|GPIO16\SCL||
+|6|GPIO1|GPIO32\HSCMD|GPIO13\SDA||
+|7|GPIO2\HSDATA|GPIO16\SCL|GPIO15\HSCMD||
+|8|GPIO3|GPIO15|GPIO2\HSDATA||
+|9|GPIO4\TXD|GPIO14|GPIO14\HSCLK||
+|10|GPIO5\SPICS|GPIO13\SDA|GPIO5\SPICS||
