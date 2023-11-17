@@ -84,7 +84,7 @@ My pen label schema:
   * Rename the skeleton to "Olimex-ESP-PoE_32_schematic.svg" or whatever name you want to use for your component
 * Set the size of your component:
   * Set background size
-    * Select Object -> Layers and Objects
+    * Select "Object -> Layers and Objects"
     * Expand the help group
       * Select background rectangle object
         * Set size to:
@@ -93,28 +93,28 @@ My pen label schema:
           * W: 1,500 in
           * H: 1,700 in
       * Resize to content:
-        * Select: File -> Document Properties 
-        * Click: Display -> Front page -> Resize to content
+        * Select: "File -> Document Properties"
+        * Click: "Display -> Front page -> Resize to content"
       * Remove Shadow:
-        * UnCheck Display -> Display -> show shadow
+        * UnCheck "Display -> Display -> show shadow"
   * Set part_symbol size:
-    * Select Object -> Layers and Objects
+    * Select "Object -> Layers and Objects"
     * Expand the schematic group
       * Select part_symbol rectangle object
-    * Select Edit -> XML Editor
+    * Select "Edit -> XML Editor"
       * Check and edit settings to:
-        * |name|value|
-          |:---|:---|
-          |id|part_symbol|
-          |width|1300|
-          |height|1500|
-          |x|100|
-          |y|100|
-          |fill|none|
-          |stroke|#000000|
-          |stroke-width|12|
-          |stroke-linecap|round|
-          |stroke-dasharray|none|
-          |stroke-opacity|1|
-        * !! Note: if there is any style object then delete it
+       * |Name|Value|
+         |:---|:---|
+         |id|part_symbol|
+         |width|1300|
+         |height|1500|
+         |x|100|
+         |y|100|
+         |fill|none|
+         |stroke|#000000|
+         |stroke-width|12|
+         |stroke-linecap|round|
+         |stroke-dasharray|none|
+         |stroke-opacity|1|
+      * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
 
