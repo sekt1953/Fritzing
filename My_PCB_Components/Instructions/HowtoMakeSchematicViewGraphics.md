@@ -80,7 +80,7 @@ My pen label schema:
 ### How do I make it
 
 * Create new file:
-  * Copy the skeleton svg to working directory
+  * Copy the [skeleton svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg) to working directory
   * Rename the skeleton to "Olimex-ESP-PoE_32_schematic.svg" or whatever name you want to use for your component
 * Set the size of your component:
   * Set background size
@@ -110,7 +110,7 @@ My pen label schema:
   * Set part_symbol size:
     * Select "Object -> Layers and Objects"
     * Expand the schematic group
-      * Select part_symbol rectangle object
+      * Select "part_symbol" rectangle object
       * Select "Edit -> XML Editor"
       * Check and edit settings to:
         * |Name|Value|
