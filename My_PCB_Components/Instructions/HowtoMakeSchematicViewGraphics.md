@@ -110,11 +110,11 @@ My pen label schema:
           |height|1500|
           |x|100|
           |y|100|
-        * fill: none
-        * stroke: #000000
-        * stroke-width: 12
-        * stroke-linecap: round
-        * stroke-dasharray: none
-        * stroke-opacity: 1
+          |fill|none|
+          |stroke|#000000|
+          |stroke-width|12|
+          |stroke-linecap|round|
+          |stroke-dasharray|none|
+          |stroke-opacity|1|
         * !! Note: if there is any style object then delete it
 
