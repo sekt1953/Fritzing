@@ -18,7 +18,7 @@ A total of 32 pins to be displayed in my Schematic View Graphics
 
 |Skeleton_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|
 |:---:|:---:|:---:|
-|![Skeleton_Sketch_schem.png](./images/Skærmbillede%20fra%202023-11-17%2010-04-44.png))|![Skærmbillede%20fra%202023-11-16%2022-46-32.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/images/Skærmbillede%20fra%202023-11-17%2010-34-01.png)|![Olimex-ESP32-PoE_32pins_Sketch_schem.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_Sketch_schem.png)|
+|![Skeleton_Sketch_schem.png](./images/Skærmbillede%20fra%202023-11-17%2010-04-44.png))|![Skærmbillede%20fra%202023-11-16%2022-46-32.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/images/Skærmbillede%20fra%202023-11-17%2010-37-02.png)|![Olimex-ESP32-PoE_32pins_Sketch_schem.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_Sketch_schem.png)|
 
 * Files
   * [skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)
