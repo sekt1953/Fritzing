@@ -34,7 +34,7 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
   * connector0terminal is connection point for pin 1
   * connector0pin is pin no.1
 
-My pen number schema:
+#### Pen_numbers Schema:
 
 |type|pin|ext1|ext2|uext|batt|
 |:---:|---:|:---|:---|:---|:---|
@@ -77,7 +77,7 @@ My pen label schema:
 |9|GPIO4\TXD|GPIO14|GPIO14\HSCLK||
 |10|GPIO5\SPICS|GPIO13\SDA|GPIO5\SPICS||
 
-### How do I make it
+### How I make it
 
 * Create new file:
   * Copy the "[skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)" to working directory
@@ -127,4 +127,29 @@ My pen label schema:
           |stroke-dasharray|none|
           |stroke-opacity|1|
         * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
-
+* Edit schematic group names
+  * Select "Layers and Object"
+    * Expand "pin_numbers" group
+    * Rename "pin_numbers" groups:
+      * |Old|New|
+        |:---|:---|
+        | pin_numbers_west|pin_numbers_ext1|
+        | pin_numbers_east|pin_numbers_ext2|
+        | pin_numbers_north|pin_numbers_uext|
+        | pin_numbers_south|pin_numbers_batt|
+    * Expand "pin_labels" group
+    * Rename "pin_labels" groups:
+      * |Old|New|
+        |:---|:---|
+        | pin_labels_west|pin_labels_ext1|
+        | pin_labels_east|pin_labels_ext2|
+        | pin_labels_north|pin_labels_uext|
+        | pin_labels_south|pin_labels_batt|
+    * Expand "pins" group
+    * Rename "pins" groups:
+      * |Old|New|
+        |:---|:---|
+        | pins_west|pins_ext1|
+        | pins_east|pins_ext2|
+        | pins_north|pins_uext|
+        | pins_south|pins_batt|
