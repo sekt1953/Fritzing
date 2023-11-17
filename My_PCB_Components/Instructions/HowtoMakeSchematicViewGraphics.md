@@ -134,22 +134,25 @@ My pen label schema:
       * |Old|New|
         |:---|:---|
         | pin_numbers_west|pin_numbers_ext1|
+        | pin_numbers_south|pin_numbers_batt|
         | pin_numbers_east|pin_numbers_ext2|
         | pin_numbers_north|pin_numbers_uext|
-        | pin_numbers_south|pin_numbers_batt|
     * Expand "pin_labels" group
     * Rename "pin_labels" groups:
       * |Old|New|
         |:---|:---|
         | pin_labels_west|pin_labels_ext1|
+        | pin_labels_south|pin_labels_batt|
         | pin_labels_east|pin_labels_ext2|
         | pin_labels_north|pin_labels_uext|
-        | pin_labels_south|pin_labels_batt|
     * Expand "pins" group
     * Rename "pins" groups:
       * |Old|New|
         |:---|:---|
         | pins_west|pins_ext1|
+        | pins_south|pins_batt|
         | pins_east|pins_ext2|
         | pins_north|pins_uext|
-        | pins_south|pins_batt|
+  * |Before||Now||
+    |:---|:---|:---|:---|
+    |![before L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-03-41.png)|![before XML](./demo/images/Skærmbillede%20fra%202023-11-17%2014-09-27.png)|![now L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-51.png)|![now xml](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-25.png)
