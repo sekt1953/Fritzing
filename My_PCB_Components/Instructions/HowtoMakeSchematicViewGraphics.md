@@ -34,7 +34,7 @@ By using this name topology, I achieve that Fritzing New Part Editor automatical
   * connector0terminal is connection point for pin 1
   * connector0pin is pin no.1
 
-#### Pen_numbers Schema:
+#### Pen_id Schema:
 
 |type|pin|ext1|ext2|uext|batt|
 |:---:|---:|:---|:---|:---|:---|
@@ -165,6 +165,15 @@ My pen label schema:
   |:---|:---|:---|:---|
   |![before L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-03-41.png)|![before XML](./demo/images/Skærmbillede%20fra%202023-11-17%2014-09-27.png)|![now L&O](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-51.png)|![now xml](./demo/images/Skærmbillede%20fra%202023-11-17%2014-16-25.png)
 
-### Add Pins to EXT1
+### Duplicate Pins in EXT1
 
-* 
+* Select Layers and Object -> schematic -> pins -> pins_ext1
+  * Select Objects "connector0terminal" to "connector1pin"
+    * Press {[CTRL]+D to Duplicate Pins
+    * Move Pens to position by "Y: +" sign in top of frame
+    * Repeate the duplication until there are 10 pens.
+  * Select XML Editor
+    * Rename pins following the "Pen_id Schema" listed in top
+* |Before||Now||
+  |:---|:---|:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2014-43-55.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2014-46-58.png)
