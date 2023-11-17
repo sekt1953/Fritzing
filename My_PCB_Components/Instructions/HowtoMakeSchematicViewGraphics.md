@@ -113,18 +113,18 @@ My pen label schema:
       * Select part_symbol rectangle object
       * Select "Edit -> XML Editor"
       * Check and edit settings to:
-       * |Name|Value|
-         |:---|:---|
-         |id|part_symbol|
-         |width|1300|
-         |height|1500|
-         |x|100|
-         |y|100|
-         |fill|none|
-         |stroke|#000000|
-         |stroke-width|12|
-         |stroke-linecap|round|
-         |stroke-dasharray|none|
-         |stroke-opacity|1|
+        * |Name|Value|
+          |:---|:---|
+          |id|part_symbol|
+          |width|1300|
+          |height|1500|
+          |x|100|
+          |y|100|
+          |fill|none|
+          |stroke|#000000|
+          |stroke-width|12|
+          |stroke-linecap|round|
+          |stroke-dasharray|none|
+          |stroke-opacity|1|
         * !!! Note: Do not used "Object -> File And Stroke" it will create a style-object, if there is any style-object then delete it.
 
