@@ -76,3 +76,45 @@ My pen label schema:
 |8|GPIO3|GPIO15|GPIO2\HSDATA||
 |9|GPIO4\TXD|GPIO14|GPIO14\HSCLK||
 |10|GPIO5\SPICS|GPIO13\SDA|GPIO5\SPICS||
+
+### How do I make it
+
+* Create new file:
+  * Copy the skeleton svg to working directory
+  * Rename the skeleton to "Olimex-ESP-PoE_32_schematic.svg" or whatever name you want to use for your component
+* Set the size of your component:
+  * Set background size
+    * Select Object -> Layers and Objects
+    * Expand the help group
+      * Select background rectangle object
+        * Set size to:
+          * X: 0,000 in
+          * Y: 0,000 in
+          * W: 1,500 in
+          * H: 1,700 in
+      * Resize to content:
+        * Select: File -> Document Properties 
+        * Click: Display -> Front page -> Resize to content
+      * Remove Shadow:
+        * UnCheck Display -> Display -> show shadow
+  * Set part_symbol size:
+    * Select Object -> Layers and Objects
+    * Expand the schematic group
+      * Select part_symbol rectangle object
+    * Select Edit -> XML Editor
+      * Check and edit settings to:
+        * |name|value|
+          |:---|:---|
+          |id|part_symbol|
+          |width|1300|
+          |height|1500|
+          |x|100|
+          |y|100|
+        * fill: none
+        * stroke: #000000
+        * stroke-width: 12
+        * stroke-linecap: round
+        * stroke-dasharray: none
+        * stroke-opacity: 1
+        * !! Note: if there is any style object then delete it
+
