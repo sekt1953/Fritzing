@@ -243,8 +243,12 @@ By removing px from text-object font-size parameter will text bee shown corect i
 
 
 
-* |Fritzind|Parts Editor|
+* |Fritzind|Parts Editor Schematic before|
   |:---|:---|
   |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-56-34.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-57-42.png)|
-  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-58-03.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2017-10-18.png)
-
+* |Parts Editor Schematic after|Fritzind|
+  |:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2016-58-03.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2017-10-18.png)|
+* |Parts Editor Schematic Metadata|Parts Editor Schematic Connector|
+  |:---|:---|
+  |![](./demo/images/Skærmbillede%20fra%202023-11-17%2017-17-35.png)|![](./demo/images/Skærmbillede%20fra%202023-11-17%2017-17-41.png)|
