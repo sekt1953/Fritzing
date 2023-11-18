@@ -40,7 +40,7 @@
 
 ## Intro
 
-I have learned from microMerkin's contribution in the Fritzing forum the importance of having control over the scaling, so therefore I set Scale to 0.00100 in per user unit.  
+I have learned from microMerkin's contribution in the [Fritzing forum](https://forum.fritzing.org/t/fritzing-svg-dimension-rules/10719) the importance of having control over the scaling, so therefore I set Scale to 0.00100 in per user unit.  
 I have experienced that having 2 sets of grids, which you can easily switch between, promotes work efficiency.
 
 ## Schematic View Graphics
