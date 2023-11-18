@@ -4,10 +4,7 @@ Here I store my works in Fritzing, I have divided my archive into two parts:
 
 ## [How I make my own PCB component for Fritzing](./How_I_make_my_own_PCB/README.md)
 
-* [InkScape Document Properties](./My_PCB_Components/Instructions/InkScapeDocumentProperties.md)
-* [How to make Schematic View Graphics](./My_PCB_Components/Instructions/HowtoMakeSchematicViewGraphics.md)
-* [How to make PCB View Graphics](./My_PCB_Components/Instructions/HowtoMakePCBViewGraphics.md)
-* [How to make BreadBoard View Graphics](./My_PCB_Components/Instructions/HowtoMakeBreadBoardViewGraphics.md)
+Here I have made a guide on how to design your own component fro Fritzing with InkScape
 
 ## [My PCB Components](./My_PCB_Components/README.md)
 
