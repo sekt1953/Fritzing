@@ -2,6 +2,12 @@
 
 ## [Click here to see my instructions for making Fritzing components](./../How_I_make_my_own_PCB/README.md)
 
+## Link to Others Fritzing libraries:
+
+* Others libraries
+  * [JORGE ELIECER CHACON FLOREZ](https://github.com/jorgechacblogspot/librerias_fritzing)
+  * [XZ manj](https://github.com/Atsumitsu/fritzing-parts)
+
 ## My Part list
 
 * Power Mosfet
