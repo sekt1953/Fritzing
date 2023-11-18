@@ -57,7 +57,7 @@ I have experienced that having 2 sets of grids, which you can easily switch betw
 
 ### Skeleton XML code sample
 
-Header:
+* Header:
 
 ```code
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -75,7 +75,7 @@ Header:
      id="defs1" />
 ```
 
-Help Group:
+* Help Group:
 
 ```code
 <g
@@ -95,9 +95,8 @@ Help Group:
   
 ```
 
-Schematic group:
-
-part_symbol & Label:
+* Schematic group:
+  * part_symbol & Label:
 
 ```code
 <g
@@ -126,7 +125,8 @@ part_symbol & Label:
      fill="#000000">Label</text>
 ```
 
-Pins group sample:
+* Schematic group:
+  * Pins group sample:
 
 ```code
     <g
@@ -156,8 +156,10 @@ Pins group sample:
            height="10"
            width="10"
            id="connector7terminal" />```
+```
 
-Pin labels group sample:
+* Schematic group:
+  * Pin labels group sample:
 
 ```code
     <g
@@ -177,7 +179,8 @@ Pin labels group sample:
            transform="rotate(-45)">+5V</text>
 ```
 
-Pin numbers group sample:
+* Schematic group:
+  * Pin numbers group sample:
 
 ```code
     <g
@@ -197,7 +200,7 @@ Pin numbers group sample:
            id="text8">8</text>
 ```
 
-XML code end
+* XML code end
 
 ```code
       </g>
