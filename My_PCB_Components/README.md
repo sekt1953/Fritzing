@@ -7,20 +7,9 @@ I use inkscape to make the svg files, if you want to start making or editing com
 I found it difficult to design my own components until I found [Fritzing SVG dimension rules](https://forum.fritzing.org/t/fritzing-svg-dimension-rules/10719) on the Fritzing Forum it led me to get the right setup in InkScape, [microMerlin's](https://forum.fritzing.org/u/microMerlin) contribution was of great help.  
 The next big problem I struggled with was getting the text in the right size and position, my solution is to open the svg file in the program Geany and do a search and replace px" with ".
 
-### Here are my instructions for making Fritzing components
+### [Here are my instructions for making Fritzing components](./../How_I_make_my_own_PCB/README.md)
 
-* [InkScape Document Properties](./Instructions/InkScapeDocumentProperties.md)
-* [Howto make Schematic View Graphics](./Instructions/HowtoMakeSchematicViewGraphics.md)
-* [Howto make PCB View Graphics](./Instructions/HowtoMakePCBViewGraphics.md)
-* [Howto make BreadBoard View Graphics](./Instructions/HowtoMakeBreadBoardViewGraphics.md)
-
-## Good videos to watch before you start
-
-* SidneyCritic ComedyHound Videos
-  * [Fritzing](https://www.youtube.com/playlist?list=PLMkg9_AB9FZ9PggkzTS1MoHHN40Q2LW1Y "SidneyCritic ComedyHound")
-  * [Fritzing Parts Fast](https://www.youtube.com/playlist?list=PLMkg9_AB9FZ-iJm_JIie2F8_M1DReYU0C "SidneyCritic ComedyHound")
-
-## Part list
+## My Part list
 
 * Power Mosfet
   * [FQP27P06 60V P-Channel MOSFET](./FQP27P06/FQP27P06.fzpz)
@@ -29,13 +18,15 @@ The next big problem I struggled with was getting the text in the right size and
   * [LDO (AMS1117-T33 0.8A Fixed Low Dropout Linear Regulator)](./LDO/LDO_+3V3.fzpz)
   * [MP1584 Step-Down Converter](./MP1584/)
 * CPU
-  * [Olimex-ESP32-POE](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/)
+  * [Olimex-ESP32-POE 20pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/ESP32-PoE_20.fzpz)
+  * [Olimex-ESP32-POE 32pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE%2032pins.fzpz)
 * I/O interface  
   * [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
   * [ULN2803A Eight Darlington arrays](./ULN2803A/)
   * [DS18B20 1-Wire Digital Thermometer](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
 * Resistor
   * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
+
 
 ## [FQP27P06 60V P-Channel MOSFET](./FQP27P06/)
 
@@ -93,15 +84,22 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 * find fzpz files here: [ESP32 DevKit v1](./ESP32/DOIT%20Esp32%20DevKit%20v1%20(30%20pins%20long,%2011%20pins%20width).fzpz)
 * Datasheet: [ESP32 DevKit v1](https://mischianti.org/doit-esp32-dev-kit-v1-high-resolution-pinout-and-specs/)
 
-## [Olimex-ESP32-POE](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/)
-
-|Breadboard|PCB|Schematic|
-|:---:|:---:|:---:|
-|![bb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_bb.svg)|![pcb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_pcb.svg)|![schem](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_schem.svg)
+## [Olimex-ESP32-POE](./Olimex-ESP32-POE/)
 
 * find fzpz files here: [Olimex-ESP32-PoE](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/ESP32-PoE_20.fzpz)
 * Datasheet: [Olimex-ESP32-POE](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/open-source-hardware "www.olimex.com")
 
+
+## [Olimex-ESP32-POE 20pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/ESP32-PoE_20.fzpz)
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_bb.svg)|![pcb](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_20_pcb.svg)|![schem](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/svg/Olimex-ESP32-PoE_hul_schem.svg)
+
+
+## [Olimex-ESP32-POE 32pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE%2032pins.fzpz)
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb]()|![pcb]()|![schem](./Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_schematic.svg)|
 <hr>
 
 ## [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
