@@ -13,7 +13,7 @@ The next big problem I struggled with was getting the text in the right size and
   * [Fritzing](https://www.youtube.com/playlist?list=PLMkg9_AB9FZ9PggkzTS1MoHHN40Q2LW1Y "SidneyCritic ComedyHound")
   * [Fritzing Parts Fast](https://www.youtube.com/playlist?list=PLMkg9_AB9FZ-iJm_JIie2F8_M1DReYU0C "SidneyCritic ComedyHound")
 
-### Here are my instructions for making Fritzing components
+### Here are my guide to make Fritzing components
 
 * [InkScape Document Properties](./InkScapeDocumentProperties.md)
 * [How to make Schematic View Graphics](./HowtoMakeSchematicViewGraphics.md)
