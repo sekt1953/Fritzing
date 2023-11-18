@@ -18,13 +18,13 @@ A total of 32 pins to be displayed in my Schematic View Graphics
 
 |Skeleton_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|Olimex-ESP32-PoE_32pins_Sketch_schem.png|
 |:---:|:---:|:---:|
-|![Skeleton_Sketch_schem.png](./images/Skærmbillede%20fra%202023-11-17%2010-04-44.png))|![Skærmbillede%20fra%202023-11-16%2022-46-32.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/images/Skærmbillede%20fra%202023-11-17%2010-37-02.png)|![Olimex-ESP32-PoE_32pins_Sketch_schem.png](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_Sketch_schem.png)|
+|![Skeleton_Sketch_schem.png](./images/Skærmbillede%20fra%202023-11-17%2010-04-44.png))|![Skærmbillede%20fra%202023-11-16%2022-46-32.png](./images/Skærmbillede%20fra%202023-11-17%2010-37-02.png)|![Olimex-ESP32-PoE_32pins_Sketch_schem.png](./images/Olimex-ESP32-PoE_32pins_Sketch_schem.png)|
 
-* Files
+* Demo Files
   * [skeleton_DIP_8_300mil_schematic.svg](./Skeleton/skeleton_DIP_8_300mil_schematic.svg)
-  * [Olimex-ESP32-PoE_32pins_schematic.svg](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_schematic.svg)
-  * [Olimex-ESP32-PoE 32pins.fzpz](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE%2032pins.fzpz)
-  * [Olimex-ESP32-PoE_32pins_Sketch_Sketch.fzz](./../Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE_32pins_Sketch_Sketch.fzz)
+  * [Olimex-ESP32-PoE_32pins_schematic.svg](./demo/Olimex-ESP32-PoE_32_schematic.svg)
+  * [Olimex-ESP32-PoE 32pins.fzpz](./demo/Olimex-ESP32-PoE%2032pins.fzpz)
+  * [Olimex-ESP32-PoE_32pins_Sketch_Sketch.fzz](./demo/Olimex-ESP32-PoE_32pins_Sketch_Sketch.fzz)
 
 ### Pins
 
