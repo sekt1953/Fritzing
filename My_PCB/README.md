@@ -73,9 +73,11 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 
 ### Occupied Hp Proto
 
-|Proto type PCB WR-Typ-Nr922|
-|:---|
-|![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_bb.png)|
+Occupied sensor to bee used with NCE 5240205 Block Detector BD20
+
+|Proto type PCB WR-Typ-Nr922|Block Detector BD20|
+|:---|:---|
+|![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_bb.png)|![](./occupied_sensor/Occupied-Hp/Images/nce_bd20.jpg)
 
 * Fritzing files:
   * [Occupied_Hp_Proto.fzz](./occupied_sensor/Occupied-Hp/Occupied_Hp_Proto.fzz)
@@ -83,6 +85,9 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
   * [Mount WR-Typ nr.922](https://github.com/sekt1953/FreeCAD/tree/main#mount-for-wr-typ-922-pcb)
 * PCB:
   * [RadeMacher PCB](./README.md#pcb-from-rademacher)
+* NCE 5240205 Block Detector BD20:
+  * [Tony's Train Change](https://tonystrains.com/product/nce-5240205-block-detector-bd20)
+  * [NCE-BD20-Manual](https://www.dccconcepts.com/manual/nce-owners-manual-bd20-block-detector/nce-bd20-manual-2/)
 
 ## LedDriver with optocoupler
 
