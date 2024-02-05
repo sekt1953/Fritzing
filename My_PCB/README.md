@@ -21,7 +21,7 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 |:---:|:---:|
 |![RadeMacher_Typ922](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_bb.png)|![RadeMacher_Typ922_ESP32](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_ESP32_bb.png)||
 
-
+* [Conrad Elektronik WR-Typ 922 Printplade](https://www.conradelektronik.dk/da/p/rademacher-wr-typ-922-printplade-til-eksperimenter-haardt-papir-l-x-b-160-mm-x-100-mm-35-m-rastermaal-2-54-mm-indhold-521214.html)
 
 ## PCB Board for Home Assistant
 
