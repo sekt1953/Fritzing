@@ -75,7 +75,7 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 
 Occupied sensor to bee used with NCE 5240205 Block Detector BD20
 
-|Proto type PCB WR-Typ-Nr922|Block Detector BD20|
+|Proto type PCB Occupied_Hp|Block Detector BD20|
 |:---|:---|
 |![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_bb.png)|![](./occupied_sensor/Occupied-Hp/Images/nce_bd20.jpg)
 
