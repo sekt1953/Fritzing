@@ -80,7 +80,7 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 * Fritzing files:
   * [Occupied_Hp_Proto.fzz](./occupied_sensor/Occupied-Hp/Occupied_Hp_Proto.fzz)
 * FreeCAD files:
-  * [Mount_WR-922](https://github.com/sekt1953/FreeCAD/tree/main/Mount_WR-922)
+  * [Mount WR-Typ nr.922](https://github.com/sekt1953/FreeCAD/tree/main#mount-for-wr-typ-922-pcb)
 
 ## LedDriver with optocoupler
 
