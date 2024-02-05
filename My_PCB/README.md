@@ -29,6 +29,7 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 |:---:|:---:|
 ||![](./IHC_Replacment/Images/IHC_Replacment_001_pcb.png)
 
+* [FreeCAD Filers here:](https://github.com/sekt1953/FreeCAD/blob/main/README.md#ihc-replacement)
 <hr>
 
 ## PCB Board for modelrailway
