@@ -6,12 +6,13 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 * PCB from RadeMacher
   * [WR-Typ 922 & 941](README.md#pcb-from-rademacher)
-* PCB for Home Assistant
-  * [PWM_Light_Controller](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
+* [PCB for Home Assistant](./README.md#pcb-board-for-home-assistant)
+  * [PWM_Light_Controller](./README.md#pwm_light_controller)
   * [IHC_Replacment](./README.md#ihc-replacement)
-* PCB for Modelrailway
-  * [occupied_sensor](./occupied_sensor/)
-  * [Darlinton_Relay_and_Led_Driver](./Darlinton_Relay_and_Led_Driver/)
+* [PCB for Modelrailway](./README.md#pcb-board-for-modelrailway)
+  * [Occupied Sensor V1](./README.md#occupied_sensor-work-in-progress)
+  * [Occupied Hp Proto](./README.md#occupied-hp-proto)
+  * [Darlinton_Relay_and_Led_Driver](./README.md#leddriver-with-darlinton-array-work-in-progress)
 
 ## PCB from RadeMacher
 
@@ -69,6 +70,17 @@ Is a card to detect if there are trains on a track section, be it wagons or loco
 |![copper_top](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_top.svg)|![copper_bottom](./occupied_sensor/v1/svg/occupied_sensor_etch_copper_bottom.svg)|![silk_top](./occupied_sensor/v1/svg/occupied_sensor_etch_silk_top.svg)|
 
 * [Fritzing file for download:](./occupied_sensor/v1/occupied_sensor.fzz)
+
+### Occupied Hp Proto
+
+|Proto type PCB WR-Typ-Nr922|
+|:---|
+|![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_bb.png)|
+
+* Fritzing files:
+  * [Occupied_Hp_Proto.fzz](./occupied_sensor/Occupied-Hp/Occupied_Hp_Proto.fzz)
+* FreeCAD files:
+  * [Mount_WR-922](https://github.com/sekt1953/FreeCAD/tree/main/Mount_WR-922)
 
 ## LedDriver with optocoupler
 
