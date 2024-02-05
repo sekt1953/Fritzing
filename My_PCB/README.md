@@ -4,12 +4,24 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 ## List
 
+* PCB from RadeMacher
+  * WR-Nr.922
+    * [RadeMacher_Typ922.fzz](./RadeMacher_WR-Typ-922/RadeMacher_Typ922.fzz)
+    * [RadeMacher_Typ922_ESP32.fzz](./RadeMacher_WR-Typ-922/RadeMacher_Typ922_ESP32.fzz)
 * PCB for Home Assistant
   * [PWM_Light_Controller](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
   * [IHC_Replacment](./README.md#ihc-replacement)
 * PCB for Modelrailway
   * [occupied_sensor](./occupied_sensor/)
   * [Darlinton_Relay_and_Led_Driver](./Darlinton_Relay_and_Led_Driver/)
+
+## PCB from RadeMacher
+
+|RadeMacher Typ922|RadeMacher Typ922 with ESP32 30Pin|
+|:---:|:---:|
+|![RadeMacher_Typ922](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_bb.png)|![RadeMacher_Typ922_ESP32](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_ESP32_bb.png)||
+
+
 
 ## PCB Board for Home Assistant
 
