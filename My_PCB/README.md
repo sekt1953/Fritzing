@@ -6,6 +6,7 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 * PCB for Home Assistant
   * [PWM_Light_Controller](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
+  * [IHC_Replacment](./README.md#ihc-replacement)
 * PCB for Modelrailway
   * [occupied_sensor](./occupied_sensor/)
   * [Darlinton_Relay_and_Led_Driver](./Darlinton_Relay_and_Led_Driver/)
@@ -21,6 +22,12 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
 |![schem](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_schem.png)|![pcb](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3_pcb.png)||
 
 * [Fritzing file for download:](./PWM_Light_Controller/PWM_Light_Controler_v1_3/PWM_Light_Controler_v1_3.fzz)
+
+### IHC Replacement
+
+|Schematic|PCB|
+|:---:|:---:|
+||![](./IHC_Replacment/Images/IHC_Replacment_001_pcb.png)
 
 <hr>
 
