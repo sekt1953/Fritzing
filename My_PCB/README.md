@@ -83,7 +83,7 @@ Occupied sensor to bee used with NCE 5240205 Block Detector BD20
   * [Occupied_Hp_Proto.fzz](./occupied_sensor/Occupied-Hp/Occupied_Hp_Proto.fzz)
 * FreeCAD files:
   * [Mount WR-Typ nr.922](https://github.com/sekt1953/FreeCAD/tree/main#mount-for-wr-typ-922-pcb)
-* ESPHome:
+* ESPHome files:
   * [Occupied-Hp.yaml "Holmstrup"](https://github.com/sekt1953/OMJK?tab=readme-ov-file#esphome)
 * PCB:
   * [RadeMacher PCB](./README.md#pcb-from-rademacher)
