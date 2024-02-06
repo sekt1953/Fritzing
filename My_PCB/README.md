@@ -18,7 +18,7 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 |RadeMacher Typ922|RadeMacher Typ922 with ESP32 30Pin|
 |:---:|:---:|
-|![RadeMacher_Typ922](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_bb.png)|![RadeMacher_Typ922_ESP32](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_ESP32_bb_a.png)|
+|![RadeMacher_Typ922](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_bb.png)|![RadeMacher_Typ922_ESP32](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_ESP32_bb.png)|
 |![RadeMacher_Typ941](./RadeMacher_WR-Typ-922/Images/image.jpg)||
 
 * Køb:
