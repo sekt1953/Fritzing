@@ -78,6 +78,7 @@ Occupied sensor to bee used with NCE 5240205 Block Detector BD20
 |Proto type PCB Occupied_Hp|Block Detector BD20|
 |:---|:---|
 |![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_bb.png)|![](./occupied_sensor/Occupied-Hp/Images/nce_bd20.jpg)
+|![Occupied_Hp_Proto_bb.png](./occupied_sensor/Occupied-Hp/Images/Occupied_Hp_Proto_schem.png)||
 
 * Fritzing files:
   * [Occupied_Hp_Proto.fzz](./occupied_sensor/Occupied-Hp/Occupied_Hp_Proto.fzz)
