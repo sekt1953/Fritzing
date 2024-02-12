@@ -28,7 +28,9 @@
 * [Stripboard](./README.md#stripboard)
   * [Stripboard_49x18](./README.md#stripboard_49x18)
   * [RadeMacher-typ922 & 941](./README.md#rademacher-typ922)
-
+  * Fritzing files:
+    * [Stripboard_49x18.fzz](./Stripboard/Stripboard_49x18.fzz)
+    * [RadeMacher_Typ922.fzz](./Stripboard/RadeMacher_Typ922.fzz)
 
 ## [FQP27P06 60V P-Channel MOSFET](./FQP27P06/)
 
