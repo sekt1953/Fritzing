@@ -25,8 +25,9 @@
   * [DS18B20 1-Wire Digital Thermometer](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
 * Resistor
   * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
-* Stripboard
-  * [Stripboard_49x18](./)
+* [Stripboard](./README.md#stripboard)
+  * [Stripboard_49x18](./README.md#stripboard_49x18)
+  * [RadeMacher-typ922 & 941](./README.md#rademacher-typ922)
 
 
 ## [FQP27P06 60V P-Channel MOSFET](./FQP27P06/)
