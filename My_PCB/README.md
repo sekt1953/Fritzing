@@ -4,8 +4,6 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 ## List
 
-* PCB from RadeMacher
-  * [WR-Typ 922 & 941](README.md#pcb-from-rademacher)
 * [PCB for Home Assistant](./README.md#pcb-board-for-home-assistant)
   * [PWM_Light_Controller](./README.md#pwm_light_controller)
   * [IHC_Replacment](./README.md#ihc-replacement)
@@ -14,21 +12,6 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
   * [Occupied Hp Proto](./README.md#occupied-hp-proto)
   * [Darlinton_Relay_and_Led_Driver](./README.md#leddriver-with-darlinton-array-work-in-progress)
 
-## PCB from RadeMacher
-
-|RadeMacher Typ922|RadeMacher Typ922 with ESP32 30Pin|
-|:---:|:---:|
-|![RadeMacher_Typ922](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_bb.png)|![RadeMacher_Typ922_ESP32](./RadeMacher_WR-Typ-922/Images/RadeMacher_Typ922_ESP32_bb.png)|
-|![RadeMacher_Typ941](./RadeMacher_WR-Typ-922/Images/image.jpg)||
-
-* Køb:
-  * [Conrad Elektronik WR-Typ 922 Printplade](https://www.conradelektronik.dk/da/p/rademacher-wr-typ-922-printplade-til-eksperimenter-haardt-papir-l-x-b-160-mm-x-100-mm-35-m-rastermaal-2-54-mm-indhold-521214.html)
-* Fritzing files:
-  * WR-Nr.922
-    * [RadeMacher_Typ922.fzz](./RadeMacher_WR-Typ-922/RadeMacher_Typ922.fzz)
-    * [RadeMacher_Typ922_ESP32.fzz](./RadeMacher_WR-Typ-922/RadeMacher_Typ922_ESP32.fzz)
-  * WR-Nr.941
-    * [WR Typ 941](https://www.conradelektronik.dk/da/p/rademacher-wr-typ-941-europrintplade-epoxyd-l-x-b-160-mm-x-100-mm-35-m-rastermaal-2-54-mm-indhold-1-stk-529568.html)
 
 
 ## PCB Board for Home Assistant
