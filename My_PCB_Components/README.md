@@ -28,9 +28,6 @@
 * [Stripboard](./README.md#stripboard)
   * [Stripboard_49x18](./README.md#stripboard_49x18)
   * [RadeMacher-typ922 & 941](./README.md#rademacher-typ922)
-  * Fritzing files:
-    * [Stripboard_49x18.fzz](./Stripboard/Stripboard_49x18.fzz)
-    * [RadeMacher_Typ922.fzz](./Stripboard/RadeMacher_Typ922.fzz)
 
 ## [FQP27P06 60V P-Channel MOSFET](./FQP27P06/)
 
@@ -145,18 +142,24 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 
 ## Stripboard
 
-## Stripboard_49x18
+### Stripboard_49x18
 
 |Breadboard|
 |:---:|
 |![board](./Stripboard/Images/Skærmbillede%20fra%202024-02-12%2021-30-16.png)
 
-## RadeMacher Typ922
+* Fritzing files:
+  * [Stripboard_49x18.fzz](./Stripboard/Stripboard_49x18.fzz)
+
+### RadeMacher Typ922
 
 |Breadboard|
 |:---:|
 |![board](./Stripboard/Images/RadeMacher_Typ922_bb.png)
 
+* Fritzing files:
+  * [RadeMacher_Typ922.fzz](./Stripboard/RadeMacher_Typ922.fzz)
 * conradelektronik.dk
   * [Rademacher WR-Typ 922 Printplade til eksperimenter Hårdt papir (L x B) 160 mm x 100 mm 35 µm Rastermål 2.54 mm Indhold](https://www.conradelektronik.dk/da/p/rademacher-wr-typ-922-printplade-til-eksperimenter-haardt-papir-l-x-b-160-mm-x-100-mm-35-m-rastermaal-2-54-mm-indhold-521214.html?refresh=true)
   * [Rademacher WR-Typ 941 Europrintplade Epoxyd (L x B) 160 mm x 100 mm 35 µm Rastermål 2.54 mm Indhold 1 stk](https://www.conradelektronik.dk/da/p/rademacher-wr-typ-941-europrintplade-epoxyd-l-x-b-160-mm-x-100-mm-35-m-rastermaal-2-54-mm-indhold-1-stk-529568.html)
+
