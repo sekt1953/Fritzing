@@ -4,10 +4,12 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 
 ## PCB Board for modelrailway [OMJK1949](https://www.omjk.dk/)
 
-* Block detection:
-  * [I2C IO_Interface PCB](./Block_Detecsion/README.md#i2c-io_interface-pcb)
-  * [BlockDetector Width 6 Dioder and Optokobler](./Block_Detecsion/README.md#blockdetector-width-6-dioder-and-optokobler)
-  * [Prototype I2C IO_Interface](./Block_Detecsion/README.md#prototype-i2c-io_interface)
+* [CPU](./Modeltog/Cpu/README.md)
+  * [ESP32 ESP32S 30Pin Expansion board](./Modeltog/Cpu/README.md)
+* [Block detection:](./Modeltog/Block_Detecsion/README.md)
+  * [I2C IO_Interface PCB](./Modeltog/Block_Detecsion/README.md#i2c-io_interface-pcb)
+  * [BlockDetector Width 6 Dioder and Optokobler](./Modeltog/Block_Detecsion/README.md#blockdetector-width-6-dioder-and-optokobler)
+  * [Prototype I2C IO_Interface](./Modeltog/Block_Detecsion/README.md#prototype-i2c-io_interface)
 
 <hr><hr>
 
