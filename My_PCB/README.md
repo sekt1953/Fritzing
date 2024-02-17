@@ -5,7 +5,7 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
 ## PCB Board for modelrailway [OMJK1949](https://www.omjk.dk/)
 
 * [CPU](./Modeltog/Cpu/README.md)
-  * [ESP32 ESP32S 30Pin Expansion board](./Modeltog/Cpu/README.md)
+  * [ESP32 ESP32S 30Pin Expansion board](./Modeltog/Cpu/README.md#esp32-esp32s-30pin-expansion-board)
 * [Block detection:](./Modeltog/Block_Detecsion/README.md)
   * [I2C IO_Interface PCB](./Modeltog/Block_Detecsion/README.md#i2c-io_interface-pcb)
   * [BlockDetector Width 6 Dioder and Optokobler](./Modeltog/Block_Detecsion/README.md#blockdetector-width-6-dioder-and-optokobler)
