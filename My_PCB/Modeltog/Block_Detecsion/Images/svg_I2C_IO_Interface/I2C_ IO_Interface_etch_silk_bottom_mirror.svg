@@ -449,7 +449,7 @@
    </g>
   </g>
   <g partID="12194050">
-   <g transform="translate(304.471,35.0761)">
+   <g transform="translate(304.471,35.9761)">
     <g id="copper0">
      <circle r="2.088" cy="5.04" id="connector0pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>
      <circle r="2.088" cy="12.24" id="connector1pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>
@@ -459,7 +459,7 @@
    </g>
   </g>
   <g partID="12206600">
-   <g transform="translate(2.0712,35.0761)">
+   <g transform="translate(2.0712,35.9761)">
     <g id="copper0">
      <circle r="2.088" cy="5.04" id="connector0pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>
      <circle r="2.088" cy="12.24" id="connector1pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>

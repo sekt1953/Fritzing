@@ -165,7 +165,7 @@
    </g>
   </g>
   <g partID="12194051">
-   <g transform="translate(304.471,35.0761)">
+   <g transform="translate(304.471,35.9761)">
     <g id="silkscreen">
      <line x1="1.44" x2="1.44" y2="30.24" stroke="black" stroke-width="0.72" y1="1.44"/>
      <line x1="1.44" x2="8.64" y2="30.24" stroke="black" stroke-width="0.72" y1="30.24"/>
@@ -177,7 +177,7 @@
    </g>
   </g>
   <g partID="12206601">
-   <g transform="translate(2.0712,35.0761)">
+   <g transform="translate(2.0712,35.9761)">
     <g id="silkscreen">
      <line x1="1.44" x2="1.44" y2="30.24" stroke="black" stroke-width="0.72" y1="1.44"/>
      <line x1="1.44" x2="8.64" y2="30.24" stroke="black" stroke-width="0.72" y1="30.24"/>
@@ -226,7 +226,7 @@
    </g>
   </g>
   <g partID="12132970">
-   <g transform="translate(4.728,65.5645)">
+   <g transform="translate(9.28868,60.8328)">
     <g id="silkscreen">
      <text y="3.5324" text-anchor="middle" font-size="3.92489" id="label" x="5.88733" fill="black" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-width="0" font-family="OCRA">GND</text>
     </g>
@@ -964,7 +964,7 @@
    </g>
   </g>
   <g partID="12194052">
-   <g transform="translate(304.471,35.0761)">
+   <g transform="translate(304.471,35.9761)">
     <g id="copper1">
      <g id="copper0">
       <circle r="2.088" cy="5.04" id="connector0pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>
@@ -976,7 +976,7 @@
    </g>
   </g>
   <g partID="12206602">
-   <g transform="translate(2.0712,35.0761)">
+   <g transform="translate(2.0712,35.9761)">
     <g id="copper1">
      <g id="copper0">
       <circle r="2.088" cy="5.04" id="connector0pin" fill="white" cx="5.04" stroke="white" stroke-width="2.16"/>

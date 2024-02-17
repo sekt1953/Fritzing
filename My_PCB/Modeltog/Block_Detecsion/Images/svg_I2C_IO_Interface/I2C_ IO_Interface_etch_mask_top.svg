@@ -581,7 +581,7 @@
   </g>
  </g>
  <g partID="12194052">
-  <g transform="translate(304.471,35.0761)">
+  <g transform="translate(304.471,35.9761)">
    <g  id="copper1">
     <g  id="copper0">
      <circle r="2.088"  cy="5.04" id="connector0pin" fill="black" cx="5.04" stroke="black" stroke-width="2.16"/>
@@ -593,7 +593,7 @@
   </g>
  </g>
  <g partID="12206602">
-  <g transform="translate(2.0712,35.0761)">
+  <g transform="translate(2.0712,35.9761)">
    <g  id="copper1">
     <g  id="copper0">
      <circle r="2.088"  cy="5.04" id="connector0pin" fill="black" cx="5.04" stroke="black" stroke-width="2.16"/>
