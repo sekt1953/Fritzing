@@ -7,6 +7,12 @@
 |![schem](./Images/I2C_%20IO_Interface_schem.png)|
 |![PCB](./Images/I2C_%20IO_Interface_pcb.png)|
 
+||svg|
+|:---:|:---:|
+|copper_top|![schem](./Images/svg_I2C_IO_Interface/I2C_%20IO_Interface_etch_copper_top.svg)|
+|copper_bottom|![PCB](./Images/svg_I2C_IO_Interface/I2C_%20IO_Interface_etch_copper_bottom.svg)|
+
+
 * Fritzing files:
   * [I2C_IO_Interface.fzz](./I2C_%20IO_Interface.fzz)
   * [I2C_IO_Interface_bom.html](./I2C_%20IO_Interface_bom.html)
