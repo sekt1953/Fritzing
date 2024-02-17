@@ -2,19 +2,14 @@
 
 I'm quite happy with using Fritzing to make my printed circuit boards, it can do most of what I need.
 
-## List
+## PCB Board for modelrailway [OMJK1949](https://www.omjk.dk/)
 
-* [PCB for Home Assistant](./README.md#pcb-board-for-home-assistant)
-  * [PWM_Light_Controller](./README.md#pwm_light_controller)
-  * [IHC_Replacment](./README.md#ihc-replacement)
-* [PCB for Modelrailway](./README.md#pcb-board-for-modelrailway)
-  * [Block Detector](./Block_Detecsion/README.md)
-  * Old Stuff not in used
-    * [Occupied Sensor V1](./README.md#occupied_sensor-work-in-progress)
-    * [Occupied Hp Proto](./README.md#occupied-hp-proto)
-    * [Darlinton_Relay_and_Led_Driver](./README.md#leddriver-with-darlinton-array-work-in-progress)
+* Block detection:
+  * [I2C IO_Interface PCB](./Block_Detecsion/README.md#i2c-io_interface-pcb)
+  * [BlockDetector Width 6 Dioder and Optokobler](./Block_Detecsion/README.md#blockdetector-width-6-dioder-and-optokobler)
+  * [Prototype I2C IO_Interface](./Block_Detecsion/README.md#prototype-i2c-io_interface)
 
-
+<hr><hr>
 
 ## PCB Board for Home Assistant
 
@@ -38,20 +33,8 @@ The PWM Light Controller is a light controller based on an ESP32 and Power Mosfe
   * [IHC_Replacment_001.fzz](./IHC_Replacment/IHC_Replacment_001.fzz)
 * FreeCAD files :
   * [IHC_Replacment:](https://github.com/sekt1953/FreeCAD/blob/main/README.md#ihc-replacement)
-<hr>
 
-## PCB Board for modelrailway
-
-### [Block Detector Click here](./Block_Detecsion/README.md)
-
-[
-|Schematic / PCB|
-|:---:|
-|![schem](./Block_Detecsion/Images/I2C_%20IO_Interface_schem.png)|
-|![PCB](./Block_Detecsion/Images/I2C_%20IO_Interface_pcb.png)|
-](./Block_Detecsion/README.md#i2c-io_interface-pcb)
-
-## [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/) work in progress
+### [LedDriver with Darlinton array](./Darlinton_Relay_and_Led_Driver/) work in progress
 
 The printed circuit board is a driver card for leds and relays with an common Anode (+power).
 
@@ -64,3 +47,6 @@ The printed circuit board is a driver card for leds and relays with an common An
 |![copper_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_top.svg)|![copper_bottom](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_copper_bottom.svg)|![silk_top](./Darlinton_Relay_and_Led_Driver/svg/PCF8574_ULN2803_etch_silk_top.svg)|
 
 * [Fritzing file for download:](./Darlinton_Relay_and_Led_Driver/PCF8574_ULN2803.fzz)
+
+<hr>
+
