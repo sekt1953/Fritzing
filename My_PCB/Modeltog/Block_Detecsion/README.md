@@ -14,7 +14,6 @@
 |silk_top|![silk_top](./Images/svg_I2C_IO_Interface/I2C_%20IO_Interface_etch_silk_top.svg)|
 |silk_bottom|![silk_bottom](./Images/svg_I2C_IO_Interface/I2C_%20IO_Interface_etch_silk_bottom.svg)|
 
-
 * Fritzing files:
   * [I2C_IO_Interface.fzz](./I2C_%20IO_Interface.fzz)
   * [I2C_IO_Interface_bom.html](./I2C_%20IO_Interface_bom.html)
@@ -25,6 +24,13 @@
 |:---:|
 |![schem](./Images/BlockDetectormed_6_Dioder_Optokobler_schem.png)|
 |![PCB](./Images/BlockDetectormed_6_Dioder_Optokobler_pcb.png)|
+
+||svg|
+|:---:|:---:|
+|copper_top|![copper_top](./Images/svg_BlockDetectormed_6_Dioder_Optokobler/BlockDetectormed_6_Dioder_Optokobler_etch_copper_top.svg)|
+|copper_bottom|![copper_bottom](./Images/svg_BlockDetectormed_6_Dioder_Optokobler/BlockDetectormed_6_Dioder_Optokobler_etch_copper_bottom.svg)|
+|silk_top|![silk_top](./Images/svg_BlockDetectormed_6_Dioder_Optokobler/BlockDetectormed_6_Dioder_Optokobler_etch_silk_top.svg)|
+|silk_bottom|![silk_bottom](./Images/svg_BlockDetectormed_6_Dioder_Optokobler/BlockDetectormed_6_Dioder_Optokobler_etch_silk_bottom.svg)|
 
 * Fritzing files:
   * [BlockDetectormed_6_Dioder_Optokobler.fzz](./BlockDetectormed_6_Dioder_Optokobler.fzz)
