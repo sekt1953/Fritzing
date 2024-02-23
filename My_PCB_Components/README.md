@@ -25,6 +25,7 @@
   * [DS18B20 1-Wire Digital Thermometer](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
 * Resistor
   * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
+  * [9Pin sil Resistor 8x470Ω]()
 * [Stripboard](./README.md#stripboard)
   * [Stripboard_49x18](./README.md#stripboard_49x18)
   * [RadeMacher-typ922 & 941](./README.md#rademacher-typ922)
@@ -134,11 +135,21 @@ Maked by Werner Rothschopf (modified by vanepp Dec 2018), I removed 3v3 text fro
 
 ## Resistor [Sil Resistor 4x470Ω](./Resistor/)
 
+### [5 Pin sil Resistor 4x470Ω](./Resistor/)
+
 |Breadboard|PCB|Schematic|
 |:---:|:---:|:---:|
 |![bb](./Resistor/svg/Resistor_sil_5_bb.svg)|![pcb](./Resistor/svg/Resistor_sil_5_pcb.svg)|![schem](./Resistor/svg/Resistor_sil_5_schem.svg)|
 
 * find fzpz files here: [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
+
+### [9 Pin sil Resistor 8x470Ω](./Resistor/)
+
+|Breadboard|PCB|Schematic|
+|:---:|:---:|:---:|
+|![bb](./Resistor/svg/Resistor%20Array_8-pin.svg)|![pcb](./Resistor/svg/Resistor%20Array_8-pin_pcb.svg)|![schem](./Resistor/svg/Resistor%20Array_8-pin_schem.svg)|
+
+* find fzpz files here: [) Pin sil Resistor 8x470Ω](./Resistor/8%20Resistor%20Network.fzpz)
 
 ## Stripboard
 

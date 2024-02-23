@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.9in' height='0.14in' viewBox='0 0 64.8 10.08' >
+<g partID='12278170'><g transform="matrix(1, 0, 0, 1, 0, -14.04)">
+<g id="breadboard">
+<rect width="64.8" id="middle" height="7.2" y="14.4" fill="#303030" x="0"/>
+<rect width="64.8" id="top" height="1.7712" y="14.16" fill="#3d3d3d" x="0"/>
+<rect width="64.8" id="bottom" height="1.7712" y="19.8288" fill="#000000" x="0"/>
+<polygon points="64.224,16.2,64.224,19.8,64.8,21.6,64.8,14.4" id="right" fill="#141414"/>
+<polygon points="0.576,16.2,0.576,19.8,0,21.6,0,14.4" id="left" fill="#1f1f1f"/>
+<text stroke="none" font-size="5.04" text-anchor="middle" id="label" font-family="OCRA" y="19.08" x="32.4" fill="#e6e6e6">8 Resistor Network</text>
+<rect width="2.16" id="connector0pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="2.52"/>
+<g width="2.16" id="connector0terminal" height="2.16" y="21.6" fill="#8c8c8c" x="2.52"/>
+<polygon points="2.52,22.0752,4.68,22.0752,6.12,21.4128,6.12,20.6352,2.52,20.6352" id="polygon1" fill="#8c8c8c"/>
+<rect width="2.16" id="connector1pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="9.72"/>
+<g width="2.16" id="connector1terminal" height="2.16" y="21.6" fill="#8c8c8c" x="9.72"/>
+<polygon points="8.28,21.4128,9.72,22.0752,11.88,22.0752,13.32,21.4128,13.32,20.6352,8.28,20.6352" id="polygon2" fill="#8c8c8c"/>
+<rect width="2.16" id="connector2pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="16.92"/>
+<g width="2.16" id="connector2terminal" height="2.16" y="21.6" fill="#8c8c8c" x="16.92"/>
+<polygon points="15.48,21.4128,16.92,22.0752,19.08,22.0752,20.52,21.4128,20.52,20.6352,15.48,20.6352" id="polygon3" fill="#8c8c8c"/>
+<rect width="2.16" id="connector3pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="24.12"/>
+<g width="2.16" id="connector3terminal" height="2.16" y="21.6" fill="#8c8c8c" x="24.12"/>
+<polygon points="22.68,21.4128,24.12,22.0752,26.28,22.0752,27.72,21.4128,27.72,20.6352,22.68,20.6352" id="polygon4" fill="#8c8c8c"/>
+<rect width="2.16" id="connector4pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="31.32"/>
+<g width="2.16" id="connector4terminal" height="2.16" y="21.6" fill="#8c8c8c" x="31.32"/>
+<polygon points="29.88,21.4128,31.32,22.0752,33.48,22.0752,34.92,21.4128,34.92,20.6352,29.88,20.6352" id="polygon5" fill="#8c8c8c"/>
+<rect width="2.16" id="connector5pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="38.52"/>
+<g width="2.16" id="connector5terminal" height="2.16" y="21.6" fill="#8c8c8c" x="38.52"/>
+<polygon points="37.08,21.4128,38.52,22.0752,40.68,22.0752,42.12,21.4128,42.12,20.6352,37.08,20.6352" id="polygon6" fill="#8c8c8c"/>
+<rect width="2.16" id="connector6pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="45.72"/>
+<g width="2.16" id="connector6terminal" height="2.16" y="21.6" fill="#8c8c8c" x="45.72"/>
+<polygon points="44.28,21.4128,45.72,22.0752,47.88,22.0752,49.32,21.4128,49.32,20.6352,44.28,20.6352" id="polygon8" fill="#8c8c8c"/>
+<rect width="2.16" id="connector7pin" height="3.1248" y="20.6352" fill="#8c8c8c" x="52.92"/>
+<g width="2.16" id="connector7terminal" height="2.16" y="21.6" fill="#8c8c8c" x="52.92"/>
+<polygon points="51.48,21.4128,52.92,22.0752,55.08,22.0752,56.52,21.4128,56.52,20.6352,51.48,20.6352" id="polygon34" fill="#8c8c8c"/>
+<rect width="2.16" id="connector8pin" height="3.096" y="20.664" fill="#8c8c8c" x="60.12"/>
+<g width="2.16" id="connector8terminal" height="2.16" y="21.6" fill="#8c8c8c" x="60.12"/>
+<polygon points="58.68,21.4128,60.12,22.0752,62.28,22.0752,62.28,20.6352,58.68,20.6352" id="polygon9" fill="#8c8c8c"/>
+</g>
+</g>
+</g></svg>
