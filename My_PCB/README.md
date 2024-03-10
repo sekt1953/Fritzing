@@ -11,8 +11,7 @@ I'm quite happy with using Fritzing to make my printed circuit boards, it can do
   * [BlockDetector Width 6 Dioder and Optokobler](./Modeltog/Block_Detecsion/README.md#blockdetector-width-6-dioder-and-optokobler)
   * [Prototype I2C IO_Interface](./Modeltog/Block_Detecsion/README.md#prototype-i2c-io_interface)
 * Sporskifte Driver
-  * ![TB6612FNG Prototype](./Modeltog/Sporskifte/TB6612FNG_00_bb.png)
-    * [Fritzing file](./Modeltog/Sporskifte/TB6612FNG_00.fzz)
+  * [TB6612FNG Prototype](./Modeltog/Sporskifte/Sporskifte.md)
 * LED Strip Driver
   * [LedStripDriver.fzz](./Modeltog/LedStripDriver/README.md)  
 
