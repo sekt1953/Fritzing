@@ -1,7 +1,5 @@
 # I2C IO_Interface
 
-## I2C IO_Interface
-
 |Schematic / PCB|
 |:---:|
 |![schem](./Images/I2C_IO_Interface_schem.png)|
