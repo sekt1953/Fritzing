@@ -4,8 +4,8 @@
 
 |Schematic / Breadboard|
 |:---:|
-|![schem](./Image/ESP32_30Pin_I2C_Board_schem.png)|
-|![Breadboard](./Image/ESP32_30Pin_I2C_Board_bb.png)|
+|![schem](./Image/ESP32_30Pin_I2C_Board_a_schem.png)|
+|![Breadboard](./Image/ESP32_30Pin_I2C_Board_a_bb.png)|
 
 * Fritzing files:
   * [ESP32_ESP32S_30Pin_Expansion_Board.fzz](./ESP32_ESP32S_30Pin_Expansion_Board.fzz)
