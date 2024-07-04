@@ -25,4 +25,4 @@
 |![Breadboard](./TB6612FNG_04_bb.png)|
 
 * Fritzing files:
-  * [TB6612FNG_01.fzz](./TB6612FNG_04.fzz)
+  * [TB6612FNG_04.fzz](./TB6612FNG_04.fzz)
