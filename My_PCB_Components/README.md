@@ -19,10 +19,13 @@
 * CPU
   * [Olimex-ESP32-POE 20pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_20pins/ESP32-PoE_20.fzpz)
   * [Olimex-ESP32-POE 32pins](./Olimex-ESP32-POE/Olimex-ESP32-PoE_32pins/Olimex-ESP32-PoE%2032pins.fzpz)
+  * [seeed-xiao-esp32-s3](./ESP32-S3%20/seeed-xiao-esp32-smd.fzpz)
 * I/O interface  
   * [PFC8574N 8-Bit I/O Expander for I2C Bus](./PFC8574N/)
   * [ULN2803A Eight Darlington arrays](./ULN2803A/)
   * [DS18B20 1-Wire Digital Thermometer](./DS18B20/DS18B20%201-Wire%20Temperature%20Sensor.fzpz)
+* LAN interface
+  * [W5500](./W5500/w5500.fzpz)
 * Resistor
   * [Sil Resistor 4x470Ω](./Resistor/Resistor%20SIP%204x470Ω%20-%205%20pins.fzpz)
   * [9Pin sil Resistor 8x470Ω]()
